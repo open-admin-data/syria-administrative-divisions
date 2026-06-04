@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY060001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البهلولية",
+      "en": "Bahlolieh",
+      "slug": "bahlolieh-sy060001"
+    },
+    "code": {
+      "id": "SY060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.614",
+      "lon": "35.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين البيضا",
+      "en": "Ein El-Bayda",
+      "slug": "ein-el-bayda-sy060003"
+    },
+    "code": {
+      "id": "SY060003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.66",
+      "lon": "35.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060006",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "هنادي",
+      "en": "Hanadi",
+      "slug": "hanadi-sy060006"
+    },
+    "code": {
+      "id": "SY060006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.515",
+      "lon": "35.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060005",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كسب",
+      "en": "Kasab",
+      "slug": "kasab-sy060005"
+    },
+    "code": {
+      "id": "SY060005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.883",
+      "lon": "35.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز اللاذقية",
+      "en": "Lattakia",
+      "slug": "lattakia-sy060000"
+    },
+    "code": {
+      "id": "SY060000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.564",
+      "lon": "35.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060004",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قسطل معاف",
+      "en": "Qastal Maaf",
+      "slug": "qastal-maaf-sy060004"
+    },
+    "code": {
+      "id": "SY060004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.8",
+      "lon": "35.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ربيعة",
+      "en": "Rabee'a",
+      "slug": "rabeea-sy060002"
+    },
+    "code": {
+      "id": "SY060002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0600",
+      "level": 2,
+      "name": {
+        "local": "مركز اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy0600"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0600",
+        "level": 2,
+        "name": {
+          "local": "مركز اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy0600"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.773",
+      "lon": "36.068"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

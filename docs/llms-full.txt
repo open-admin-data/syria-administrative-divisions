@@ -1,0 +1,39 @@
+# Syria Administrative Divisions — Full Reference
+
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Per-Governorate Data Files
+
+- [Al-Hasakeh](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/al-hasakeh-sy08.txt) — 4 districts, 16 sub-districts
+- [Aleppo](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/aleppo-sy02.txt) — 8 districts, 40 sub-districts
+- [Ar-Raqqa](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/ar-raqqa-sy11.txt) — 3 districts, 10 sub-districts
+- [As-Sweida](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/as-sweida-sy13.txt) — 3 districts, 12 sub-districts
+- [Damascus](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/damascus-sy01.txt) — 1 districts, 1 sub-districts
+- [Dar&#39;a](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/dara-sy12.txt) — 3 districts, 17 sub-districts
+- [Deir-ez-Zor](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/deir-ez-zor-sy09.txt) — 3 districts, 14 sub-districts
+- [Hama](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/hama-sy05.txt) — 5 districts, 22 sub-districts
+- [Homs](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/homs-sy04.txt) — 6 districts, 23 sub-districts
+- [Idleb](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/idleb-sy07.txt) — 5 districts, 26 sub-districts
+- [Lattakia](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/lattakia-sy06.txt) — 4 districts, 22 sub-districts
+- [Quneitra](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/quneitra-sy14.txt) — 2 districts, 6 sub-districts
+- [Rural Damascus](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/rural-damascus-sy03.txt) — 9 districts, 36 sub-districts
+- [Tartous](https://github.com/open-admin-data/syria-administrative-divisions/blob/main/docs/llms-full/tartous-sy10.txt) — 6 districts, 27 sub-districts
+
+## Summary
+
+| Governorate | Districts | Sub-districts | 
+|---|---|---|
+| Al-Hasakeh | 4 | 16 | 
+| Aleppo | 8 | 40 | 
+| Ar-Raqqa | 3 | 10 | 
+| As-Sweida | 3 | 12 | 
+| Damascus | 1 | 1 | 
+| Dar&#39;a | 3 | 17 | 
+| Deir-ez-Zor | 3 | 14 | 
+| Hama | 5 | 22 | 
+| Homs | 6 | 23 | 
+| Idleb | 5 | 26 | 
+| Lattakia | 4 | 22 | 
+| Quneitra | 2 | 6 | 
+| Rural Damascus | 9 | 36 | 
+| Tartous | 6 | 27 | 

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY100200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز بانياس",
+      "en": "Banyas",
+      "slug": "banyas-sy100200"
+    },
+    "code": {
+      "id": "SY100200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1002",
+      "level": 2,
+      "name": {
+        "local": "بانياس",
+        "en": "Banyas",
+        "slug": "banyas-sy1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1002",
+        "level": 2,
+        "name": {
+          "local": "بانياس",
+          "en": "Banyas",
+          "slug": "banyas-sy1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.18",
+      "lon": "36.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الروضة",
+      "en": "Rawda",
+      "slug": "rawda-sy100201"
+    },
+    "code": {
+      "id": "SY100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1002",
+      "level": 2,
+      "name": {
+        "local": "بانياس",
+        "en": "Banyas",
+        "slug": "banyas-sy1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1002",
+        "level": 2,
+        "name": {
+          "local": "بانياس",
+          "en": "Banyas",
+          "slug": "banyas-sy1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.065",
+      "lon": "35.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100206",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تالين",
+      "en": "Taleen",
+      "slug": "taleen-sy100206"
+    },
+    "code": {
+      "id": "SY100206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1002",
+      "level": 2,
+      "name": {
+        "local": "بانياس",
+        "en": "Banyas",
+        "slug": "banyas-sy1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1002",
+        "level": 2,
+        "name": {
+          "local": "بانياس",
+          "en": "Banyas",
+          "slug": "banyas-sy1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.146",
+      "lon": "36.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

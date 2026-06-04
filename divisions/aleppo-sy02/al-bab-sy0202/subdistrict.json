@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY020206",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عريمة",
+      "en": "A'rima",
+      "slug": "arima-sy020206"
+    },
+    "code": {
+      "id": "SY020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.444",
+      "lon": "37.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الباب",
+      "en": "Al Bab",
+      "slug": "al-bab-sy020200"
+    },
+    "code": {
+      "id": "SY020200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.391",
+      "lon": "37.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الراعي",
+      "en": "Ar-Ra'ee",
+      "slug": "ar-raee-sy020203"
+    },
+    "code": {
+      "id": "SY020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.626",
+      "lon": "37.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دير حافر",
+      "en": "Dayr Hafir",
+      "slug": "dayr-hafir-sy020202"
+    },
+    "code": {
+      "id": "SY020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.128",
+      "lon": "37.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020204",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كويرس شرقي",
+      "en": "Eastern Kwaires",
+      "slug": "eastern-kwaires-sy020204"
+    },
+    "code": {
+      "id": "SY020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.155",
+      "lon": "37.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020205",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "رسم حرمل الامام",
+      "en": "Rasm Haram El-Imam",
+      "slug": "rasm-haram-el-imam-sy020205"
+    },
+    "code": {
+      "id": "SY020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.216",
+      "lon": "37.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تادف",
+      "en": "Tadaf",
+      "slug": "tadaf-sy020201"
+    },
+    "code": {
+      "id": "SY020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0202",
+      "level": 2,
+      "name": {
+        "local": "الباب",
+        "en": "Al Bab",
+        "slug": "al-bab-sy0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0202",
+        "level": 2,
+        "name": {
+          "local": "الباب",
+          "en": "Al Bab",
+          "slug": "al-bab-sy0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.311",
+      "lon": "37.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

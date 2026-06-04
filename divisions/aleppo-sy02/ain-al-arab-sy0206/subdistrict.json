@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY020600",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز عين العرب",
+      "en": "Ain al Arab",
+      "slug": "ain-al-arab-sy020600"
+    },
+    "code": {
+      "id": "SY020600",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0206",
+      "level": 2,
+      "name": {
+        "local": "عين العرب",
+        "en": "Ain Al Arab",
+        "slug": "ain-al-arab-sy0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0206",
+        "level": 2,
+        "name": {
+          "local": "عين العرب",
+          "en": "Ain Al Arab",
+          "slug": "ain-al-arab-sy0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.797",
+      "lon": "38.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020601",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شيوخ تحتاني",
+      "en": "Lower Shyookh",
+      "slug": "lower-shyookh-sy020601"
+    },
+    "code": {
+      "id": "SY020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0206",
+      "level": 2,
+      "name": {
+        "local": "عين العرب",
+        "en": "Ain Al Arab",
+        "slug": "ain-al-arab-sy0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0206",
+        "level": 2,
+        "name": {
+          "local": "عين العرب",
+          "en": "Ain Al Arab",
+          "slug": "ain-al-arab-sy0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.77",
+      "lon": "38.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020602",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صرين",
+      "en": "Sarin",
+      "slug": "sarin-sy020602"
+    },
+    "code": {
+      "id": "SY020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0206",
+      "level": 2,
+      "name": {
+        "local": "عين العرب",
+        "en": "Ain Al Arab",
+        "slug": "ain-al-arab-sy0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0206",
+        "level": 2,
+        "name": {
+          "local": "عين العرب",
+          "en": "Ain Al Arab",
+          "slug": "ain-al-arab-sy0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.442",
+      "lon": "38.449"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

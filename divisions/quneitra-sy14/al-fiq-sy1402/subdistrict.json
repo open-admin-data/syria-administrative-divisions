@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY140201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البطيحة",
+      "en": "Al-Butayhah",
+      "slug": "al-butayhah-sy140201"
+    },
+    "code": {
+      "id": "SY140201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1402",
+      "level": 2,
+      "name": {
+        "local": "فيق",
+        "en": "Al Fiq",
+        "slug": "al-fiq-sy1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      },
+      {
+        "id": "SY1402",
+        "level": 2,
+        "name": {
+          "local": "فيق",
+          "en": "Al Fiq",
+          "slug": "al-fiq-sy1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.887",
+      "lon": "35.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY140200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز فيق",
+      "en": "Fiq",
+      "slug": "fiq-sy140200"
+    },
+    "code": {
+      "id": "SY140200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1402",
+      "level": 2,
+      "name": {
+        "local": "فيق",
+        "en": "Al Fiq",
+        "slug": "al-fiq-sy1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      },
+      {
+        "id": "SY1402",
+        "level": 2,
+        "name": {
+          "local": "فيق",
+          "en": "Al Fiq",
+          "slug": "al-fiq-sy1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.819",
+      "lon": "35.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

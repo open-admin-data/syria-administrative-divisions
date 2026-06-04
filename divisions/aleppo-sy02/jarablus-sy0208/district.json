@@ -1,0 +1,47 @@
+{
+  "id": "SY0208",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "جرابلس",
+    "en": "Jarablus",
+    "slug": "jarablus-sy0208"
+  },
+  "code": {
+    "id": "SY0208",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY02",
+    "level": 1,
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.678",
+    "lon": "37.862"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY080202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عامودا",
+      "en": "Amuda",
+      "slug": "amuda-sy080202"
+    },
+    "code": {
+      "id": "SY080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0802",
+      "level": 2,
+      "name": {
+        "local": "القامشلي",
+        "en": "Quamishli",
+        "slug": "quamishli-sy0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0802",
+        "level": 2,
+        "name": {
+          "local": "القامشلي",
+          "en": "Quamishli",
+          "slug": "quamishli-sy0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.946",
+      "lon": "40.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قحطانية",
+      "en": "Qahtaniyyeh",
+      "slug": "qahtaniyyeh-sy080203"
+    },
+    "code": {
+      "id": "SY080203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0802",
+      "level": 2,
+      "name": {
+        "local": "القامشلي",
+        "en": "Quamishli",
+        "slug": "quamishli-sy0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0802",
+        "level": 2,
+        "name": {
+          "local": "القامشلي",
+          "en": "Quamishli",
+          "slug": "quamishli-sy0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.929",
+      "lon": "41.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز القامشلي",
+      "en": "Quamishli",
+      "slug": "quamishli-sy080200"
+    },
+    "code": {
+      "id": "SY080200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0802",
+      "level": 2,
+      "name": {
+        "local": "القامشلي",
+        "en": "Quamishli",
+        "slug": "quamishli-sy0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0802",
+        "level": 2,
+        "name": {
+          "local": "القامشلي",
+          "en": "Quamishli",
+          "slug": "quamishli-sy0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.971",
+      "lon": "41.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تل حميس",
+      "en": "Tal Hmis",
+      "slug": "tal-hmis-sy080201"
+    },
+    "code": {
+      "id": "SY080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0802",
+      "level": 2,
+      "name": {
+        "local": "القامشلي",
+        "en": "Quamishli",
+        "slug": "quamishli-sy0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0802",
+        "level": 2,
+        "name": {
+          "local": "القامشلي",
+          "en": "Quamishli",
+          "slug": "quamishli-sy0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.713",
+      "lon": "41.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

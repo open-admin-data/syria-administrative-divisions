@@ -1,0 +1,47 @@
+{
+  "id": "SY1400",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مركز القنيطرة",
+    "en": "Quneitra",
+    "slug": "quneitra-sy1400"
+  },
+  "code": {
+    "id": "SY1400",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY14",
+    "level": 1,
+    "name": {
+      "local": "القنيطرة",
+      "en": "Quneitra",
+      "slug": "quneitra-sy14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY14",
+      "level": 1,
+      "name": {
+        "local": "القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.118",
+    "lon": "35.82"
+  },
+  "metadata": {},
+  "source": {}
+}

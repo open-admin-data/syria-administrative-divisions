@@ -1,0 +1,47 @@
+{
+  "id": "SY0404",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "الرستن",
+    "en": "Ar-Rastan",
+    "slug": "ar-rastan-sy0404"
+  },
+  "code": {
+    "id": "SY0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY04",
+    "level": 1,
+    "name": {
+      "local": "حمص",
+      "en": "Homs",
+      "slug": "homs-sy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.897",
+    "lon": "36.719"
+  },
+  "metadata": {},
+  "source": {}
+}

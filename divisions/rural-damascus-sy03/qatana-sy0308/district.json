@@ -1,0 +1,47 @@
+{
+  "id": "SY0308",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "قطنا",
+    "en": "Qatana",
+    "slug": "qatana-sy0308"
+  },
+  "code": {
+    "id": "SY0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY03",
+    "level": 1,
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.361",
+    "lon": "35.974"
+  },
+  "metadata": {},
+  "source": {}
+}

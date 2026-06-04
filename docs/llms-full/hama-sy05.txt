@@ -1,0 +1,122 @@
+# Hama — Syria Administrative Divisions
+
+> 5 districts, 22 sub-districts
+> Code: SY05
+> Coordinates: 35.31, 37.343
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### السلمية (As-Salamiyeh)
+
+Code: SY0503, Coordinates: 35.174, 37.639
+Sub-districts: 5
+
+#### السعن (As-Saan)
+
+Code: SY050302, Coordinates: 35.323, 37.745
+
+#### مركز السلمية (As-Salamiyeh)
+
+Code: SY050300, Coordinates: 35.089, 37.015
+
+#### بري شرقي (Eastern Bari)
+
+Code: SY050301, Coordinates: 34.998, 37.268
+
+#### عقيربات (Oqeirbat)
+
+Code: SY050304, Coordinates: 35.139, 37.842
+
+#### صبورة (Saboura)
+
+Code: SY050303, Coordinates: 35.166, 37.233
+
+### السقيلبية (As-Suqaylabiyah)
+
+Code: SY0502, Coordinates: 35.476, 36.343
+Sub-districts: 5
+
+#### مركز السقيلبية (As-Suqaylabiyah)
+
+Code: SY050200, Coordinates: 35.376, 36.35
+
+#### قلعة المضيق (Madiq Castle)
+
+Code: SY050204, Coordinates: 35.484, 36.389
+
+#### شطحة (Shat-ha)
+
+Code: SY050203, Coordinates: 35.553, 36.264
+
+#### تلسلحب (Tell Salhib)
+
+Code: SY050201, Coordinates: 35.266, 36.324
+
+#### الزيارة (Ziyara)
+
+Code: SY050202, Coordinates: 35.66, 36.319
+
+### مركز حماة (Hama)
+
+Code: SY0501, Coordinates: 35.226, 36.769
+Sub-districts: 4
+
+#### مركز حماة (Hama)
+
+Code: SY050100, Coordinates: 35.117, 36.703
+
+#### الحمراء (Hamra)
+
+Code: SY050103, Coordinates: 35.394, 37.169
+
+#### حربنفسه (Harbanifse)
+
+Code: SY050102, Coordinates: 34.978, 36.588
+
+#### صوران (Suran)
+
+Code: SY050101, Coordinates: 35.299, 36.749
+
+### مصياف (Masyaf)
+
+Code: SY0504, Coordinates: 35.05, 36.356
+Sub-districts: 5
+
+#### عين حلاقيم (Ein Halaqim)
+
+Code: SY050403, Coordinates: 34.925, 36.31
+
+#### جب رملة (Jeb Ramleh)
+
+Code: SY050401, Coordinates: 35.189, 36.405
+
+#### مركز مصياف (Masyaf)
+
+Code: SY050400, Coordinates: 35.081, 36.394
+
+#### عوج (Oj)
+
+Code: SY050402, Coordinates: 34.913, 36.409
+
+#### وادي العيون (Wadi El-oyoun)
+
+Code: SY050404, Coordinates: 34.988, 36.23
+
+### محردة (Muhradah)
+
+Code: SY0505, Coordinates: 35.29, 36.548
+Sub-districts: 3
+
+#### كفرزيتا (Kafr Zeita)
+
+Code: SY050501, Coordinates: 35.351, 36.608
+
+#### كرناز (Karnaz)
+
+Code: SY050502, Coordinates: 35.357, 36.495
+
+#### مركز محردة (Muhradah)
+
+Code: SY050500, Coordinates: 35.242, 36.539
+

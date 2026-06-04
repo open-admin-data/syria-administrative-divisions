@@ -1,0 +1,47 @@
+{
+  "id": "SY1200",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "درعا",
+    "en": "Dar'a",
+    "slug": "dara-sy1200"
+  },
+  "code": {
+    "id": "SY1200",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY12",
+    "level": 1,
+    "name": {
+      "local": "درعا",
+      "en": "Dar'a",
+      "slug": "dara-sy12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.621",
+    "lon": "36.224"
+  },
+  "metadata": {},
+  "source": {}
+}

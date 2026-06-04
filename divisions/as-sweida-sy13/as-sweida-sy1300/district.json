@@ -1,0 +1,47 @@
+{
+  "id": "SY1300",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مركز السويداء",
+    "en": "As-Sweida",
+    "slug": "as-sweida-sy1300"
+  },
+  "code": {
+    "id": "SY1300",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY13",
+    "level": 1,
+    "name": {
+      "local": "السويداء",
+      "en": "As-Sweida",
+      "slug": "as-sweida-sy13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.771",
+    "lon": "36.888"
+  },
+  "metadata": {},
+  "source": {}
+}

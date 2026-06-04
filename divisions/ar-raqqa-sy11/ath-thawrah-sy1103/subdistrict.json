@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY110300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الثورة",
+      "en": "Al-Thawrah",
+      "slug": "al-thawrah-sy110300"
+    },
+    "code": {
+      "id": "SY110300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1103",
+      "level": 2,
+      "name": {
+        "local": "الثورة",
+        "en": "Ath-Thawrah",
+        "slug": "ath-thawrah-sy1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1103",
+        "level": 2,
+        "name": {
+          "local": "الثورة",
+          "en": "Ath-Thawrah",
+          "slug": "ath-thawrah-sy1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.826",
+      "lon": "38.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الجرنية",
+      "en": "Jurneyyeh",
+      "slug": "jurneyyeh-sy110302"
+    },
+    "code": {
+      "id": "SY110302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1103",
+      "level": 2,
+      "name": {
+        "local": "الثورة",
+        "en": "Ath-Thawrah",
+        "slug": "ath-thawrah-sy1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1103",
+        "level": 2,
+        "name": {
+          "local": "الثورة",
+          "en": "Ath-Thawrah",
+          "slug": "ath-thawrah-sy1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.076",
+      "lon": "38.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المنصورة",
+      "en": "Mansura",
+      "slug": "mansura-sy110301"
+    },
+    "code": {
+      "id": "SY110301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1103",
+      "level": 2,
+      "name": {
+        "local": "الثورة",
+        "en": "Ath-Thawrah",
+        "slug": "ath-thawrah-sy1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1103",
+        "level": 2,
+        "name": {
+          "local": "الثورة",
+          "en": "Ath-Thawrah",
+          "slug": "ath-thawrah-sy1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.642",
+      "lon": "38.595"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

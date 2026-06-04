@@ -1,0 +1,47 @@
+{
+  "id": "SY0202",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "الباب",
+    "en": "Al Bab",
+    "slug": "al-bab-sy0202"
+  },
+  "code": {
+    "id": "SY0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY02",
+    "level": 1,
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.39",
+    "lon": "37.544"
+  },
+  "metadata": {},
+  "source": {}
+}

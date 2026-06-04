@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SY060205",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بيت ياشوط",
+      "en": "Beit Yashout",
+      "slug": "beit-yashout-sy060205"
+    },
+    "code": {
+      "id": "SY060205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0602",
+      "level": 2,
+      "name": {
+        "local": "جبلة",
+        "en": "Jablah",
+        "slug": "jablah-sy0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0602",
+        "level": 2,
+        "name": {
+          "local": "جبلة",
+          "en": "Jablah",
+          "slug": "jablah-sy0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.323",
+      "lon": "36.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060204",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دالية",
+      "en": "Dalyeh",
+      "slug": "dalyeh-sy060204"
+    },
+    "code": {
+      "id": "SY060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0602",
+      "level": 2,
+      "name": {
+        "local": "جبلة",
+        "en": "Jablah",
+        "slug": "jablah-sy0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0602",
+        "level": 2,
+        "name": {
+          "local": "جبلة",
+          "en": "Jablah",
+          "slug": "jablah-sy0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.277",
+      "lon": "36.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين الشرقية",
+      "en": "Ein Elsharqiyeh",
+      "slug": "ein-elsharqiyeh-sy060201"
+    },
+    "code": {
+      "id": "SY060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0602",
+      "level": 2,
+      "name": {
+        "local": "جبلة",
+        "en": "Jablah",
+        "slug": "jablah-sy0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0602",
+        "level": 2,
+        "name": {
+          "local": "جبلة",
+          "en": "Jablah",
+          "slug": "jablah-sy0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.349",
+      "lon": "36.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين شقاق",
+      "en": "Ein Shaqaq",
+      "slug": "ein-shaqaq-sy060203"
+    },
+    "code": {
+      "id": "SY060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0602",
+      "level": 2,
+      "name": {
+        "local": "جبلة",
+        "en": "Jablah",
+        "slug": "jablah-sy0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0602",
+        "level": 2,
+        "name": {
+          "local": "جبلة",
+          "en": "Jablah",
+          "slug": "jablah-sy0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.394",
+      "lon": "36.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز جبلة",
+      "en": "Jablah",
+      "slug": "jablah-sy060200"
+    },
+    "code": {
+      "id": "SY060200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0602",
+      "level": 2,
+      "name": {
+        "local": "جبلة",
+        "en": "Jablah",
+        "slug": "jablah-sy0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0602",
+        "level": 2,
+        "name": {
+          "local": "جبلة",
+          "en": "Jablah",
+          "slug": "jablah-sy0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.369",
+      "lon": "35.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القطيلبية",
+      "en": "Qteilbiyyeh",
+      "slug": "qteilbiyyeh-sy060202"
+    },
+    "code": {
+      "id": "SY060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0602",
+      "level": 2,
+      "name": {
+        "local": "جبلة",
+        "en": "Jablah",
+        "slug": "jablah-sy0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0602",
+        "level": 2,
+        "name": {
+          "local": "جبلة",
+          "en": "Jablah",
+          "slug": "jablah-sy0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.273",
+      "lon": "36.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

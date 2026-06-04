@@ -1,0 +1,47 @@
+{
+  "id": "SY0505",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "محردة",
+    "en": "Muhradah",
+    "slug": "muhradah-sy0505"
+  },
+  "code": {
+    "id": "SY0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY05",
+    "level": 1,
+    "name": {
+      "local": "حماة",
+      "en": "Hama",
+      "slug": "hama-sy05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.29",
+    "lon": "36.548"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "SY0703",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "حارم",
+    "en": "Harim",
+    "slug": "harim-sy0703"
+  },
+  "code": {
+    "id": "SY0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY07",
+    "level": 1,
+    "name": {
+      "local": "إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.123",
+    "lon": "36.521"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY030801",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بيت جن",
+      "en": "Bait Jan",
+      "slug": "bait-jan-sy030801"
+    },
+    "code": {
+      "id": "SY030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0308",
+      "level": 2,
+      "name": {
+        "local": "قطنا",
+        "en": "Qatana",
+        "slug": "qatana-sy0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0308",
+        "level": 2,
+        "name": {
+          "local": "قطنا",
+          "en": "Qatana",
+          "slug": "qatana-sy0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.329",
+      "lon": "35.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030800",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز قطنا",
+      "en": "Qatana",
+      "slug": "qatana-sy030800"
+    },
+    "code": {
+      "id": "SY030800",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0308",
+      "level": 2,
+      "name": {
+        "local": "قطنا",
+        "en": "Qatana",
+        "slug": "qatana-sy0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0308",
+        "level": 2,
+        "name": {
+          "local": "قطنا",
+          "en": "Qatana",
+          "slug": "qatana-sy0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.45",
+      "lon": "36.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030802",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سعسع",
+      "en": "Sa'sa'",
+      "slug": "sasa-sy030802"
+    },
+    "code": {
+      "id": "SY030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0308",
+      "level": 2,
+      "name": {
+        "local": "قطنا",
+        "en": "Qatana",
+        "slug": "qatana-sy0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0308",
+        "level": 2,
+        "name": {
+          "local": "قطنا",
+          "en": "Qatana",
+          "slug": "qatana-sy0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.27",
+      "lon": "36.055"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

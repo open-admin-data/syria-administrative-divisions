@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SY020400",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز اعزاز",
+      "en": "A'zaz",
+      "slug": "azaz-sy020400"
+    },
+    "code": {
+      "id": "SY020400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0204",
+      "level": 2,
+      "name": {
+        "local": "اعزاز",
+        "en": "A'zaz",
+        "slug": "azaz-sy0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0204",
+        "level": 2,
+        "name": {
+          "local": "اعزاز",
+          "en": "A'zaz",
+          "slug": "azaz-sy0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.584",
+      "lon": "37.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020401",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "اخترين",
+      "en": "Aghtrin",
+      "slug": "aghtrin-sy020401"
+    },
+    "code": {
+      "id": "SY020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0204",
+      "level": 2,
+      "name": {
+        "local": "اعزاز",
+        "en": "A'zaz",
+        "slug": "azaz-sy0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0204",
+        "level": 2,
+        "name": {
+          "local": "اعزاز",
+          "en": "A'zaz",
+          "slug": "azaz-sy0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.514",
+      "lon": "37.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020403",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مارع",
+      "en": "Mare'",
+      "slug": "mare-sy020403"
+    },
+    "code": {
+      "id": "SY020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0204",
+      "level": 2,
+      "name": {
+        "local": "اعزاز",
+        "en": "A'zaz",
+        "slug": "azaz-sy0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0204",
+        "level": 2,
+        "name": {
+          "local": "اعزاز",
+          "en": "A'zaz",
+          "slug": "azaz-sy0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.443",
+      "lon": "37.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020404",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "نبل",
+      "en": "Nabul",
+      "slug": "nabul-sy020404"
+    },
+    "code": {
+      "id": "SY020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0204",
+      "level": 2,
+      "name": {
+        "local": "اعزاز",
+        "en": "A'zaz",
+        "slug": "azaz-sy0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0204",
+        "level": 2,
+        "name": {
+          "local": "اعزاز",
+          "en": "A'zaz",
+          "slug": "azaz-sy0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.351",
+      "lon": "37.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020405",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صوران",
+      "en": "Suran",
+      "slug": "suran-sy020405"
+    },
+    "code": {
+      "id": "SY020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0204",
+      "level": 2,
+      "name": {
+        "local": "اعزاز",
+        "en": "A'zaz",
+        "slug": "azaz-sy0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0204",
+        "level": 2,
+        "name": {
+          "local": "اعزاز",
+          "en": "A'zaz",
+          "slug": "azaz-sy0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.593",
+      "lon": "37.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020402",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تل رفعت",
+      "en": "Tall Refaat",
+      "slug": "tall-refaat-sy020402"
+    },
+    "code": {
+      "id": "SY020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0204",
+      "level": 2,
+      "name": {
+        "local": "اعزاز",
+        "en": "A'zaz",
+        "slug": "azaz-sy0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0204",
+        "level": 2,
+        "name": {
+          "local": "اعزاز",
+          "en": "A'zaz",
+          "slug": "azaz-sy0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.438",
+      "lon": "37.087"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

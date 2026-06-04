@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SY060300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركزالحفة",
+      "en": "Al-Haffa",
+      "slug": "al-haffa-sy060300"
+    },
+    "code": {
+      "id": "SY060300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0603",
+      "level": 2,
+      "name": {
+        "local": "الحفة",
+        "en": "Al-Haffa",
+        "slug": "al-haffa-sy0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0603",
+        "level": 2,
+        "name": {
+          "local": "الحفة",
+          "en": "Al-Haffa",
+          "slug": "al-haffa-sy0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.596",
+      "lon": "36.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين التينة",
+      "en": "Ein Et-teeneh",
+      "slug": "ein-et-teeneh-sy060302"
+    },
+    "code": {
+      "id": "SY060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0603",
+      "level": 2,
+      "name": {
+        "local": "الحفة",
+        "en": "Al-Haffa",
+        "slug": "al-haffa-sy0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0603",
+        "level": 2,
+        "name": {
+          "local": "الحفة",
+          "en": "Al-Haffa",
+          "slug": "al-haffa-sy0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.555",
+      "lon": "36.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كنسبا",
+      "en": "Kansaba",
+      "slug": "kansaba-sy060303"
+    },
+    "code": {
+      "id": "SY060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0603",
+      "level": 2,
+      "name": {
+        "local": "الحفة",
+        "en": "Al-Haffa",
+        "slug": "al-haffa-sy0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0603",
+        "level": 2,
+        "name": {
+          "local": "الحفة",
+          "en": "Al-Haffa",
+          "slug": "al-haffa-sy0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.715",
+      "lon": "36.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مزيرعة",
+      "en": "Mzair'a",
+      "slug": "mzaira-sy060304"
+    },
+    "code": {
+      "id": "SY060304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0603",
+      "level": 2,
+      "name": {
+        "local": "الحفة",
+        "en": "Al-Haffa",
+        "slug": "al-haffa-sy0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0603",
+        "level": 2,
+        "name": {
+          "local": "الحفة",
+          "en": "Al-Haffa",
+          "slug": "al-haffa-sy0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.526",
+      "lon": "36.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صلنفة",
+      "en": "Salanfa",
+      "slug": "salanfa-sy060301"
+    },
+    "code": {
+      "id": "SY060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0603",
+      "level": 2,
+      "name": {
+        "local": "الحفة",
+        "en": "Al-Haffa",
+        "slug": "al-haffa-sy0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0603",
+        "level": 2,
+        "name": {
+          "local": "الحفة",
+          "en": "Al-Haffa",
+          "slug": "al-haffa-sy0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.622",
+      "lon": "36.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

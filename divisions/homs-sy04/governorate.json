@@ -1,0 +1,34 @@
+{
+  "id": "SY04",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "حمص",
+    "en": "Homs",
+    "slug": "homs-sy04"
+  },
+  "code": {
+    "id": "SY04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "subdistrict": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.465",
+    "lon": "38.209"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sy/governorates/homs-sy04/",
+    "api": "https://openadmindata.org/api/sy/"
+  }
+}

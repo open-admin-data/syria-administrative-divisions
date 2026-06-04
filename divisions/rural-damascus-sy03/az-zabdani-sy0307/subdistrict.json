@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SY030700",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الزبداني",
+      "en": "Az-Zabdani",
+      "slug": "az-zabdani-sy030700"
+    },
+    "code": {
+      "id": "SY030700",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0307",
+      "level": 2,
+      "name": {
+        "local": "الزبداني",
+        "en": "Az-Zabdani",
+        "slug": "az-zabdani-sy0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0307",
+        "level": 2,
+        "name": {
+          "local": "الزبداني",
+          "en": "Az-Zabdani",
+          "slug": "az-zabdani-sy0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.712",
+      "lon": "36.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030701",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الديماس",
+      "en": "Dimas",
+      "slug": "dimas-sy030701"
+    },
+    "code": {
+      "id": "SY030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0307",
+      "level": 2,
+      "name": {
+        "local": "الزبداني",
+        "en": "Az-Zabdani",
+        "slug": "az-zabdani-sy0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0307",
+        "level": 2,
+        "name": {
+          "local": "الزبداني",
+          "en": "Az-Zabdani",
+          "slug": "az-zabdani-sy0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.667",
+      "lon": "35.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030702",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين الفيجة",
+      "en": "Ein Elfijeh",
+      "slug": "ein-elfijeh-sy030702"
+    },
+    "code": {
+      "id": "SY030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0307",
+      "level": 2,
+      "name": {
+        "local": "الزبداني",
+        "en": "Az-Zabdani",
+        "slug": "az-zabdani-sy0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0307",
+        "level": 2,
+        "name": {
+          "local": "الزبداني",
+          "en": "Az-Zabdani",
+          "slug": "az-zabdani-sy0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.636",
+      "lon": "36.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030703",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مضايا",
+      "en": "Madaya",
+      "slug": "madaya-sy030703"
+    },
+    "code": {
+      "id": "SY030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0307",
+      "level": 2,
+      "name": {
+        "local": "الزبداني",
+        "en": "Az-Zabdani",
+        "slug": "az-zabdani-sy0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0307",
+        "level": 2,
+        "name": {
+          "local": "الزبداني",
+          "en": "Az-Zabdani",
+          "slug": "az-zabdani-sy0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.705",
+      "lon": "36.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030704",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سرغايا",
+      "en": "Sarghaya",
+      "slug": "sarghaya-sy030704"
+    },
+    "code": {
+      "id": "SY030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0307",
+      "level": 2,
+      "name": {
+        "local": "الزبداني",
+        "en": "Az-Zabdani",
+        "slug": "az-zabdani-sy0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0307",
+        "level": 2,
+        "name": {
+          "local": "الزبداني",
+          "en": "Az-Zabdani",
+          "slug": "az-zabdani-sy0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.811",
+      "lon": "36.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

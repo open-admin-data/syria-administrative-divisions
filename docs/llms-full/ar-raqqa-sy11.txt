@@ -1,0 +1,64 @@
+# Ar-Raqqa — Syria Administrative Divisions
+
+> 3 districts, 10 sub-districts
+> Code: SY11
+> Coordinates: 36.023, 38.921
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### مركز الرقة (Ar-Raqqa)
+
+Code: SY1101, Coordinates: 35.827, 39.279
+Sub-districts: 4
+
+#### مركز الرقة (Ar-Raqqa)
+
+Code: SY110100, Coordinates: 36.1, 38.97
+
+#### الكرامة (Karama)
+
+Code: SY110102, Coordinates: 36.017, 39.426
+
+#### معدان (Maadan)
+
+Code: SY110103, Coordinates: 35.77, 39.542
+
+#### السبخة (Sabka)
+
+Code: SY110101, Coordinates: 35.595, 39.276
+
+### الثورة (Ath-Thawrah)
+
+Code: SY1103, Coordinates: 35.811, 38.506
+Sub-districts: 3
+
+#### مركز الثورة (Al-Thawrah)
+
+Code: SY110300, Coordinates: 35.826, 38.55
+
+#### الجرنية (Jurneyyeh)
+
+Code: SY110302, Coordinates: 36.076, 38.309
+
+#### المنصورة (Mansura)
+
+Code: SY110301, Coordinates: 35.642, 38.595
+
+### تل أبيض (Tell Abiad)
+
+Code: SY1102, Coordinates: 36.35, 39.48
+Sub-districts: 3
+
+#### عين عيسى (Ein Issa)
+
+Code: SY110202, Coordinates: 36.422, 38.882
+
+#### سلوك (Suluk)
+
+Code: SY110201, Coordinates: 36.317, 39.58
+
+#### مركز تل أبيض (Tell Abiad)
+
+Code: SY110200, Coordinates: 36.657, 38.826
+

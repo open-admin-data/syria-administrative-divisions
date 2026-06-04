@@ -1,0 +1,47 @@
+{
+  "id": "SY0603",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "الحفة",
+    "en": "Al-Haffa",
+    "slug": "al-haffa-sy0603"
+  },
+  "code": {
+    "id": "SY0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY06",
+    "level": 1,
+    "name": {
+      "local": "اللاذقية",
+      "en": "Lattakia",
+      "slug": "lattakia-sy06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.638",
+    "lon": "36.123"
+  },
+  "metadata": {},
+  "source": {}
+}

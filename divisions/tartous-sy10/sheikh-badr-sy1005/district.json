@@ -1,0 +1,47 @@
+{
+  "id": "SY1005",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "الشيخ بدر",
+    "en": "Sheikh Badr",
+    "slug": "sheikh-badr-sy1005"
+  },
+  "code": {
+    "id": "SY1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY10",
+    "level": 1,
+    "name": {
+      "local": "طرطوس",
+      "en": "Tartous",
+      "slug": "tartous-sy10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.023",
+    "lon": "36.077"
+  },
+  "metadata": {},
+  "source": {}
+}

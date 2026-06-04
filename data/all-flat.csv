@@ -1,0 +1,78 @@
+# Data from Open Admin Data (https://openadmindata.org/sy/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/syria-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.governorate,children_count.district,children_count.subdistrict,zip_codes,geo.lat,geo.lon,source_url
+SY01,1,محافظة,Governorate,دمشق,Damascus,damascus-sy01,SY01,,,,,,1,1,,33.516,36.274,https://openadmindata.org/sy/governorates/damascus-sy01/
+SY0100,2,منطقة,District,دمشق,Damascus,damascus-sy0100,SY0100,,SY01,دمشق,Damascus,,,1,,33.516,36.274,
+SY02,1,محافظة,Governorate,حلب,Aleppo,aleppo-sy02,SY02,,,,,,8,40,,36.147,37.395,https://openadmindata.org/sy/governorates/aleppo-sy02/
+SY0200,2,منطقة,District,جبل سمعان,Jebel Saman,jebel-saman-sy0200,SY0200,,SY02,حلب,Aleppo,,,7,,35.94,37.073,
+SY0202,2,منطقة,District,الباب,Al Bab,al-bab-sy0202,SY0202,,SY02,حلب,Aleppo,,,7,,36.39,37.544,
+SY0203,2,منطقة,District,عفرين,Afrin,afrin-sy0203,SY0203,,SY02,حلب,Aleppo,,,7,,36.574,36.794,
+SY0204,2,منطقة,District,اعزاز,A'zaz,azaz-sy0204,SY0204,,SY02,حلب,Aleppo,,,6,,36.467,37.208,
+SY0205,2,منطقة,District,منبج,Menbij,menbij-sy0205,SY0205,,SY02,حلب,Aleppo,,,4,,36.028,37.901,
+SY0206,2,منطقة,District,عين العرب,Ain Al Arab,ain-al-arab-sy0206,SY0206,,SY02,حلب,Aleppo,,,3,,36.533,38.471,
+SY0207,2,منطقة,District,السفيرة,As-Safira,as-safira-sy0207,SY0207,,SY02,حلب,Aleppo,,,4,,35.814,37.525,
+SY0208,2,منطقة,District,جرابلس,Jarablus,jarablus-sy0208,SY0208,,SY02,حلب,Aleppo,,,2,,36.678,37.862,
+SY03,1,محافظة,Governorate,ريف دمشق,Rural Damascus,rural-damascus-sy03,SY03,,,,,,9,36,,33.452,37.44,https://openadmindata.org/sy/governorates/rural-damascus-sy03/
+SY0301,2,منطقة,District,مركز ريف دمشق,Rural Damascus,rural-damascus-sy0301,SY0301,,SY03,ريف دمشق,Rural Damascus,,,7,,33.364,36.281,
+SY0302,2,منطقة,District,دوما,Duma,duma-sy0302,SY0302,,SY03,ريف دمشق,Rural Damascus,,,7,,33.326,37.571,
+SY0303,2,منطقة,District,القطيفة,Al Qutayfah,al-qutayfah-sy0303,SY0303,,SY03,ريف دمشق,Rural Damascus,,,4,,33.814,36.8,
+SY0304,2,منطقة,District,التل,At Tall,at-tall-sy0304,SY0304,,SY03,ريف دمشق,Rural Damascus,,,3,,33.7,36.376,
+SY0305,2,منطقة,District,يبرود,Yabroud,yabroud-sy0305,SY0305,,SY03,ريف دمشق,Rural Damascus,,,2,,33.938,36.491,
+SY0306,2,منطقة,District,النبك,An Nabk,an-nabk-sy0306,SY0306,,SY03,ريف دمشق,Rural Damascus,,,2,,34.043,36.735,
+SY0307,2,منطقة,District,الزبداني,Az-Zabdani,az-zabdani-sy0307,SY0307,,SY03,ريف دمشق,Rural Damascus,,,5,,33.701,36.106,
+SY0308,2,منطقة,District,قطنا,Qatana,qatana-sy0308,SY0308,,SY03,ريف دمشق,Rural Damascus,,,3,,33.361,35.974,
+SY0309,2,منطقة,District,داريا,Darayya,darayya-sy0309,SY0309,,SY03,ريف دمشق,Rural Damascus,,,3,,33.454,36.252,
+SY04,1,محافظة,Governorate,حمص,Homs,homs-sy04,SY04,,,,,,6,23,,34.465,38.209,https://openadmindata.org/sy/governorates/homs-sy04/
+SY0401,2,منطقة,District,مركز حمص,Homs,homs-sy0401,SY0401,,SY04,حمص,Homs,,,12,,34.442,37.127,
+SY0402,2,منطقة,District,القصير,Al-Qusayr,al-qusayr-sy0402,SY0402,,SY04,حمص,Homs,,,1,,34.512,36.51,
+SY0403,2,منطقة,District,تلكلخ,Tall Kalakh,tall-kalakh-sy0403,SY0403,,SY04,حمص,Homs,,,4,,34.74,36.272,
+SY0404,2,منطقة,District,الرستن,Ar-Rastan,ar-rastan-sy0404,SY0404,,SY04,حمص,Homs,,,2,,34.897,36.719,
+SY0405,2,منطقة,District,تدمر,Tadmor,tadmor-sy0405,SY0405,,SY04,حمص,Homs,,,2,,34.467,38.813,
+SY0406,2,منطقة,District,المخرم,Al Makhrim,al-makhrim-sy0406,SY0406,,SY04,حمص,Homs,,,2,,34.826,37.423,
+SY05,1,محافظة,Governorate,حماة,Hama,hama-sy05,SY05,,,,,,5,22,,35.31,37.343,https://openadmindata.org/sy/governorates/hama-sy05/
+SY0501,2,منطقة,District,مركز حماة,Hama,hama-sy0501,SY0501,,SY05,حماة,Hama,,,4,,35.226,36.769,
+SY0502,2,منطقة,District,السقيلبية,As-Suqaylabiyah,as-suqaylabiyah-sy0502,SY0502,,SY05,حماة,Hama,,,5,,35.476,36.343,
+SY0503,2,منطقة,District,السلمية,As-Salamiyeh,as-salamiyeh-sy0503,SY0503,,SY05,حماة,Hama,,,5,,35.174,37.639,
+SY0504,2,منطقة,District,مصياف,Masyaf,masyaf-sy0504,SY0504,,SY05,حماة,Hama,,,5,,35.05,36.356,
+SY0505,2,منطقة,District,محردة,Muhradah,muhradah-sy0505,SY0505,,SY05,حماة,Hama,,,3,,35.29,36.548,
+SY06,1,محافظة,Governorate,اللاذقية,Lattakia,lattakia-sy06,SY06,,,,,,4,22,,35.581,35.991,https://openadmindata.org/sy/governorates/lattakia-sy06/
+SY0600,2,منطقة,District,مركز اللاذقية,Lattakia,lattakia-sy0600,SY0600,,SY06,اللاذقية,Lattakia,,,7,,35.701,35.938,
+SY0602,2,منطقة,District,جبلة,Jablah,jablah-sy0602,SY0602,,SY06,اللاذقية,Lattakia,,,6,,35.345,36.081,
+SY0603,2,منطقة,District,الحفة,Al-Haffa,al-haffa-sy0603,SY0603,,SY06,اللاذقية,Lattakia,,,5,,35.638,36.123,
+SY0604,2,منطقة,District,القرداحة,Al-Qardaha,al-qardaha-sy0604,SY0604,,SY06,اللاذقية,Lattakia,,,4,,35.441,36.062,
+SY07,1,محافظة,Governorate,إدلب,Idleb,idleb-sy07,SY07,,,,,,5,26,,35.858,36.571,https://openadmindata.org/sy/governorates/idleb-sy07/
+SY0700,2,منطقة,District,مركز إدلب,Idleb,idleb-sy0700,SY0700,,SY07,إدلب,Idleb,,,7,,35.88,36.77,
+SY0702,2,منطقة,District,معرة النعمان,Al Ma'ra,al-mara-sy0702,SY0702,,SY07,إدلب,Idleb,,,6,,35.566,36.779,
+SY0703,2,منطقة,District,حارم,Harim,harim-sy0703,SY0703,,SY07,إدلب,Idleb,,,6,,36.123,36.521,
+SY0704,2,منطقة,District,جسر الشغور,Jisr-Ash-Shugur,jisr-ash-shugur-sy0704,SY0704,,SY07,إدلب,Idleb,,,4,,35.882,36.309,
+SY0705,2,منطقة,District,أريحا,Ariha,ariha-sy0705,SY0705,,SY07,إدلب,Idleb,,,3,,35.773,36.563,
+SY08,1,محافظة,Governorate,الحسكة,Al-Hasakeh,al-hasakeh-sy08,SY08,,,,,,4,16,,36.428,40.558,https://openadmindata.org/sy/governorates/al-hasakeh-sy08/
+SY0800,2,منطقة,District,مركز الحسكة,Al-Hasakeh,al-hasakeh-sy0800,SY0800,,SY08,الحسكة,Al-Hasakeh,,,7,,36.169,40.653,
+SY0802,2,منطقة,District,القامشلي,Quamishli,quamishli-sy0802,SY0802,,SY08,الحسكة,Al-Hasakeh,,,4,,36.804,41.471,
+SY0803,2,منطقة,District,المالكية,Al-Malikeyyeh,al-malikeyyeh-sy0803,SY0803,,SY08,الحسكة,Al-Hasakeh,,,3,,36.963,41.97,
+SY0804,2,منطقة,District,رأس العين,Ras Al Ain,ras-al-ain-sy0804,SY0804,,SY08,الحسكة,Al-Hasakeh,,,2,,36.657,39.898,
+SY09,1,محافظة,Governorate,دير الزور,Deir-ez-Zor,deir-ez-zor-sy09,SY09,,,,,,3,14,,35.201,40.295,https://openadmindata.org/sy/governorates/deir-ez-zor-sy09/
+SY0901,2,منطقة,District,مركز دير الزور,Deir-ez-Zor,deir-ez-zor-sy0901,SY0901,,SY09,دير الزور,Deir-ez-Zor,,,7,,35.566,40.203,
+SY0902,2,منطقة,District,البوكمال,Abu Kamal,abu-kamal-sy0902,SY0902,,SY09,دير الزور,Deir-ez-Zor,,,4,,34.588,40.694,
+SY0903,2,منطقة,District,الميادين,Al Mayadin,al-mayadin-sy0903,SY0903,,SY09,دير الزور,Deir-ez-Zor,,,3,,34.937,40.444,
+SY10,1,محافظة,Governorate,طرطوس,Tartous,tartous-sy10,SY10,,,,,,6,27,,34.951,36.076,https://openadmindata.org/sy/governorates/tartous-sy10/
+SY1000,2,منطقة,District,مركز طرطوس,Tartous,tartous-sy1000,SY1000,,SY10,طرطوس,Tartous,,,7,,34.851,35.963,
+SY1002,2,منطقة,District,بانياس,Banyas,banyas-sy1002,SY1002,,SY10,طرطوس,Tartous,,,3,,35.15,36.001,
+SY1003,2,منطقة,District,صافيتا,Safita,safita-sy1003,SY1003,,SY10,طرطوس,Tartous,,,6,,34.812,36.147,
+SY1004,2,منطقة,District,دريكيش,Dreikish,dreikish-sy1004,SY1004,,SY10,طرطوس,Tartous,,,4,,34.928,36.146,
+SY1005,2,منطقة,District,الشيخ بدر,Sheikh Badr,sheikh-badr-sy1005,SY1005,,SY10,طرطوس,Tartous,,,3,,35.023,36.077,
+SY1006,2,منطقة,District,القدموس,Qadmous,qadmous-sy1006,SY1006,,SY10,طرطوس,Tartous,,,4,,35.148,36.168,
+SY11,1,محافظة,Governorate,الرقة,Ar-Raqqa,ar-raqqa-sy11,SY11,,,,,,3,10,,36.023,38.921,https://openadmindata.org/sy/governorates/ar-raqqa-sy11/
+SY1101,2,منطقة,District,مركز الرقة,Ar-Raqqa,ar-raqqa-sy1101,SY1101,,SY11,الرقة,Ar-Raqqa,,,4,,35.827,39.279,
+SY1102,2,منطقة,District,تل أبيض,Tell Abiad,tell-abiad-sy1102,SY1102,,SY11,الرقة,Ar-Raqqa,,,3,,36.35,39.48,
+SY1103,2,منطقة,District,الثورة,Ath-Thawrah,ath-thawrah-sy1103,SY1103,,SY11,الرقة,Ar-Raqqa,,,3,,35.811,38.506,
+SY12,1,محافظة,Governorate,درعا,Dar'a,dara-sy12,SY12,,,,,,3,17,,32.83,36.112,https://openadmindata.org/sy/governorates/dara-sy12/
+SY1200,2,منطقة,District,درعا,Dar'a,dara-sy1200,SY1200,,SY12,درعا,Dar'a,,,8,,32.621,36.224,
+SY1202,2,منطقة,District,الصنمين,As-Sanamayn,as-sanamayn-sy1202,SY1202,,SY12,درعا,Dar'a,,,3,,33.104,36.236,
+SY1203,2,منطقة,District,ازرع,Izra',izra-sy1203,SY1203,,SY12,درعا,Dar'a,,,6,,32.866,36.148,
+SY13,1,محافظة,Governorate,السويداء,As-Sweida,as-sweida-sy13,SY13,,,,,,3,12,,32.756,36.895,https://openadmindata.org/sy/governorates/as-sweida-sy13/
+SY1300,2,منطقة,District,مركز السويداء,As-Sweida,as-sweida-sy1300,SY1300,,SY13,السويداء,As-Sweida,,,3,,32.771,36.888,
+SY1302,2,منطقة,District,صلخد,Salkhad,salkhad-sy1302,SY1302,,SY13,السويداء,As-Sweida,,,5,,32.499,36.841,
+SY1303,2,منطقة,District,شهبا,Shahba,shahba-sy1303,SY1303,,SY13,السويداء,As-Sweida,,,4,,32.986,36.797,
+SY14,1,محافظة,Governorate,القنيطرة,Quneitra,quneitra-sy14,SY14,,,,,,2,6,,33.017,35.797,https://openadmindata.org/sy/governorates/quneitra-sy14/
+SY1400,2,منطقة,District,مركز القنيطرة,Quneitra,quneitra-sy1400,SY1400,,SY14,القنيطرة,Quneitra,,,4,,33.118,35.82,
+SY1402,2,منطقة,District,فيق,Al Fiq,al-fiq-sy1402,SY1402,,SY14,القنيطرة,Quneitra,,,2,,32.819,35.746,

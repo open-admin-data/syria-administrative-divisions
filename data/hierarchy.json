@@ -1,0 +1,4333 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/sy/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/syria-administrative-divisions",
+  "data": [
+    {
+      "id": "SY08",
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      },
+      "code": {
+        "id": "SY08",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0800",
+          "name": {
+            "local": "مركز الحسكة",
+            "en": "Al-Hasakeh",
+            "slug": "al-hasakeh-sy0800"
+          },
+          "code": {
+            "id": "SY0800",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY080000",
+              "name": {
+                "local": "مركز الحسكة",
+                "en": "Al-Hasakeh",
+                "slug": "al-hasakeh-sy080000"
+              },
+              "code": {
+                "id": "SY080000",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080005",
+              "name": {
+                "local": "العريشة",
+                "en": "Areesheh",
+                "slug": "areesheh-sy080005"
+              },
+              "code": {
+                "id": "SY080005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080004",
+              "name": {
+                "local": "بئر الحلو الوردية",
+                "en": "Be'r Al-Hulo Al-Wardeyyeh",
+                "slug": "ber-al-hulo-al-wardeyyeh-sy080004"
+              },
+              "code": {
+                "id": "SY080004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080006",
+              "name": {
+                "local": "الهول",
+                "en": "Hole",
+                "slug": "hole-sy080006"
+              },
+              "code": {
+                "id": "SY080006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080003",
+              "name": {
+                "local": "مركدة",
+                "en": "Markada",
+                "slug": "markada-sy080003"
+              },
+              "code": {
+                "id": "SY080003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080002",
+              "name": {
+                "local": "شدادة",
+                "en": "Shadadah",
+                "slug": "shadadah-sy080002"
+              },
+              "code": {
+                "id": "SY080002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080001",
+              "name": {
+                "local": "تل تمر",
+                "en": "Tal Tamer",
+                "slug": "tal-tamer-sy080001"
+              },
+              "code": {
+                "id": "SY080001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0803",
+          "name": {
+            "local": "المالكية",
+            "en": "Al-Malikeyyeh",
+            "slug": "al-malikeyyeh-sy0803"
+          },
+          "code": {
+            "id": "SY0803",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY080300",
+              "name": {
+                "local": "مركز المالكية",
+                "en": "Al-Malikeyyeh",
+                "slug": "al-malikeyyeh-sy080300"
+              },
+              "code": {
+                "id": "SY080300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080301",
+              "name": {
+                "local": "جوادية",
+                "en": "Jawadiyah",
+                "slug": "jawadiyah-sy080301"
+              },
+              "code": {
+                "id": "SY080301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080302",
+              "name": {
+                "local": "يعربية",
+                "en": "Ya'robiyah",
+                "slug": "yarobiyah-sy080302"
+              },
+              "code": {
+                "id": "SY080302",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0802",
+          "name": {
+            "local": "القامشلي",
+            "en": "Quamishli",
+            "slug": "quamishli-sy0802"
+          },
+          "code": {
+            "id": "SY0802",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY080202",
+              "name": {
+                "local": "عامودا",
+                "en": "Amuda",
+                "slug": "amuda-sy080202"
+              },
+              "code": {
+                "id": "SY080202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080203",
+              "name": {
+                "local": "قحطانية",
+                "en": "Qahtaniyyeh",
+                "slug": "qahtaniyyeh-sy080203"
+              },
+              "code": {
+                "id": "SY080203",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080200",
+              "name": {
+                "local": "مركز القامشلي",
+                "en": "Quamishli",
+                "slug": "quamishli-sy080200"
+              },
+              "code": {
+                "id": "SY080200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080201",
+              "name": {
+                "local": "تل حميس",
+                "en": "Tal Hmis",
+                "slug": "tal-hmis-sy080201"
+              },
+              "code": {
+                "id": "SY080201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0804",
+          "name": {
+            "local": "رأس العين",
+            "en": "Ras Al Ain",
+            "slug": "ras-al-ain-sy0804"
+          },
+          "code": {
+            "id": "SY0804",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY080401",
+              "name": {
+                "local": "درباسية",
+                "en": "Darbasiyah",
+                "slug": "darbasiyah-sy080401"
+              },
+              "code": {
+                "id": "SY080401",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY080400",
+              "name": {
+                "local": "مركز رأس العين",
+                "en": "Ras Al Ain",
+                "slug": "ras-al-ain-sy080400"
+              },
+              "code": {
+                "id": "SY080400",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY02",
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      },
+      "code": {
+        "id": "SY02",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0204",
+          "name": {
+            "local": "اعزاز",
+            "en": "A'zaz",
+            "slug": "azaz-sy0204"
+          },
+          "code": {
+            "id": "SY0204",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020400",
+              "name": {
+                "local": "مركز اعزاز",
+                "en": "A'zaz",
+                "slug": "azaz-sy020400"
+              },
+              "code": {
+                "id": "SY020400",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020401",
+              "name": {
+                "local": "اخترين",
+                "en": "Aghtrin",
+                "slug": "aghtrin-sy020401"
+              },
+              "code": {
+                "id": "SY020401",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020403",
+              "name": {
+                "local": "مارع",
+                "en": "Mare'",
+                "slug": "mare-sy020403"
+              },
+              "code": {
+                "id": "SY020403",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020404",
+              "name": {
+                "local": "نبل",
+                "en": "Nabul",
+                "slug": "nabul-sy020404"
+              },
+              "code": {
+                "id": "SY020404",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020405",
+              "name": {
+                "local": "صوران",
+                "en": "Suran",
+                "slug": "suran-sy020405"
+              },
+              "code": {
+                "id": "SY020405",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020402",
+              "name": {
+                "local": "تل رفعت",
+                "en": "Tall Refaat",
+                "slug": "tall-refaat-sy020402"
+              },
+              "code": {
+                "id": "SY020402",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0203",
+          "name": {
+            "local": "عفرين",
+            "en": "Afrin",
+            "slug": "afrin-sy0203"
+          },
+          "code": {
+            "id": "SY0203",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020300",
+              "name": {
+                "local": "مركز عفرين",
+                "en": "Afrin",
+                "slug": "afrin-sy020300"
+              },
+              "code": {
+                "id": "SY020300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020301",
+              "name": {
+                "local": "بلبل",
+                "en": "Bulbul",
+                "slug": "bulbul-sy020301"
+              },
+              "code": {
+                "id": "SY020301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020302",
+              "name": {
+                "local": "جنديرس",
+                "en": "Jandairis",
+                "slug": "jandairis-sy020302"
+              },
+              "code": {
+                "id": "SY020302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020306",
+              "name": {
+                "local": "معبطلي",
+                "en": "Ma'btali",
+                "slug": "mabtali-sy020306"
+              },
+              "code": {
+                "id": "SY020306",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020303",
+              "name": {
+                "local": "راجو",
+                "en": "Raju",
+                "slug": "raju-sy020303"
+              },
+              "code": {
+                "id": "SY020303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020304",
+              "name": {
+                "local": "شران",
+                "en": "Sharan",
+                "slug": "sharan-sy020304"
+              },
+              "code": {
+                "id": "SY020304",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020305",
+              "name": {
+                "local": "شيخ الحديد",
+                "en": "Sheikh El-Hadid",
+                "slug": "sheikh-el-hadid-sy020305"
+              },
+              "code": {
+                "id": "SY020305",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0206",
+          "name": {
+            "local": "عين العرب",
+            "en": "Ain Al Arab",
+            "slug": "ain-al-arab-sy0206"
+          },
+          "code": {
+            "id": "SY0206",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020600",
+              "name": {
+                "local": "مركز عين العرب",
+                "en": "Ain al Arab",
+                "slug": "ain-al-arab-sy020600"
+              },
+              "code": {
+                "id": "SY020600",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020601",
+              "name": {
+                "local": "شيوخ تحتاني",
+                "en": "Lower Shyookh",
+                "slug": "lower-shyookh-sy020601"
+              },
+              "code": {
+                "id": "SY020601",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020602",
+              "name": {
+                "local": "صرين",
+                "en": "Sarin",
+                "slug": "sarin-sy020602"
+              },
+              "code": {
+                "id": "SY020602",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0202",
+          "name": {
+            "local": "الباب",
+            "en": "Al Bab",
+            "slug": "al-bab-sy0202"
+          },
+          "code": {
+            "id": "SY0202",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020206",
+              "name": {
+                "local": "عريمة",
+                "en": "A'rima",
+                "slug": "arima-sy020206"
+              },
+              "code": {
+                "id": "SY020206",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020200",
+              "name": {
+                "local": "مركز الباب",
+                "en": "Al Bab",
+                "slug": "al-bab-sy020200"
+              },
+              "code": {
+                "id": "SY020200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020203",
+              "name": {
+                "local": "الراعي",
+                "en": "Ar-Ra'ee",
+                "slug": "ar-raee-sy020203"
+              },
+              "code": {
+                "id": "SY020203",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020202",
+              "name": {
+                "local": "دير حافر",
+                "en": "Dayr Hafir",
+                "slug": "dayr-hafir-sy020202"
+              },
+              "code": {
+                "id": "SY020202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020204",
+              "name": {
+                "local": "كويرس شرقي",
+                "en": "Eastern Kwaires",
+                "slug": "eastern-kwaires-sy020204"
+              },
+              "code": {
+                "id": "SY020204",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020205",
+              "name": {
+                "local": "رسم حرمل الامام",
+                "en": "Rasm Haram El-Imam",
+                "slug": "rasm-haram-el-imam-sy020205"
+              },
+              "code": {
+                "id": "SY020205",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020201",
+              "name": {
+                "local": "تادف",
+                "en": "Tadaf",
+                "slug": "tadaf-sy020201"
+              },
+              "code": {
+                "id": "SY020201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0207",
+          "name": {
+            "local": "السفيرة",
+            "en": "As-Safira",
+            "slug": "as-safira-sy0207"
+          },
+          "code": {
+            "id": "SY0207",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020700",
+              "name": {
+                "local": "مركز السفيرة",
+                "en": "As-Safira",
+                "slug": "as-safira-sy020700"
+              },
+              "code": {
+                "id": "SY020700",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020702",
+              "name": {
+                "local": "بنان",
+                "en": "Banan",
+                "slug": "banan-sy020702"
+              },
+              "code": {
+                "id": "SY020702",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020703",
+              "name": {
+                "local": "الحاجب",
+                "en": "Hajeb",
+                "slug": "hajeb-sy020703"
+              },
+              "code": {
+                "id": "SY020703",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020701",
+              "name": {
+                "local": "خناصر",
+                "en": "Khanaser",
+                "slug": "khanaser-sy020701"
+              },
+              "code": {
+                "id": "SY020701",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0208",
+          "name": {
+            "local": "جرابلس",
+            "en": "Jarablus",
+            "slug": "jarablus-sy0208"
+          },
+          "code": {
+            "id": "SY0208",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020801",
+              "name": {
+                "local": "غندورة",
+                "en": "Ghandorah",
+                "slug": "ghandorah-sy020801"
+              },
+              "code": {
+                "id": "SY020801",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020800",
+              "name": {
+                "local": "مركز جرابلس",
+                "en": "Jarablus",
+                "slug": "jarablus-sy020800"
+              },
+              "code": {
+                "id": "SY020800",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0200",
+          "name": {
+            "local": "جبل سمعان",
+            "en": "Jebel Saman",
+            "slug": "jebel-saman-sy0200"
+          },
+          "code": {
+            "id": "SY0200",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020001",
+              "name": {
+                "local": "أتارب",
+                "en": "Atareb",
+                "slug": "atareb-sy020001"
+              },
+              "code": {
+                "id": "SY020001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020004",
+              "name": {
+                "local": "دارة عزة",
+                "en": "Daret Azza",
+                "slug": "daret-azza-sy020004"
+              },
+              "code": {
+                "id": "SY020004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020006",
+              "name": {
+                "local": "الحاضر",
+                "en": "Hadher",
+                "slug": "hadher-sy020006"
+              },
+              "code": {
+                "id": "SY020006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020003",
+              "name": {
+                "local": "حريتان",
+                "en": "Haritan",
+                "slug": "haritan-sy020003"
+              },
+              "code": {
+                "id": "SY020003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020000",
+              "name": {
+                "local": "مركز جبل سمعان",
+                "en": "Jebel Saman",
+                "slug": "jebel-saman-sy020000"
+              },
+              "code": {
+                "id": "SY020000",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020002",
+              "name": {
+                "local": "تل الضمان",
+                "en": "Tall Ed-daman",
+                "slug": "tall-ed-daman-sy020002"
+              },
+              "code": {
+                "id": "SY020002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020005",
+              "name": {
+                "local": "الزربة",
+                "en": "Zarbah",
+                "slug": "zarbah-sy020005"
+              },
+              "code": {
+                "id": "SY020005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0205",
+          "name": {
+            "local": "منبج",
+            "en": "Menbij",
+            "slug": "menbij-sy0205"
+          },
+          "code": {
+            "id": "SY0205",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY020501",
+              "name": {
+                "local": "أبو قلقل",
+                "en": "Abu Qalqal",
+                "slug": "abu-qalqal-sy020501"
+              },
+              "code": {
+                "id": "SY020501",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020502",
+              "name": {
+                "local": "الخفسة",
+                "en": "Al-Khafsa",
+                "slug": "al-khafsa-sy020502"
+              },
+              "code": {
+                "id": "SY020502",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020503",
+              "name": {
+                "local": "مسكنة",
+                "en": "Maskana",
+                "slug": "maskana-sy020503"
+              },
+              "code": {
+                "id": "SY020503",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY020500",
+              "name": {
+                "local": "مركز منبج",
+                "en": "Menbij",
+                "slug": "menbij-sy020500"
+              },
+              "code": {
+                "id": "SY020500",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY11",
+      "name": {
+        "local": "الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy11"
+      },
+      "code": {
+        "id": "SY11",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY1101",
+          "name": {
+            "local": "مركز الرقة",
+            "en": "Ar-Raqqa",
+            "slug": "ar-raqqa-sy1101"
+          },
+          "code": {
+            "id": "SY1101",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY110100",
+              "name": {
+                "local": "مركز الرقة",
+                "en": "Ar-Raqqa",
+                "slug": "ar-raqqa-sy110100"
+              },
+              "code": {
+                "id": "SY110100",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110102",
+              "name": {
+                "local": "الكرامة",
+                "en": "Karama",
+                "slug": "karama-sy110102"
+              },
+              "code": {
+                "id": "SY110102",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110103",
+              "name": {
+                "local": "معدان",
+                "en": "Maadan",
+                "slug": "maadan-sy110103"
+              },
+              "code": {
+                "id": "SY110103",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110101",
+              "name": {
+                "local": "السبخة",
+                "en": "Sabka",
+                "slug": "sabka-sy110101"
+              },
+              "code": {
+                "id": "SY110101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1103",
+          "name": {
+            "local": "الثورة",
+            "en": "Ath-Thawrah",
+            "slug": "ath-thawrah-sy1103"
+          },
+          "code": {
+            "id": "SY1103",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY110300",
+              "name": {
+                "local": "مركز الثورة",
+                "en": "Al-Thawrah",
+                "slug": "al-thawrah-sy110300"
+              },
+              "code": {
+                "id": "SY110300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110302",
+              "name": {
+                "local": "الجرنية",
+                "en": "Jurneyyeh",
+                "slug": "jurneyyeh-sy110302"
+              },
+              "code": {
+                "id": "SY110302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110301",
+              "name": {
+                "local": "المنصورة",
+                "en": "Mansura",
+                "slug": "mansura-sy110301"
+              },
+              "code": {
+                "id": "SY110301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1102",
+          "name": {
+            "local": "تل أبيض",
+            "en": "Tell Abiad",
+            "slug": "tell-abiad-sy1102"
+          },
+          "code": {
+            "id": "SY1102",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY110202",
+              "name": {
+                "local": "عين عيسى",
+                "en": "Ein Issa",
+                "slug": "ein-issa-sy110202"
+              },
+              "code": {
+                "id": "SY110202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110201",
+              "name": {
+                "local": "سلوك",
+                "en": "Suluk",
+                "slug": "suluk-sy110201"
+              },
+              "code": {
+                "id": "SY110201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY110200",
+              "name": {
+                "local": "مركز تل أبيض",
+                "en": "Tell Abiad",
+                "slug": "tell-abiad-sy110200"
+              },
+              "code": {
+                "id": "SY110200",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY13",
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      },
+      "code": {
+        "id": "SY13",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY1300",
+          "name": {
+            "local": "مركز السويداء",
+            "en": "As-Sweida",
+            "slug": "as-sweida-sy1300"
+          },
+          "code": {
+            "id": "SY1300",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY130000",
+              "name": {
+                "local": "مركز السويداء",
+                "en": "As-Sweida",
+                "slug": "as-sweida-sy130000"
+              },
+              "code": {
+                "id": "SY130000",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130002",
+              "name": {
+                "local": "المشنف",
+                "en": "Mashnaf",
+                "slug": "mashnaf-sy130002"
+              },
+              "code": {
+                "id": "SY130002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130001",
+              "name": {
+                "local": "المزرعة",
+                "en": "Mazra'a",
+                "slug": "mazraa-sy130001"
+              },
+              "code": {
+                "id": "SY130001",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1302",
+          "name": {
+            "local": "صلخد",
+            "en": "Salkhad",
+            "slug": "salkhad-sy1302"
+          },
+          "code": {
+            "id": "SY1302",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY130202",
+              "name": {
+                "local": "الغارية",
+                "en": "Gharyeh",
+                "slug": "gharyeh-sy130202"
+              },
+              "code": {
+                "id": "SY130202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130204",
+              "name": {
+                "local": "ملح",
+                "en": "Milh",
+                "slug": "milh-sy130204"
+              },
+              "code": {
+                "id": "SY130204",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130201",
+              "name": {
+                "local": "القريا",
+                "en": "Qarayya",
+                "slug": "qarayya-sy130201"
+              },
+              "code": {
+                "id": "SY130201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130200",
+              "name": {
+                "local": "مركز صلخد",
+                "en": "Salkhad",
+                "slug": "salkhad-sy130200"
+              },
+              "code": {
+                "id": "SY130200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130203",
+              "name": {
+                "local": "ذيبين",
+                "en": "Thibeen",
+                "slug": "thibeen-sy130203"
+              },
+              "code": {
+                "id": "SY130203",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1303",
+          "name": {
+            "local": "شهبا",
+            "en": "Shahba",
+            "slug": "shahba-sy1303"
+          },
+          "code": {
+            "id": "SY1303",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY130302",
+              "name": {
+                "local": "العريقة",
+                "en": "Ariqa",
+                "slug": "ariqa-sy130302"
+              },
+              "code": {
+                "id": "SY130302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130303",
+              "name": {
+                "local": "الصورة الصغيرة",
+                "en": "Little Sura",
+                "slug": "little-sura-sy130303"
+              },
+              "code": {
+                "id": "SY130303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130300",
+              "name": {
+                "local": "مركز شهبا",
+                "en": "Shahba",
+                "slug": "shahba-sy130300"
+              },
+              "code": {
+                "id": "SY130300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY130301",
+              "name": {
+                "local": "شقا",
+                "en": "Shaqa",
+                "slug": "shaqa-sy130301"
+              },
+              "code": {
+                "id": "SY130301",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY01",
+      "name": {
+        "local": "دمشق",
+        "en": "Damascus",
+        "slug": "damascus-sy01"
+      },
+      "code": {
+        "id": "SY01",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0100",
+          "name": {
+            "local": "دمشق",
+            "en": "Damascus",
+            "slug": "damascus-sy0100"
+          },
+          "code": {
+            "id": "SY0100",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY010000",
+              "name": {
+                "local": "دمشق",
+                "en": "Damascus",
+                "slug": "damascus-sy010000"
+              },
+              "code": {
+                "id": "SY010000",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY12",
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      },
+      "code": {
+        "id": "SY12",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY1202",
+          "name": {
+            "local": "الصنمين",
+            "en": "As-Sanamayn",
+            "slug": "as-sanamayn-sy1202"
+          },
+          "code": {
+            "id": "SY1202",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY120200",
+              "name": {
+                "local": "مركز الصنمين",
+                "en": "As-Sanamayn",
+                "slug": "as-sanamayn-sy120200"
+              },
+              "code": {
+                "id": "SY120200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120202",
+              "name": {
+                "local": "غباغب",
+                "en": "Ghabagheb",
+                "slug": "ghabagheb-sy120202"
+              },
+              "code": {
+                "id": "SY120202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120201",
+              "name": {
+                "local": "المسمية",
+                "en": "Masmiyyeh",
+                "slug": "masmiyyeh-sy120201"
+              },
+              "code": {
+                "id": "SY120201",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1200",
+          "name": {
+            "local": "درعا",
+            "en": "Dar'a",
+            "slug": "dara-sy1200"
+          },
+          "code": {
+            "id": "SY1200",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY120003",
+              "name": {
+                "local": "الشجرة",
+                "en": "Ash-Shajara",
+                "slug": "ash-shajara-sy120003"
+              },
+              "code": {
+                "id": "SY120003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120001",
+              "name": {
+                "local": "بصرى الشام",
+                "en": "Busra Esh-Sham",
+                "slug": "busra-esh-sham-sy120001"
+              },
+              "code": {
+                "id": "SY120001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120004",
+              "name": {
+                "local": "داعل",
+                "en": "Da'el",
+                "slug": "dael-sy120004"
+              },
+              "code": {
+                "id": "SY120004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120000",
+              "name": {
+                "local": "مركز درعا",
+                "en": "Dar'a",
+                "slug": "dara-sy120000"
+              },
+              "code": {
+                "id": "SY120000",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120006",
+              "name": {
+                "local": "الجيزة",
+                "en": "Jizeh",
+                "slug": "jizeh-sy120006"
+              },
+              "code": {
+                "id": "SY120006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120002",
+              "name": {
+                "local": "خربة غزالة",
+                "en": "Kherbet Ghazala",
+                "slug": "kherbet-ghazala-sy120002"
+              },
+              "code": {
+                "id": "SY120002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120007",
+              "name": {
+                "local": "المسيفرة",
+                "en": "Mseifra",
+                "slug": "mseifra-sy120007"
+              },
+              "code": {
+                "id": "SY120007",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120005",
+              "name": {
+                "local": "مزيريب",
+                "en": "Mzeireb",
+                "slug": "mzeireb-sy120005"
+              },
+              "code": {
+                "id": "SY120005",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1203",
+          "name": {
+            "local": "ازرع",
+            "en": "Izra'",
+            "slug": "izra-sy1203"
+          },
+          "code": {
+            "id": "SY1203",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY120302",
+              "name": {
+                "local": "الحراك",
+                "en": "Hrak",
+                "slug": "hrak-sy120302"
+              },
+              "code": {
+                "id": "SY120302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120300",
+              "name": {
+                "local": "مركز ازرع",
+                "en": "Izra'",
+                "slug": "izra-sy120300"
+              },
+              "code": {
+                "id": "SY120300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120301",
+              "name": {
+                "local": "جاسم",
+                "en": "Jasim",
+                "slug": "jasim-sy120301"
+              },
+              "code": {
+                "id": "SY120301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120303",
+              "name": {
+                "local": "نوى",
+                "en": "Nawa",
+                "slug": "nawa-sy120303"
+              },
+              "code": {
+                "id": "SY120303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120304",
+              "name": {
+                "local": "الشيخ مسكين",
+                "en": "Sheikh Miskine",
+                "slug": "sheikh-miskine-sy120304"
+              },
+              "code": {
+                "id": "SY120304",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY120305",
+              "name": {
+                "local": "تسيل",
+                "en": "Tassil",
+                "slug": "tassil-sy120305"
+              },
+              "code": {
+                "id": "SY120305",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY09",
+      "name": {
+        "local": "دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy09"
+      },
+      "code": {
+        "id": "SY09",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0902",
+          "name": {
+            "local": "البوكمال",
+            "en": "Abu Kamal",
+            "slug": "abu-kamal-sy0902"
+          },
+          "code": {
+            "id": "SY0902",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY090200",
+              "name": {
+                "local": "مركز البوكمال",
+                "en": "Abu Kamal",
+                "slug": "abu-kamal-sy090200"
+              },
+              "code": {
+                "id": "SY090200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090201",
+              "name": {
+                "local": "هجين",
+                "en": "Hajin",
+                "slug": "hajin-sy090201"
+              },
+              "code": {
+                "id": "SY090201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090202",
+              "name": {
+                "local": "الجلاء",
+                "en": "Jalaa",
+                "slug": "jalaa-sy090202"
+              },
+              "code": {
+                "id": "SY090202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090203",
+              "name": {
+                "local": "سوسة",
+                "en": "Susat",
+                "slug": "susat-sy090203"
+              },
+              "code": {
+                "id": "SY090203",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0903",
+          "name": {
+            "local": "الميادين",
+            "en": "Al Mayadin",
+            "slug": "al-mayadin-sy0903"
+          },
+          "code": {
+            "id": "SY0903",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY090300",
+              "name": {
+                "local": "مركز الميادين",
+                "en": "Al Mayadin",
+                "slug": "al-mayadin-sy090300"
+              },
+              "code": {
+                "id": "SY090300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090302",
+              "name": {
+                "local": "عشارة",
+                "en": "Ashara",
+                "slug": "ashara-sy090302"
+              },
+              "code": {
+                "id": "SY090302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090301",
+              "name": {
+                "local": "ذيبان",
+                "en": "Thiban",
+                "slug": "thiban-sy090301"
+              },
+              "code": {
+                "id": "SY090301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0901",
+          "name": {
+            "local": "مركز دير الزور",
+            "en": "Deir-ez-Zor",
+            "slug": "deir-ez-zor-sy0901"
+          },
+          "code": {
+            "id": "SY0901",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY090102",
+              "name": {
+                "local": "بصيرة",
+                "en": "Basira",
+                "slug": "basira-sy090102"
+              },
+              "code": {
+                "id": "SY090102",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090100",
+              "name": {
+                "local": "مركز دير الزور",
+                "en": "Deir-ez-Zor",
+                "slug": "deir-ez-zor-sy090100"
+              },
+              "code": {
+                "id": "SY090100",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090105",
+              "name": {
+                "local": "خشام",
+                "en": "Khasham",
+                "slug": "khasham-sy090105"
+              },
+              "code": {
+                "id": "SY090105",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090101",
+              "name": {
+                "local": "كسرة",
+                "en": "Kisreh",
+                "slug": "kisreh-sy090101"
+              },
+              "code": {
+                "id": "SY090101",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090103",
+              "name": {
+                "local": "موحسن",
+                "en": "Muhasan",
+                "slug": "muhasan-sy090103"
+              },
+              "code": {
+                "id": "SY090103",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090106",
+              "name": {
+                "local": "صور",
+                "en": "Sur",
+                "slug": "sur-sy090106"
+              },
+              "code": {
+                "id": "SY090106",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY090104",
+              "name": {
+                "local": "التبني",
+                "en": "Tabni",
+                "slug": "tabni-sy090104"
+              },
+              "code": {
+                "id": "SY090104",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY05",
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      },
+      "code": {
+        "id": "SY05",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0503",
+          "name": {
+            "local": "السلمية",
+            "en": "As-Salamiyeh",
+            "slug": "as-salamiyeh-sy0503"
+          },
+          "code": {
+            "id": "SY0503",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY050302",
+              "name": {
+                "local": "السعن",
+                "en": "As-Saan",
+                "slug": "as-saan-sy050302"
+              },
+              "code": {
+                "id": "SY050302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050300",
+              "name": {
+                "local": "مركز السلمية",
+                "en": "As-Salamiyeh",
+                "slug": "as-salamiyeh-sy050300"
+              },
+              "code": {
+                "id": "SY050300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050301",
+              "name": {
+                "local": "بري شرقي",
+                "en": "Eastern Bari",
+                "slug": "eastern-bari-sy050301"
+              },
+              "code": {
+                "id": "SY050301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050304",
+              "name": {
+                "local": "عقيربات",
+                "en": "Oqeirbat",
+                "slug": "oqeirbat-sy050304"
+              },
+              "code": {
+                "id": "SY050304",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050303",
+              "name": {
+                "local": "صبورة",
+                "en": "Saboura",
+                "slug": "saboura-sy050303"
+              },
+              "code": {
+                "id": "SY050303",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0502",
+          "name": {
+            "local": "السقيلبية",
+            "en": "As-Suqaylabiyah",
+            "slug": "as-suqaylabiyah-sy0502"
+          },
+          "code": {
+            "id": "SY0502",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY050200",
+              "name": {
+                "local": "مركز السقيلبية",
+                "en": "As-Suqaylabiyah",
+                "slug": "as-suqaylabiyah-sy050200"
+              },
+              "code": {
+                "id": "SY050200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050204",
+              "name": {
+                "local": "قلعة المضيق",
+                "en": "Madiq Castle",
+                "slug": "madiq-castle-sy050204"
+              },
+              "code": {
+                "id": "SY050204",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050203",
+              "name": {
+                "local": "شطحة",
+                "en": "Shat-ha",
+                "slug": "shat-ha-sy050203"
+              },
+              "code": {
+                "id": "SY050203",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050201",
+              "name": {
+                "local": "تلسلحب",
+                "en": "Tell Salhib",
+                "slug": "tell-salhib-sy050201"
+              },
+              "code": {
+                "id": "SY050201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050202",
+              "name": {
+                "local": "الزيارة",
+                "en": "Ziyara",
+                "slug": "ziyara-sy050202"
+              },
+              "code": {
+                "id": "SY050202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0501",
+          "name": {
+            "local": "مركز حماة",
+            "en": "Hama",
+            "slug": "hama-sy0501"
+          },
+          "code": {
+            "id": "SY0501",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY050100",
+              "name": {
+                "local": "مركز حماة",
+                "en": "Hama",
+                "slug": "hama-sy050100"
+              },
+              "code": {
+                "id": "SY050100",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050103",
+              "name": {
+                "local": "الحمراء",
+                "en": "Hamra",
+                "slug": "hamra-sy050103"
+              },
+              "code": {
+                "id": "SY050103",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050102",
+              "name": {
+                "local": "حربنفسه",
+                "en": "Harbanifse",
+                "slug": "harbanifse-sy050102"
+              },
+              "code": {
+                "id": "SY050102",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050101",
+              "name": {
+                "local": "صوران",
+                "en": "Suran",
+                "slug": "suran-sy050101"
+              },
+              "code": {
+                "id": "SY050101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0504",
+          "name": {
+            "local": "مصياف",
+            "en": "Masyaf",
+            "slug": "masyaf-sy0504"
+          },
+          "code": {
+            "id": "SY0504",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY050403",
+              "name": {
+                "local": "عين حلاقيم",
+                "en": "Ein Halaqim",
+                "slug": "ein-halaqim-sy050403"
+              },
+              "code": {
+                "id": "SY050403",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050401",
+              "name": {
+                "local": "جب رملة",
+                "en": "Jeb Ramleh",
+                "slug": "jeb-ramleh-sy050401"
+              },
+              "code": {
+                "id": "SY050401",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050400",
+              "name": {
+                "local": "مركز مصياف",
+                "en": "Masyaf",
+                "slug": "masyaf-sy050400"
+              },
+              "code": {
+                "id": "SY050400",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050402",
+              "name": {
+                "local": "عوج",
+                "en": "Oj",
+                "slug": "oj-sy050402"
+              },
+              "code": {
+                "id": "SY050402",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050404",
+              "name": {
+                "local": "وادي العيون",
+                "en": "Wadi El-oyoun",
+                "slug": "wadi-el-oyoun-sy050404"
+              },
+              "code": {
+                "id": "SY050404",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0505",
+          "name": {
+            "local": "محردة",
+            "en": "Muhradah",
+            "slug": "muhradah-sy0505"
+          },
+          "code": {
+            "id": "SY0505",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY050501",
+              "name": {
+                "local": "كفرزيتا",
+                "en": "Kafr Zeita",
+                "slug": "kafr-zeita-sy050501"
+              },
+              "code": {
+                "id": "SY050501",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050502",
+              "name": {
+                "local": "كرناز",
+                "en": "Karnaz",
+                "slug": "karnaz-sy050502"
+              },
+              "code": {
+                "id": "SY050502",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY050500",
+              "name": {
+                "local": "مركز محردة",
+                "en": "Muhradah",
+                "slug": "muhradah-sy050500"
+              },
+              "code": {
+                "id": "SY050500",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY04",
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      },
+      "code": {
+        "id": "SY04",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0402",
+          "name": {
+            "local": "القصير",
+            "en": "Al-Qusayr",
+            "slug": "al-qusayr-sy0402"
+          },
+          "code": {
+            "id": "SY0402",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY040200",
+              "name": {
+                "local": "مركز القصير",
+                "en": "Al-Qusayr",
+                "slug": "al-qusayr-sy040200"
+              },
+              "code": {
+                "id": "SY040200",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0406",
+          "name": {
+            "local": "المخرم",
+            "en": "Al Makhrim",
+            "slug": "al-makhrim-sy0406"
+          },
+          "code": {
+            "id": "SY0406",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY040600",
+              "name": {
+                "local": "المخرم",
+                "en": "Al Makhrim",
+                "slug": "al-makhrim-sy040600"
+              },
+              "code": {
+                "id": "SY040600",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040601",
+              "name": {
+                "local": "جب الجراح",
+                "en": "Jeb Ej-Jarrah",
+                "slug": "jeb-ej-jarrah-sy040601"
+              },
+              "code": {
+                "id": "SY040601",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0404",
+          "name": {
+            "local": "الرستن",
+            "en": "Ar-Rastan",
+            "slug": "ar-rastan-sy0404"
+          },
+          "code": {
+            "id": "SY0404",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY040400",
+              "name": {
+                "local": "مركز الرستن",
+                "en": "Ar-Rastan",
+                "slug": "ar-rastan-sy040400"
+              },
+              "code": {
+                "id": "SY040400",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040401",
+              "name": {
+                "local": "تلبيسة",
+                "en": "Talbiseh",
+                "slug": "talbiseh-sy040401"
+              },
+              "code": {
+                "id": "SY040401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0401",
+          "name": {
+            "local": "مركز حمص",
+            "en": "Homs",
+            "slug": "homs-sy0401"
+          },
+          "code": {
+            "id": "SY0401",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY040103",
+              "name": {
+                "local": "عين النسر",
+                "en": "Ein Elniser",
+                "slug": "ein-elniser-sy040103"
+              },
+              "code": {
+                "id": "SY040103",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040104",
+              "name": {
+                "local": "الفرقلس",
+                "en": "Farqalas",
+                "slug": "farqalas-sy040104"
+              },
+              "code": {
+                "id": "SY040104",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040108",
+              "name": {
+                "local": "حسياء",
+                "en": "Hasyaa",
+                "slug": "hasyaa-sy040108"
+              },
+              "code": {
+                "id": "SY040108",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040100",
+              "name": {
+                "local": "مركز حمص",
+                "en": "Homs",
+                "slug": "homs-sy040100"
+              },
+              "code": {
+                "id": "SY040100",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040102",
+              "name": {
+                "local": "خربة تين نور",
+                "en": "Kherbet Tin Noor",
+                "slug": "kherbet-tin-noor-sy040102"
+              },
+              "code": {
+                "id": "SY040102",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040107",
+              "name": {
+                "local": "مهين",
+                "en": "Mahin",
+                "slug": "mahin-sy040107"
+              },
+              "code": {
+                "id": "SY040107",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040110",
+              "name": {
+                "local": "القبو",
+                "en": "Qabu",
+                "slug": "qabu-sy040110"
+              },
+              "code": {
+                "id": "SY040110",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040106",
+              "name": {
+                "local": "القريتين",
+                "en": "Qaryatein",
+                "slug": "qaryatein-sy040106"
+              },
+              "code": {
+                "id": "SY040106",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040105",
+              "name": {
+                "local": "الرقاما",
+                "en": "Raqama",
+                "slug": "raqama-sy040105"
+              },
+              "code": {
+                "id": "SY040105",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040109",
+              "name": {
+                "local": "صدد",
+                "en": "Sadad",
+                "slug": "sadad-sy040109"
+              },
+              "code": {
+                "id": "SY040109",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040111",
+              "name": {
+                "local": "شين",
+                "en": "Shin",
+                "slug": "shin-sy040111"
+              },
+              "code": {
+                "id": "SY040111",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040101",
+              "name": {
+                "local": "تلدو",
+                "en": "Taldu",
+                "slug": "taldu-sy040101"
+              },
+              "code": {
+                "id": "SY040101",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0405",
+          "name": {
+            "local": "تدمر",
+            "en": "Tadmor",
+            "slug": "tadmor-sy0405"
+          },
+          "code": {
+            "id": "SY0405",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY040501",
+              "name": {
+                "local": "السخنة",
+                "en": "Sokhneh",
+                "slug": "sokhneh-sy040501"
+              },
+              "code": {
+                "id": "SY040501",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040500",
+              "name": {
+                "local": "مركز تدمر",
+                "en": "Tadmor",
+                "slug": "tadmor-sy040500"
+              },
+              "code": {
+                "id": "SY040500",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0403",
+          "name": {
+            "local": "تلكلخ",
+            "en": "Tall Kalakh",
+            "slug": "tall-kalakh-sy0403"
+          },
+          "code": {
+            "id": "SY0403",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY040301",
+              "name": {
+                "local": "حديدة",
+                "en": "Hadideh",
+                "slug": "hadideh-sy040301"
+              },
+              "code": {
+                "id": "SY040301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040304",
+              "name": {
+                "local": "الحواش",
+                "en": "Hawash",
+                "slug": "hawash-sy040304"
+              },
+              "code": {
+                "id": "SY040304",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040303",
+              "name": {
+                "local": "الناصرة",
+                "en": "Nasra",
+                "slug": "nasra-sy040303"
+              },
+              "code": {
+                "id": "SY040303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY040300",
+              "name": {
+                "local": "مركز تلكلخ",
+                "en": "Tall Kalakh",
+                "slug": "tall-kalakh-sy040300"
+              },
+              "code": {
+                "id": "SY040300",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY07",
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      },
+      "code": {
+        "id": "SY07",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0702",
+          "name": {
+            "local": "معرة النعمان",
+            "en": "Al Ma'ra",
+            "slug": "al-mara-sy0702"
+          },
+          "code": {
+            "id": "SY0702",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY070205",
+              "name": {
+                "local": "حيش",
+                "en": "Heish",
+                "slug": "heish-sy070205"
+              },
+              "code": {
+                "id": "SY070205",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070203",
+              "name": {
+                "local": "كفر نبل",
+                "en": "Kafr Nobol",
+                "slug": "kafr-nobol-sy070203"
+              },
+              "code": {
+                "id": "SY070203",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070201",
+              "name": {
+                "local": "خان شيخون",
+                "en": "Khan Shaykun",
+                "slug": "khan-shaykun-sy070201"
+              },
+              "code": {
+                "id": "SY070201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070200",
+              "name": {
+                "local": "مركز معرة النعمان",
+                "en": "Ma'arrat An Nu'man",
+                "slug": "maarrat-an-numan-sy070200"
+              },
+              "code": {
+                "id": "SY070200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070202",
+              "name": {
+                "local": "سنجار",
+                "en": "Sanjar",
+                "slug": "sanjar-sy070202"
+              },
+              "code": {
+                "id": "SY070202",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070204",
+              "name": {
+                "local": "التمانعة",
+                "en": "Tamanaah",
+                "slug": "tamanaah-sy070204"
+              },
+              "code": {
+                "id": "SY070204",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0705",
+          "name": {
+            "local": "أريحا",
+            "en": "Ariha",
+            "slug": "ariha-sy0705"
+          },
+          "code": {
+            "id": "SY0705",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY070500",
+              "name": {
+                "local": "مركز أريحا",
+                "en": "Ariha",
+                "slug": "ariha-sy070500"
+              },
+              "code": {
+                "id": "SY070500",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070501",
+              "name": {
+                "local": "احسم",
+                "en": "Ehsem",
+                "slug": "ehsem-sy070501"
+              },
+              "code": {
+                "id": "SY070501",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070502",
+              "name": {
+                "local": "محمبل",
+                "en": "Mhambal",
+                "slug": "mhambal-sy070502"
+              },
+              "code": {
+                "id": "SY070502",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0703",
+          "name": {
+            "local": "حارم",
+            "en": "Harim",
+            "slug": "harim-sy0703"
+          },
+          "code": {
+            "id": "SY0703",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY070305",
+              "name": {
+                "local": "أرمناز",
+                "en": "Armanaz",
+                "slug": "armanaz-sy070305"
+              },
+              "code": {
+                "id": "SY070305",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070301",
+              "name": {
+                "local": "دانا",
+                "en": "Dana",
+                "slug": "dana-sy070301"
+              },
+              "code": {
+                "id": "SY070301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070300",
+              "name": {
+                "local": "مركز حارم",
+                "en": "Harim",
+                "slug": "harim-sy070300"
+              },
+              "code": {
+                "id": "SY070300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070303",
+              "name": {
+                "local": "كفر تخاريم",
+                "en": "Kafr Takharim",
+                "slug": "kafr-takharim-sy070303"
+              },
+              "code": {
+                "id": "SY070303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070304",
+              "name": {
+                "local": "قورقينا",
+                "en": "Qourqeena",
+                "slug": "qourqeena-sy070304"
+              },
+              "code": {
+                "id": "SY070304",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070302",
+              "name": {
+                "local": "سلقين",
+                "en": "Salqin",
+                "slug": "salqin-sy070302"
+              },
+              "code": {
+                "id": "SY070302",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0700",
+          "name": {
+            "local": "مركز إدلب",
+            "en": "Idleb",
+            "slug": "idleb-sy0700"
+          },
+          "code": {
+            "id": "SY0700",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY070001",
+              "name": {
+                "local": "أبو الظهور",
+                "en": "Abul Thohur",
+                "slug": "abul-thohur-sy070001"
+              },
+              "code": {
+                "id": "SY070001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070002",
+              "name": {
+                "local": "بنش",
+                "en": "Bennsh",
+                "slug": "bennsh-sy070002"
+              },
+              "code": {
+                "id": "SY070002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070000",
+              "name": {
+                "local": "مركز إدلب",
+                "en": "Idleb",
+                "slug": "idleb-sy070000"
+              },
+              "code": {
+                "id": "SY070000",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070005",
+              "name": {
+                "local": "معرة تمصرين",
+                "en": "Maaret Tamsrin",
+                "slug": "maaret-tamsrin-sy070005"
+              },
+              "code": {
+                "id": "SY070005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070003",
+              "name": {
+                "local": "سراقب",
+                "en": "Saraqab",
+                "slug": "saraqab-sy070003"
+              },
+              "code": {
+                "id": "SY070003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070006",
+              "name": {
+                "local": "سرمين",
+                "en": "Sarmin",
+                "slug": "sarmin-sy070006"
+              },
+              "code": {
+                "id": "SY070006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070004",
+              "name": {
+                "local": "تفتناز",
+                "en": "Teftnaz",
+                "slug": "teftnaz-sy070004"
+              },
+              "code": {
+                "id": "SY070004",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0704",
+          "name": {
+            "local": "جسر الشغور",
+            "en": "Jisr-Ash-Shugur",
+            "slug": "jisr-ash-shugur-sy0704"
+          },
+          "code": {
+            "id": "SY0704",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY070401",
+              "name": {
+                "local": "بداما",
+                "en": "Badama",
+                "slug": "badama-sy070401"
+              },
+              "code": {
+                "id": "SY070401",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070402",
+              "name": {
+                "local": "دركوش",
+                "en": "Darkosh",
+                "slug": "darkosh-sy070402"
+              },
+              "code": {
+                "id": "SY070402",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070403",
+              "name": {
+                "local": "الجانودية",
+                "en": "Janudiyeh",
+                "slug": "janudiyeh-sy070403"
+              },
+              "code": {
+                "id": "SY070403",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY070400",
+              "name": {
+                "local": "مركز جسر الشغور",
+                "en": "Jisr-Ash-Shugur",
+                "slug": "jisr-ash-shugur-sy070400"
+              },
+              "code": {
+                "id": "SY070400",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY06",
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      },
+      "code": {
+        "id": "SY06",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0603",
+          "name": {
+            "local": "الحفة",
+            "en": "Al-Haffa",
+            "slug": "al-haffa-sy0603"
+          },
+          "code": {
+            "id": "SY0603",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY060300",
+              "name": {
+                "local": "مركزالحفة",
+                "en": "Al-Haffa",
+                "slug": "al-haffa-sy060300"
+              },
+              "code": {
+                "id": "SY060300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060302",
+              "name": {
+                "local": "عين التينة",
+                "en": "Ein Et-teeneh",
+                "slug": "ein-et-teeneh-sy060302"
+              },
+              "code": {
+                "id": "SY060302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060303",
+              "name": {
+                "local": "كنسبا",
+                "en": "Kansaba",
+                "slug": "kansaba-sy060303"
+              },
+              "code": {
+                "id": "SY060303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060304",
+              "name": {
+                "local": "مزيرعة",
+                "en": "Mzair'a",
+                "slug": "mzaira-sy060304"
+              },
+              "code": {
+                "id": "SY060304",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060301",
+              "name": {
+                "local": "صلنفة",
+                "en": "Salanfa",
+                "slug": "salanfa-sy060301"
+              },
+              "code": {
+                "id": "SY060301",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0604",
+          "name": {
+            "local": "القرداحة",
+            "en": "Al-Qardaha",
+            "slug": "al-qardaha-sy0604"
+          },
+          "code": {
+            "id": "SY0604",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY060400",
+              "name": {
+                "local": "مركز القرداحة",
+                "en": "Al-Qardaha",
+                "slug": "al-qardaha-sy060400"
+              },
+              "code": {
+                "id": "SY060400",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060402",
+              "name": {
+                "local": "الفاخورة",
+                "en": "Fakhura",
+                "slug": "fakhura-sy060402"
+              },
+              "code": {
+                "id": "SY060402",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060401",
+              "name": {
+                "local": "حرف المسيترة",
+                "en": "Harf Elmseitra",
+                "slug": "harf-elmseitra-sy060401"
+              },
+              "code": {
+                "id": "SY060401",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060403",
+              "name": {
+                "local": "جوبة برغال",
+                "en": "Jobet Berghal",
+                "slug": "jobet-berghal-sy060403"
+              },
+              "code": {
+                "id": "SY060403",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0602",
+          "name": {
+            "local": "جبلة",
+            "en": "Jablah",
+            "slug": "jablah-sy0602"
+          },
+          "code": {
+            "id": "SY0602",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY060205",
+              "name": {
+                "local": "بيت ياشوط",
+                "en": "Beit Yashout",
+                "slug": "beit-yashout-sy060205"
+              },
+              "code": {
+                "id": "SY060205",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060204",
+              "name": {
+                "local": "دالية",
+                "en": "Dalyeh",
+                "slug": "dalyeh-sy060204"
+              },
+              "code": {
+                "id": "SY060204",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060201",
+              "name": {
+                "local": "عين الشرقية",
+                "en": "Ein Elsharqiyeh",
+                "slug": "ein-elsharqiyeh-sy060201"
+              },
+              "code": {
+                "id": "SY060201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060203",
+              "name": {
+                "local": "عين شقاق",
+                "en": "Ein Shaqaq",
+                "slug": "ein-shaqaq-sy060203"
+              },
+              "code": {
+                "id": "SY060203",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060200",
+              "name": {
+                "local": "مركز جبلة",
+                "en": "Jablah",
+                "slug": "jablah-sy060200"
+              },
+              "code": {
+                "id": "SY060200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060202",
+              "name": {
+                "local": "القطيلبية",
+                "en": "Qteilbiyyeh",
+                "slug": "qteilbiyyeh-sy060202"
+              },
+              "code": {
+                "id": "SY060202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0600",
+          "name": {
+            "local": "مركز اللاذقية",
+            "en": "Lattakia",
+            "slug": "lattakia-sy0600"
+          },
+          "code": {
+            "id": "SY0600",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY060001",
+              "name": {
+                "local": "البهلولية",
+                "en": "Bahlolieh",
+                "slug": "bahlolieh-sy060001"
+              },
+              "code": {
+                "id": "SY060001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060003",
+              "name": {
+                "local": "عين البيضا",
+                "en": "Ein El-Bayda",
+                "slug": "ein-el-bayda-sy060003"
+              },
+              "code": {
+                "id": "SY060003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060006",
+              "name": {
+                "local": "هنادي",
+                "en": "Hanadi",
+                "slug": "hanadi-sy060006"
+              },
+              "code": {
+                "id": "SY060006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060005",
+              "name": {
+                "local": "كسب",
+                "en": "Kasab",
+                "slug": "kasab-sy060005"
+              },
+              "code": {
+                "id": "SY060005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060000",
+              "name": {
+                "local": "مركز اللاذقية",
+                "en": "Lattakia",
+                "slug": "lattakia-sy060000"
+              },
+              "code": {
+                "id": "SY060000",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060004",
+              "name": {
+                "local": "قسطل معاف",
+                "en": "Qastal Maaf",
+                "slug": "qastal-maaf-sy060004"
+              },
+              "code": {
+                "id": "SY060004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY060002",
+              "name": {
+                "local": "ربيعة",
+                "en": "Rabee'a",
+                "slug": "rabeea-sy060002"
+              },
+              "code": {
+                "id": "SY060002",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY14",
+      "name": {
+        "local": "القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy14"
+      },
+      "code": {
+        "id": "SY14",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY1402",
+          "name": {
+            "local": "فيق",
+            "en": "Al Fiq",
+            "slug": "al-fiq-sy1402"
+          },
+          "code": {
+            "id": "SY1402",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY140201",
+              "name": {
+                "local": "البطيحة",
+                "en": "Al-Butayhah",
+                "slug": "al-butayhah-sy140201"
+              },
+              "code": {
+                "id": "SY140201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY140200",
+              "name": {
+                "local": "مركز فيق",
+                "en": "Fiq",
+                "slug": "fiq-sy140200"
+              },
+              "code": {
+                "id": "SY140200",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1400",
+          "name": {
+            "local": "مركز القنيطرة",
+            "en": "Quneitra",
+            "slug": "quneitra-sy1400"
+          },
+          "code": {
+            "id": "SY1400",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY140002",
+              "name": {
+                "local": "الخشنية",
+                "en": "Al-Khashniyyeh",
+                "slug": "al-khashniyyeh-sy140002"
+              },
+              "code": {
+                "id": "SY140002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY140001",
+              "name": {
+                "local": "خان أرنبة",
+                "en": "Khan Arnaba",
+                "slug": "khan-arnaba-sy140001"
+              },
+              "code": {
+                "id": "SY140001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY140003",
+              "name": {
+                "local": "مسعدة",
+                "en": "Masaada",
+                "slug": "masaada-sy140003"
+              },
+              "code": {
+                "id": "SY140003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY140000",
+              "name": {
+                "local": "مركز القنيطرة",
+                "en": "Quneitra",
+                "slug": "quneitra-sy140000"
+              },
+              "code": {
+                "id": "SY140000",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY03",
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      },
+      "code": {
+        "id": "SY03",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY0303",
+          "name": {
+            "local": "القطيفة",
+            "en": "Al Qutayfah",
+            "slug": "al-qutayfah-sy0303"
+          },
+          "code": {
+            "id": "SY0303",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030300",
+              "name": {
+                "local": "مركز القطيفة",
+                "en": "Al Qutayfah",
+                "slug": "al-qutayfah-sy030300"
+              },
+              "code": {
+                "id": "SY030300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030301",
+              "name": {
+                "local": "جيرود",
+                "en": "Jirud",
+                "slug": "jirud-sy030301"
+              },
+              "code": {
+                "id": "SY030301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030302",
+              "name": {
+                "local": "معلولا",
+                "en": "Ma'loula",
+                "slug": "maloula-sy030302"
+              },
+              "code": {
+                "id": "SY030302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030303",
+              "name": {
+                "local": "الرحيبة",
+                "en": "Raheiba",
+                "slug": "raheiba-sy030303"
+              },
+              "code": {
+                "id": "SY030303",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0306",
+          "name": {
+            "local": "النبك",
+            "en": "An Nabk",
+            "slug": "an-nabk-sy0306"
+          },
+          "code": {
+            "id": "SY0306",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030600",
+              "name": {
+                "local": "مركز النبك",
+                "en": "An Nabk",
+                "slug": "an-nabk-sy030600"
+              },
+              "code": {
+                "id": "SY030600",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030601",
+              "name": {
+                "local": "دير عطية",
+                "en": "Deir Attiyeh",
+                "slug": "deir-attiyeh-sy030601"
+              },
+              "code": {
+                "id": "SY030601",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0304",
+          "name": {
+            "local": "التل",
+            "en": "At Tall",
+            "slug": "at-tall-sy0304"
+          },
+          "code": {
+            "id": "SY0304",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030400",
+              "name": {
+                "local": "مركز التل",
+                "en": "At Tall",
+                "slug": "at-tall-sy030400"
+              },
+              "code": {
+                "id": "SY030400",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030402",
+              "name": {
+                "local": "رنكوس",
+                "en": "Rankus",
+                "slug": "rankus-sy030402"
+              },
+              "code": {
+                "id": "SY030402",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030401",
+              "name": {
+                "local": "صيدنايا",
+                "en": "Sidnaya",
+                "slug": "sidnaya-sy030401"
+              },
+              "code": {
+                "id": "SY030401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0307",
+          "name": {
+            "local": "الزبداني",
+            "en": "Az-Zabdani",
+            "slug": "az-zabdani-sy0307"
+          },
+          "code": {
+            "id": "SY0307",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030700",
+              "name": {
+                "local": "مركز الزبداني",
+                "en": "Az-Zabdani",
+                "slug": "az-zabdani-sy030700"
+              },
+              "code": {
+                "id": "SY030700",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030701",
+              "name": {
+                "local": "الديماس",
+                "en": "Dimas",
+                "slug": "dimas-sy030701"
+              },
+              "code": {
+                "id": "SY030701",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030702",
+              "name": {
+                "local": "عين الفيجة",
+                "en": "Ein Elfijeh",
+                "slug": "ein-elfijeh-sy030702"
+              },
+              "code": {
+                "id": "SY030702",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030703",
+              "name": {
+                "local": "مضايا",
+                "en": "Madaya",
+                "slug": "madaya-sy030703"
+              },
+              "code": {
+                "id": "SY030703",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030704",
+              "name": {
+                "local": "سرغايا",
+                "en": "Sarghaya",
+                "slug": "sarghaya-sy030704"
+              },
+              "code": {
+                "id": "SY030704",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0309",
+          "name": {
+            "local": "داريا",
+            "en": "Darayya",
+            "slug": "darayya-sy0309"
+          },
+          "code": {
+            "id": "SY0309",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030902",
+              "name": {
+                "local": "الحجر الأسود",
+                "en": "Hajar Aswad",
+                "slug": "hajar-aswad-sy030902"
+              },
+              "code": {
+                "id": "SY030902",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030900",
+              "name": {
+                "local": "مركز داريا",
+                "en": "Markaz Darayya",
+                "slug": "markaz-darayya-sy030900"
+              },
+              "code": {
+                "id": "SY030900",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030901",
+              "name": {
+                "local": "صحنايا",
+                "en": "Sahnaya",
+                "slug": "sahnaya-sy030901"
+              },
+              "code": {
+                "id": "SY030901",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0302",
+          "name": {
+            "local": "دوما",
+            "en": "Duma",
+            "slug": "duma-sy0302"
+          },
+          "code": {
+            "id": "SY0302",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030203",
+              "name": {
+                "local": "الضمير",
+                "en": "Dhameer",
+                "slug": "dhameer-sy030203"
+              },
+              "code": {
+                "id": "SY030203",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030200",
+              "name": {
+                "local": "مركز دوما",
+                "en": "Duma",
+                "slug": "duma-sy030200"
+              },
+              "code": {
+                "id": "SY030200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030205",
+              "name": {
+                "local": "الغزلانية",
+                "en": "Ghizlaniyyeh",
+                "slug": "ghizlaniyyeh-sy030205"
+              },
+              "code": {
+                "id": "SY030205",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030206",
+              "name": {
+                "local": "حران العواميد",
+                "en": "Haran Al'awameed",
+                "slug": "haran-alawameed-sy030206"
+              },
+              "code": {
+                "id": "SY030206",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030201",
+              "name": {
+                "local": "حرستا",
+                "en": "Harasta",
+                "slug": "harasta-sy030201"
+              },
+              "code": {
+                "id": "SY030201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030204",
+              "name": {
+                "local": "النشابية",
+                "en": "Nashabiyeh",
+                "slug": "nashabiyeh-sy030204"
+              },
+              "code": {
+                "id": "SY030204",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030202",
+              "name": {
+                "local": "السبع بيار",
+                "en": "Sabe Byar",
+                "slug": "sabe-byar-sy030202"
+              },
+              "code": {
+                "id": "SY030202",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0308",
+          "name": {
+            "local": "قطنا",
+            "en": "Qatana",
+            "slug": "qatana-sy0308"
+          },
+          "code": {
+            "id": "SY0308",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030801",
+              "name": {
+                "local": "بيت جن",
+                "en": "Bait Jan",
+                "slug": "bait-jan-sy030801"
+              },
+              "code": {
+                "id": "SY030801",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030800",
+              "name": {
+                "local": "مركز قطنا",
+                "en": "Qatana",
+                "slug": "qatana-sy030800"
+              },
+              "code": {
+                "id": "SY030800",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030802",
+              "name": {
+                "local": "سعسع",
+                "en": "Sa'sa'",
+                "slug": "sasa-sy030802"
+              },
+              "code": {
+                "id": "SY030802",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0301",
+          "name": {
+            "local": "مركز ريف دمشق",
+            "en": "Rural Damascus",
+            "slug": "rural-damascus-sy0301"
+          },
+          "code": {
+            "id": "SY0301",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030106",
+              "name": {
+                "local": "عربين",
+                "en": "Arbin",
+                "slug": "arbin-sy030106"
+              },
+              "code": {
+                "id": "SY030106",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030102",
+              "name": {
+                "local": "ببيلا",
+                "en": "Babella",
+                "slug": "babella-sy030102"
+              },
+              "code": {
+                "id": "SY030102",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030103",
+              "name": {
+                "local": "جرمانا",
+                "en": "Jaramana",
+                "slug": "jaramana-sy030103"
+              },
+              "code": {
+                "id": "SY030103",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030105",
+              "name": {
+                "local": "كفر بطنا",
+                "en": "Kafr Batna",
+                "slug": "kafr-batna-sy030105"
+              },
+              "code": {
+                "id": "SY030105",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030101",
+              "name": {
+                "local": "الكسوة",
+                "en": "Kisweh",
+                "slug": "kisweh-sy030101"
+              },
+              "code": {
+                "id": "SY030101",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030104",
+              "name": {
+                "local": "المليحة",
+                "en": "Maliha",
+                "slug": "maliha-sy030104"
+              },
+              "code": {
+                "id": "SY030104",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030107",
+              "name": {
+                "local": "قدسيا",
+                "en": "Qudsiya",
+                "slug": "qudsiya-sy030107"
+              },
+              "code": {
+                "id": "SY030107",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY0305",
+          "name": {
+            "local": "يبرود",
+            "en": "Yabroud",
+            "slug": "yabroud-sy0305"
+          },
+          "code": {
+            "id": "SY0305",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY030501",
+              "name": {
+                "local": "عسال الورد",
+                "en": "Esal El-Ward",
+                "slug": "esal-el-ward-sy030501"
+              },
+              "code": {
+                "id": "SY030501",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY030500",
+              "name": {
+                "local": "مركز يبرود",
+                "en": "Yabroud",
+                "slug": "yabroud-sy030500"
+              },
+              "code": {
+                "id": "SY030500",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SY10",
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      },
+      "code": {
+        "id": "SY10",
+        "iso": null
+      },
+      "district": [
+        {
+          "id": "SY1002",
+          "name": {
+            "local": "بانياس",
+            "en": "Banyas",
+            "slug": "banyas-sy1002"
+          },
+          "code": {
+            "id": "SY1002",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY100200",
+              "name": {
+                "local": "مركز بانياس",
+                "en": "Banyas",
+                "slug": "banyas-sy100200"
+              },
+              "code": {
+                "id": "SY100200",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100201",
+              "name": {
+                "local": "الروضة",
+                "en": "Rawda",
+                "slug": "rawda-sy100201"
+              },
+              "code": {
+                "id": "SY100201",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100206",
+              "name": {
+                "local": "تالين",
+                "en": "Taleen",
+                "slug": "taleen-sy100206"
+              },
+              "code": {
+                "id": "SY100206",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1004",
+          "name": {
+            "local": "دريكيش",
+            "en": "Dreikish",
+            "slug": "dreikish-sy1004"
+          },
+          "code": {
+            "id": "SY1004",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY100400",
+              "name": {
+                "local": "مركز دريكيش",
+                "en": "Dreikish",
+                "slug": "dreikish-sy100400"
+              },
+              "code": {
+                "id": "SY100400",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100403",
+              "name": {
+                "local": "دوير رسلان",
+                "en": "Dweir Raslan",
+                "slug": "dweir-raslan-sy100403"
+              },
+              "code": {
+                "id": "SY100403",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100402",
+              "name": {
+                "local": "حمين",
+                "en": "Hamin",
+                "slug": "hamin-sy100402"
+              },
+              "code": {
+                "id": "SY100402",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100401",
+              "name": {
+                "local": "جنينة رسلان",
+                "en": "Jneinet Raslan",
+                "slug": "jneinet-raslan-sy100401"
+              },
+              "code": {
+                "id": "SY100401",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1006",
+          "name": {
+            "local": "القدموس",
+            "en": "Qadmous",
+            "slug": "qadmous-sy1006"
+          },
+          "code": {
+            "id": "SY1006",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY100601",
+              "name": {
+                "local": "العنازة",
+                "en": "Anaza",
+                "slug": "anaza-sy100601"
+              },
+              "code": {
+                "id": "SY100601",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100603",
+              "name": {
+                "local": "حمام واصل",
+                "en": "Hamam Wasil",
+                "slug": "hamam-wasil-sy100603"
+              },
+              "code": {
+                "id": "SY100603",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100602",
+              "name": {
+                "local": "القدموس",
+                "en": "Qadmous",
+                "slug": "qadmous-sy100602"
+              },
+              "code": {
+                "id": "SY100602",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100604",
+              "name": {
+                "local": "الطواحين",
+                "en": "Tawahin",
+                "slug": "tawahin-sy100604"
+              },
+              "code": {
+                "id": "SY100604",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1003",
+          "name": {
+            "local": "صافيتا",
+            "en": "Safita",
+            "slug": "safita-sy1003"
+          },
+          "code": {
+            "id": "SY1003",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY100302",
+              "name": {
+                "local": "البارقية",
+                "en": "Bariqiyeh",
+                "slug": "bariqiyeh-sy100302"
+              },
+              "code": {
+                "id": "SY100302",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100301",
+              "name": {
+                "local": "مشتى الحلو",
+                "en": "Mashta Elhiu",
+                "slug": "mashta-elhiu-sy100301"
+              },
+              "code": {
+                "id": "SY100301",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100305",
+              "name": {
+                "local": "رأس الخشوفة",
+                "en": "Ras El-Khashufeh",
+                "slug": "ras-el-khashufeh-sy100305"
+              },
+              "code": {
+                "id": "SY100305",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100300",
+              "name": {
+                "local": "مركز صافيتا",
+                "en": "Safita",
+                "slug": "safita-sy100300"
+              },
+              "code": {
+                "id": "SY100300",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100303",
+              "name": {
+                "local": "سبة",
+                "en": "Sibbeh",
+                "slug": "sibbeh-sy100303"
+              },
+              "code": {
+                "id": "SY100303",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100304",
+              "name": {
+                "local": "السيسنية",
+                "en": "Sisniyyeh",
+                "slug": "sisniyyeh-sy100304"
+              },
+              "code": {
+                "id": "SY100304",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1005",
+          "name": {
+            "local": "الشيخ بدر",
+            "en": "Sheikh Badr",
+            "slug": "sheikh-badr-sy1005"
+          },
+          "code": {
+            "id": "SY1005",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY100501",
+              "name": {
+                "local": "برمانة المشايخ",
+                "en": "Baramanet Elmashayekh",
+                "slug": "baramanet-elmashayekh-sy100501"
+              },
+              "code": {
+                "id": "SY100501",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100502",
+              "name": {
+                "local": "قمصية",
+                "en": "Qumseyyeh",
+                "slug": "qumseyyeh-sy100502"
+              },
+              "code": {
+                "id": "SY100502",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100500",
+              "name": {
+                "local": "مركز الشيخ بدر",
+                "en": "Sheikh Badr",
+                "slug": "sheikh-badr-sy100500"
+              },
+              "code": {
+                "id": "SY100500",
+                "iso": null
+              }
+            }
+          ]
+        },
+        {
+          "id": "SY1000",
+          "name": {
+            "local": "مركز طرطوس",
+            "en": "Tartous",
+            "slug": "tartous-sy1000"
+          },
+          "code": {
+            "id": "SY1000",
+            "iso": null
+          },
+          "subdistrict": [
+            {
+              "id": "SY100001",
+              "name": {
+                "local": "أرواد",
+                "en": "Arwad",
+                "slug": "arwad-sy100001"
+              },
+              "code": {
+                "id": "SY100001",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100002",
+              "name": {
+                "local": "الحميدية",
+                "en": "Hameidiyyeh",
+                "slug": "hameidiyyeh-sy100002"
+              },
+              "code": {
+                "id": "SY100002",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100005",
+              "name": {
+                "local": "كريمة",
+                "en": "Kareemeh",
+                "slug": "kareemeh-sy100005"
+              },
+              "code": {
+                "id": "SY100005",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100003",
+              "name": {
+                "local": "خربة المعزة",
+                "en": "Kherbet Elma'aza",
+                "slug": "kherbet-elmaaza-sy100003"
+              },
+              "code": {
+                "id": "SY100003",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100006",
+              "name": {
+                "local": "صفصافة",
+                "en": "Safsafa",
+                "slug": "safsafa-sy100006"
+              },
+              "code": {
+                "id": "SY100006",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100004",
+              "name": {
+                "local": "سودا خوابي",
+                "en": "Soda Khawabi",
+                "slug": "soda-khawabi-sy100004"
+              },
+              "code": {
+                "id": "SY100004",
+                "iso": null
+              }
+            },
+            {
+              "id": "SY100000",
+              "name": {
+                "local": "مركز طرطوس",
+                "en": "Tartous",
+                "slug": "tartous-sy100000"
+              },
+              "code": {
+                "id": "SY100000",
+                "iso": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

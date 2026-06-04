@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY030600",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز النبك",
+      "en": "An Nabk",
+      "slug": "an-nabk-sy030600"
+    },
+    "code": {
+      "id": "SY030600",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0306",
+      "level": 2,
+      "name": {
+        "local": "النبك",
+        "en": "An Nabk",
+        "slug": "an-nabk-sy0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0306",
+        "level": 2,
+        "name": {
+          "local": "النبك",
+          "en": "An Nabk",
+          "slug": "an-nabk-sy0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.991",
+      "lon": "36.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030601",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دير عطية",
+      "en": "Deir Attiyeh",
+      "slug": "deir-attiyeh-sy030601"
+    },
+    "code": {
+      "id": "SY030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0306",
+      "level": 2,
+      "name": {
+        "local": "النبك",
+        "en": "An Nabk",
+        "slug": "an-nabk-sy0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0306",
+        "level": 2,
+        "name": {
+          "local": "النبك",
+          "en": "An Nabk",
+          "slug": "an-nabk-sy0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.142",
+      "lon": "36.755"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

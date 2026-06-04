@@ -1,0 +1,47 @@
+{
+  "id": "SY1101",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مركز الرقة",
+    "en": "Ar-Raqqa",
+    "slug": "ar-raqqa-sy1101"
+  },
+  "code": {
+    "id": "SY1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY11",
+    "level": 1,
+    "name": {
+      "local": "الرقة",
+      "en": "Ar-Raqqa",
+      "slug": "ar-raqqa-sy11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY11",
+      "level": 1,
+      "name": {
+        "local": "الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.827",
+    "lon": "39.279"
+  },
+  "metadata": {},
+  "source": {}
+}

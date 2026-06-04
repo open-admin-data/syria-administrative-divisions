@@ -1,0 +1,47 @@
+{
+  "id": "SY0803",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "المالكية",
+    "en": "Al-Malikeyyeh",
+    "slug": "al-malikeyyeh-sy0803"
+  },
+  "code": {
+    "id": "SY0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY08",
+    "level": 1,
+    "name": {
+      "local": "الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.963",
+    "lon": "41.97"
+  },
+  "metadata": {},
+  "source": {}
+}

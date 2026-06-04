@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY080300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز المالكية",
+      "en": "Al-Malikeyyeh",
+      "slug": "al-malikeyyeh-sy080300"
+    },
+    "code": {
+      "id": "SY080300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0803",
+      "level": 2,
+      "name": {
+        "local": "المالكية",
+        "en": "Al-Malikeyyeh",
+        "slug": "al-malikeyyeh-sy0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0803",
+        "level": 2,
+        "name": {
+          "local": "المالكية",
+          "en": "Al-Malikeyyeh",
+          "slug": "al-malikeyyeh-sy0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.114",
+      "lon": "42.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جوادية",
+      "en": "Jawadiyah",
+      "slug": "jawadiyah-sy080301"
+    },
+    "code": {
+      "id": "SY080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0803",
+      "level": 2,
+      "name": {
+        "local": "المالكية",
+        "en": "Al-Malikeyyeh",
+        "slug": "al-malikeyyeh-sy0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0803",
+        "level": 2,
+        "name": {
+          "local": "المالكية",
+          "en": "Al-Malikeyyeh",
+          "slug": "al-malikeyyeh-sy0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "37.027",
+      "lon": "41.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "يعربية",
+      "en": "Ya'robiyah",
+      "slug": "yarobiyah-sy080302"
+    },
+    "code": {
+      "id": "SY080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0803",
+      "level": 2,
+      "name": {
+        "local": "المالكية",
+        "en": "Al-Malikeyyeh",
+        "slug": "al-malikeyyeh-sy0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0803",
+        "level": 2,
+        "name": {
+          "local": "المالكية",
+          "en": "Al-Malikeyyeh",
+          "slug": "al-malikeyyeh-sy0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.782",
+      "lon": "41.871"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

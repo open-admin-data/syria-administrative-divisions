@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY090300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الميادين",
+      "en": "Al Mayadin",
+      "slug": "al-mayadin-sy090300"
+    },
+    "code": {
+      "id": "SY090300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0903",
+      "level": 2,
+      "name": {
+        "local": "الميادين",
+        "en": "Al Mayadin",
+        "slug": "al-mayadin-sy0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0903",
+        "level": 2,
+        "name": {
+          "local": "الميادين",
+          "en": "Al Mayadin",
+          "slug": "al-mayadin-sy0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.911",
+      "lon": "40.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عشارة",
+      "en": "Ashara",
+      "slug": "ashara-sy090302"
+    },
+    "code": {
+      "id": "SY090302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0903",
+      "level": 2,
+      "name": {
+        "local": "الميادين",
+        "en": "Al Mayadin",
+        "slug": "al-mayadin-sy0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0903",
+        "level": 2,
+        "name": {
+          "local": "الميادين",
+          "en": "Al Mayadin",
+          "slug": "al-mayadin-sy0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.782",
+      "lon": "40.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ذيبان",
+      "en": "Thiban",
+      "slug": "thiban-sy090301"
+    },
+    "code": {
+      "id": "SY090301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0903",
+      "level": 2,
+      "name": {
+        "local": "الميادين",
+        "en": "Al Mayadin",
+        "slug": "al-mayadin-sy0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0903",
+        "level": 2,
+        "name": {
+          "local": "الميادين",
+          "en": "Al Mayadin",
+          "slug": "al-mayadin-sy0903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.025",
+      "lon": "40.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

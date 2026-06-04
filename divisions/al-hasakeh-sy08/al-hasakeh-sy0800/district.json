@@ -1,0 +1,47 @@
+{
+  "id": "SY0800",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مركز الحسكة",
+    "en": "Al-Hasakeh",
+    "slug": "al-hasakeh-sy0800"
+  },
+  "code": {
+    "id": "SY0800",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY08",
+    "level": 1,
+    "name": {
+      "local": "الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.169",
+    "lon": "40.653"
+  },
+  "metadata": {},
+  "source": {}
+}

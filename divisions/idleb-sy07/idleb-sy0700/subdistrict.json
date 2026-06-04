@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY070001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "أبو الظهور",
+      "en": "Abul Thohur",
+      "slug": "abul-thohur-sy070001"
+    },
+    "code": {
+      "id": "SY070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.751",
+      "lon": "37.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بنش",
+      "en": "Bennsh",
+      "slug": "bennsh-sy070002"
+    },
+    "code": {
+      "id": "SY070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.985",
+      "lon": "36.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy070000"
+    },
+    "code": {
+      "id": "SY070000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.924",
+      "lon": "36.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070005",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "معرة تمصرين",
+      "en": "Maaret Tamsrin",
+      "slug": "maaret-tamsrin-sy070005"
+    },
+    "code": {
+      "id": "SY070005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.059",
+      "lon": "36.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سراقب",
+      "en": "Saraqab",
+      "slug": "saraqab-sy070003"
+    },
+    "code": {
+      "id": "SY070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.844",
+      "lon": "36.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070006",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سرمين",
+      "en": "Sarmin",
+      "slug": "sarmin-sy070006"
+    },
+    "code": {
+      "id": "SY070006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.915",
+      "lon": "36.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070004",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تفتناز",
+      "en": "Teftnaz",
+      "slug": "teftnaz-sy070004"
+    },
+    "code": {
+      "id": "SY070004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0700",
+      "level": 2,
+      "name": {
+        "local": "مركز إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy0700"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0700",
+        "level": 2,
+        "name": {
+          "local": "مركز إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy0700"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.013",
+      "lon": "36.819"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

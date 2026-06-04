@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SY050403",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين حلاقيم",
+      "en": "Ein Halaqim",
+      "slug": "ein-halaqim-sy050403"
+    },
+    "code": {
+      "id": "SY050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0504",
+      "level": 2,
+      "name": {
+        "local": "مصياف",
+        "en": "Masyaf",
+        "slug": "masyaf-sy0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0504",
+        "level": 2,
+        "name": {
+          "local": "مصياف",
+          "en": "Masyaf",
+          "slug": "masyaf-sy0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.925",
+      "lon": "36.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050401",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جب رملة",
+      "en": "Jeb Ramleh",
+      "slug": "jeb-ramleh-sy050401"
+    },
+    "code": {
+      "id": "SY050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0504",
+      "level": 2,
+      "name": {
+        "local": "مصياف",
+        "en": "Masyaf",
+        "slug": "masyaf-sy0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0504",
+        "level": 2,
+        "name": {
+          "local": "مصياف",
+          "en": "Masyaf",
+          "slug": "masyaf-sy0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.189",
+      "lon": "36.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050400",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز مصياف",
+      "en": "Masyaf",
+      "slug": "masyaf-sy050400"
+    },
+    "code": {
+      "id": "SY050400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0504",
+      "level": 2,
+      "name": {
+        "local": "مصياف",
+        "en": "Masyaf",
+        "slug": "masyaf-sy0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0504",
+        "level": 2,
+        "name": {
+          "local": "مصياف",
+          "en": "Masyaf",
+          "slug": "masyaf-sy0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.081",
+      "lon": "36.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050402",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عوج",
+      "en": "Oj",
+      "slug": "oj-sy050402"
+    },
+    "code": {
+      "id": "SY050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0504",
+      "level": 2,
+      "name": {
+        "local": "مصياف",
+        "en": "Masyaf",
+        "slug": "masyaf-sy0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0504",
+        "level": 2,
+        "name": {
+          "local": "مصياف",
+          "en": "Masyaf",
+          "slug": "masyaf-sy0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.913",
+      "lon": "36.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050404",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "وادي العيون",
+      "en": "Wadi El-oyoun",
+      "slug": "wadi-el-oyoun-sy050404"
+    },
+    "code": {
+      "id": "SY050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0504",
+      "level": 2,
+      "name": {
+        "local": "مصياف",
+        "en": "Masyaf",
+        "slug": "masyaf-sy0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0504",
+        "level": 2,
+        "name": {
+          "local": "مصياف",
+          "en": "Masyaf",
+          "slug": "masyaf-sy0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.988",
+      "lon": "36.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

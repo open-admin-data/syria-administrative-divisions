@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY080000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy080000"
+    },
+    "code": {
+      "id": "SY080000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.532",
+      "lon": "40.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080005",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العريشة",
+      "en": "Areesheh",
+      "slug": "areesheh-sy080005"
+    },
+    "code": {
+      "id": "SY080005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.127",
+      "lon": "40.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080004",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بئر الحلو الوردية",
+      "en": "Be'r Al-Hulo Al-Wardeyyeh",
+      "slug": "ber-al-hulo-al-wardeyyeh-sy080004"
+    },
+    "code": {
+      "id": "SY080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.662",
+      "lon": "41.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080006",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الهول",
+      "en": "Hole",
+      "slug": "hole-sy080006"
+    },
+    "code": {
+      "id": "SY080006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.439",
+      "lon": "41.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركدة",
+      "en": "Markada",
+      "slug": "markada-sy080003"
+    },
+    "code": {
+      "id": "SY080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.873",
+      "lon": "40.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شدادة",
+      "en": "Shadadah",
+      "slug": "shadadah-sy080002"
+    },
+    "code": {
+      "id": "SY080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.022",
+      "lon": "40.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تل تمر",
+      "en": "Tal Tamer",
+      "slug": "tal-tamer-sy080001"
+    },
+    "code": {
+      "id": "SY080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0800",
+      "level": 2,
+      "name": {
+        "local": "مركز الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy0800"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0800",
+        "level": 2,
+        "name": {
+          "local": "مركز الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy0800"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.602",
+      "lon": "40.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

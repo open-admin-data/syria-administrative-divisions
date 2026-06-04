@@ -1,0 +1,72 @@
+# As-Sweida — Syria Administrative Divisions
+
+> 3 districts, 12 sub-districts
+> Code: SY13
+> Coordinates: 32.756, 36.895
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### مركز السويداء (As-Sweida)
+
+Code: SY1300, Coordinates: 32.771, 36.888
+Sub-districts: 3
+
+#### مركز السويداء (As-Sweida)
+
+Code: SY130000, Coordinates: 32.675, 36.589
+
+#### المشنف (Mashnaf)
+
+Code: SY130002, Coordinates: 32.811, 37.056
+
+#### المزرعة (Mazra&#39;a)
+
+Code: SY130001, Coordinates: 32.809, 36.454
+
+### صلخد (Salkhad)
+
+Code: SY1302, Coordinates: 32.499, 36.841
+Sub-districts: 5
+
+#### الغارية (Gharyeh)
+
+Code: SY130202, Coordinates: 32.385, 36.667
+
+#### ملح (Milh)
+
+Code: SY130204, Coordinates: 32.526, 37.014
+
+#### القريا (Qarayya)
+
+Code: SY130201, Coordinates: 32.533, 36.574
+
+#### مركز صلخد (Salkhad)
+
+Code: SY130200, Coordinates: 32.444, 36.763
+
+#### ذيبين (Thibeen)
+
+Code: SY130203, Coordinates: 32.421, 36.587
+
+### شهبا (Shahba)
+
+Code: SY1303, Coordinates: 32.986, 36.797
+Sub-districts: 4
+
+#### العريقة (Ariqa)
+
+Code: SY130302, Coordinates: 32.924, 36.462
+
+#### الصورة الصغيرة (Little Sura)
+
+Code: SY130303, Coordinates: 33.077, 36.679
+
+#### مركز شهبا (Shahba)
+
+Code: SY130300, Coordinates: 32.882, 36.607
+
+#### شقا (Shaqa)
+
+Code: SY130301, Coordinates: 32.947, 36.858
+

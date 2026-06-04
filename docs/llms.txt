@@ -1,0 +1,80 @@
+# Syria Administrative Divisions
+
+> Open dataset of Syria's administrative hierarchy:
+> 14 governorates, 62 districts, 272 sub-districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total governorates: 14
+- Total districts: 62
+- Total sub-districts: 272
+- Coordinates: included (all levels)
+- Last updated: 2026-06-04
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All governorates (JSON)](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/data/all-governorate.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/data/all-district.json)
+- [All sub-districts (JSON)](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/data/all-subdistrict.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/data/schema.json)
+
+## Browse by Governorate
+
+- [Al-Hasakeh](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/al-hasakeh-sy08/) — 4 districts, 16 sub-districts
+- [Aleppo](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/aleppo-sy02/) — 8 districts, 40 sub-districts
+- [Ar-Raqqa](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/ar-raqqa-sy11/) — 3 districts, 10 sub-districts
+- [As-Sweida](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/as-sweida-sy13/) — 3 districts, 12 sub-districts
+- [Damascus](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/damascus-sy01/) — 1 districts, 1 sub-districts
+- [Dar&#39;a](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/dara-sy12/) — 3 districts, 17 sub-districts
+- [Deir-ez-Zor](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/deir-ez-zor-sy09/) — 3 districts, 14 sub-districts
+- [Hama](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/hama-sy05/) — 5 districts, 22 sub-districts
+- [Homs](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/homs-sy04/) — 6 districts, 23 sub-districts
+- [Idleb](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/idleb-sy07/) — 5 districts, 26 sub-districts
+- [Lattakia](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/lattakia-sy06/) — 4 districts, 22 sub-districts
+- [Quneitra](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/quneitra-sy14/) — 2 districts, 6 sub-districts
+- [Rural Damascus](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/rural-damascus-sy03/) — 9 districts, 36 sub-districts
+- [Tartous](https://github.com/open-admin-data/syria-administrative-divisions/tree/main/divisions/tartous-sy10/) — 6 districts, 27 sub-districts
+
+## Per-Governorate Full Data
+
+- [Al-Hasakeh](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/al-hasakeh-sy08.txt)
+- [Aleppo](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/aleppo-sy02.txt)
+- [Ar-Raqqa](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/ar-raqqa-sy11.txt)
+- [As-Sweida](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/as-sweida-sy13.txt)
+- [Damascus](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/damascus-sy01.txt)
+- [Dar&#39;a](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/dara-sy12.txt)
+- [Deir-ez-Zor](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/deir-ez-zor-sy09.txt)
+- [Hama](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/hama-sy05.txt)
+- [Homs](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/homs-sy04.txt)
+- [Idleb](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/idleb-sy07.txt)
+- [Lattakia](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/lattakia-sy06.txt)
+- [Quneitra](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/quneitra-sy14.txt)
+- [Rural Damascus](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/rural-damascus-sy03.txt)
+- [Tartous](https://raw.githubusercontent.com/open-admin-data/syria-administrative-divisions/main/docs/llms-full/tartous-sy10.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (governorate), 2 (district), 3 (sub-district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Syria Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/syria-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

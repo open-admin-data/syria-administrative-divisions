@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY050501",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كفرزيتا",
+      "en": "Kafr Zeita",
+      "slug": "kafr-zeita-sy050501"
+    },
+    "code": {
+      "id": "SY050501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0505",
+      "level": 2,
+      "name": {
+        "local": "محردة",
+        "en": "Muhradah",
+        "slug": "muhradah-sy0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0505",
+        "level": 2,
+        "name": {
+          "local": "محردة",
+          "en": "Muhradah",
+          "slug": "muhradah-sy0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.351",
+      "lon": "36.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050502",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كرناز",
+      "en": "Karnaz",
+      "slug": "karnaz-sy050502"
+    },
+    "code": {
+      "id": "SY050502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0505",
+      "level": 2,
+      "name": {
+        "local": "محردة",
+        "en": "Muhradah",
+        "slug": "muhradah-sy0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0505",
+        "level": 2,
+        "name": {
+          "local": "محردة",
+          "en": "Muhradah",
+          "slug": "muhradah-sy0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.357",
+      "lon": "36.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050500",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز محردة",
+      "en": "Muhradah",
+      "slug": "muhradah-sy050500"
+    },
+    "code": {
+      "id": "SY050500",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0505",
+      "level": 2,
+      "name": {
+        "local": "محردة",
+        "en": "Muhradah",
+        "slug": "muhradah-sy0505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0505",
+        "level": 2,
+        "name": {
+          "local": "محردة",
+          "en": "Muhradah",
+          "slug": "muhradah-sy0505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.242",
+      "lon": "36.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

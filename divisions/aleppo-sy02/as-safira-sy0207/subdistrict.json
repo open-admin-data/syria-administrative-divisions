@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY020700",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز السفيرة",
+      "en": "As-Safira",
+      "slug": "as-safira-sy020700"
+    },
+    "code": {
+      "id": "SY020700",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0207",
+      "level": 2,
+      "name": {
+        "local": "السفيرة",
+        "en": "As-Safira",
+        "slug": "as-safira-sy0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0207",
+        "level": 2,
+        "name": {
+          "local": "السفيرة",
+          "en": "As-Safira",
+          "slug": "as-safira-sy0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.03",
+      "lon": "37.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020702",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بنان",
+      "en": "Banan",
+      "slug": "banan-sy020702"
+    },
+    "code": {
+      "id": "SY020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0207",
+      "level": 2,
+      "name": {
+        "local": "السفيرة",
+        "en": "As-Safira",
+        "slug": "as-safira-sy0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0207",
+        "level": 2,
+        "name": {
+          "local": "السفيرة",
+          "en": "As-Safira",
+          "slug": "as-safira-sy0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.958",
+      "lon": "37.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020703",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحاجب",
+      "en": "Hajeb",
+      "slug": "hajeb-sy020703"
+    },
+    "code": {
+      "id": "SY020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0207",
+      "level": 2,
+      "name": {
+        "local": "السفيرة",
+        "en": "As-Safira",
+        "slug": "as-safira-sy0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0207",
+        "level": 2,
+        "name": {
+          "local": "السفيرة",
+          "en": "As-Safira",
+          "slug": "as-safira-sy0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.855",
+      "lon": "37.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020701",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خناصر",
+      "en": "Khanaser",
+      "slug": "khanaser-sy020701"
+    },
+    "code": {
+      "id": "SY020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0207",
+      "level": 2,
+      "name": {
+        "local": "السفيرة",
+        "en": "As-Safira",
+        "slug": "as-safira-sy0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0207",
+        "level": 2,
+        "name": {
+          "local": "السفيرة",
+          "en": "As-Safira",
+          "slug": "as-safira-sy0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.685",
+      "lon": "37.59"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SY070305",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "أرمناز",
+      "en": "Armanaz",
+      "slug": "armanaz-sy070305"
+    },
+    "code": {
+      "id": "SY070305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0703",
+      "level": 2,
+      "name": {
+        "local": "حارم",
+        "en": "Harim",
+        "slug": "harim-sy0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0703",
+        "level": 2,
+        "name": {
+          "local": "حارم",
+          "en": "Harim",
+          "slug": "harim-sy0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.001",
+      "lon": "36.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دانا",
+      "en": "Dana",
+      "slug": "dana-sy070301"
+    },
+    "code": {
+      "id": "SY070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0703",
+      "level": 2,
+      "name": {
+        "local": "حارم",
+        "en": "Harim",
+        "slug": "harim-sy0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0703",
+        "level": 2,
+        "name": {
+          "local": "حارم",
+          "en": "Harim",
+          "slug": "harim-sy0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.238",
+      "lon": "36.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز حارم",
+      "en": "Harim",
+      "slug": "harim-sy070300"
+    },
+    "code": {
+      "id": "SY070300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0703",
+      "level": 2,
+      "name": {
+        "local": "حارم",
+        "en": "Harim",
+        "slug": "harim-sy0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0703",
+        "level": 2,
+        "name": {
+          "local": "حارم",
+          "en": "Harim",
+          "slug": "harim-sy0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.192",
+      "lon": "36.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كفر تخاريم",
+      "en": "Kafr Takharim",
+      "slug": "kafr-takharim-sy070303"
+    },
+    "code": {
+      "id": "SY070303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0703",
+      "level": 2,
+      "name": {
+        "local": "حارم",
+        "en": "Harim",
+        "slug": "harim-sy0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0703",
+        "level": 2,
+        "name": {
+          "local": "حارم",
+          "en": "Harim",
+          "slug": "harim-sy0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.12",
+      "lon": "36.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قورقينا",
+      "en": "Qourqeena",
+      "slug": "qourqeena-sy070304"
+    },
+    "code": {
+      "id": "SY070304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0703",
+      "level": 2,
+      "name": {
+        "local": "حارم",
+        "en": "Harim",
+        "slug": "harim-sy0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0703",
+        "level": 2,
+        "name": {
+          "local": "حارم",
+          "en": "Harim",
+          "slug": "harim-sy0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.149",
+      "lon": "36.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سلقين",
+      "en": "Salqin",
+      "slug": "salqin-sy070302"
+    },
+    "code": {
+      "id": "SY070302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0703",
+      "level": 2,
+      "name": {
+        "local": "حارم",
+        "en": "Harim",
+        "slug": "harim-sy0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0703",
+        "level": 2,
+        "name": {
+          "local": "حارم",
+          "en": "Harim",
+          "slug": "harim-sy0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.127",
+      "lon": "36.426"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

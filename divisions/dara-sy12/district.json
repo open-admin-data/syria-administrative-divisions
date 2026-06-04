@@ -1,0 +1,143 @@
+[
+  {
+    "id": "SY1202",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصنمين",
+      "en": "As-Sanamayn",
+      "slug": "as-sanamayn-sy1202"
+    },
+    "code": {
+      "id": "SY1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.104",
+      "lon": "36.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1200",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "درعا",
+      "en": "Dar'a",
+      "slug": "dara-sy1200"
+    },
+    "code": {
+      "id": "SY1200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.621",
+      "lon": "36.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1203",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "ازرع",
+      "en": "Izra'",
+      "slug": "izra-sy1203"
+    },
+    "code": {
+      "id": "SY1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.866",
+      "lon": "36.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

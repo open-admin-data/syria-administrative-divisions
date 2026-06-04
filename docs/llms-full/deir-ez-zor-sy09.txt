@@ -1,0 +1,80 @@
+# Deir-ez-Zor — Syria Administrative Divisions
+
+> 3 districts, 14 sub-districts
+> Code: SY09
+> Coordinates: 35.201, 40.295
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### البوكمال (Abu Kamal)
+
+Code: SY0902, Coordinates: 34.588, 40.694
+Sub-districts: 4
+
+#### مركز البوكمال (Abu Kamal)
+
+Code: SY090200, Coordinates: 34.44, 40.478
+
+#### هجين (Hajin)
+
+Code: SY090201, Coordinates: 34.851, 40.976
+
+#### الجلاء (Jalaa)
+
+Code: SY090202, Coordinates: 34.637, 40.634
+
+#### سوسة (Susat)
+
+Code: SY090203, Coordinates: 34.518, 40.995
+
+### الميادين (Al Mayadin)
+
+Code: SY0903, Coordinates: 34.937, 40.444
+Sub-districts: 3
+
+#### مركز الميادين (Al Mayadin)
+
+Code: SY090300, Coordinates: 34.911, 40.205
+
+#### عشارة (Ashara)
+
+Code: SY090302, Coordinates: 34.782, 40.432
+
+#### ذيبان (Thiban)
+
+Code: SY090301, Coordinates: 35.025, 40.742
+
+### مركز دير الزور (Deir-ez-Zor)
+
+Code: SY0901, Coordinates: 35.566, 40.203
+Sub-districts: 7
+
+#### بصيرة (Basira)
+
+Code: SY090102, Coordinates: 35.197, 40.674
+
+#### مركز دير الزور (Deir-ez-Zor)
+
+Code: SY090100, Coordinates: 35.26, 39.726
+
+#### خشام (Khasham)
+
+Code: SY090105, Coordinates: 35.268, 40.325
+
+#### كسرة (Kisreh)
+
+Code: SY090101, Coordinates: 35.879, 40.051
+
+#### موحسن (Muhasan)
+
+Code: SY090103, Coordinates: 35.055, 40.029
+
+#### صور (Sur)
+
+Code: SY090106, Coordinates: 35.426, 40.904
+
+#### التبني (Tabni)
+
+Code: SY090104, Coordinates: 35.585, 39.678
+

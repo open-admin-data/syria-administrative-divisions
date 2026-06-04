@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY040501",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السخنة",
+      "en": "Sokhneh",
+      "slug": "sokhneh-sy040501"
+    },
+    "code": {
+      "id": "SY040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0405",
+      "level": 2,
+      "name": {
+        "local": "تدمر",
+        "en": "Tadmor",
+        "slug": "tadmor-sy0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0405",
+        "level": 2,
+        "name": {
+          "local": "تدمر",
+          "en": "Tadmor",
+          "slug": "tadmor-sy0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.639",
+      "lon": "39.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040500",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز تدمر",
+      "en": "Tadmor",
+      "slug": "tadmor-sy040500"
+    },
+    "code": {
+      "id": "SY040500",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0405",
+      "level": 2,
+      "name": {
+        "local": "تدمر",
+        "en": "Tadmor",
+        "slug": "tadmor-sy0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0405",
+        "level": 2,
+        "name": {
+          "local": "تدمر",
+          "en": "Tadmor",
+          "slug": "tadmor-sy0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.273",
+      "lon": "38.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

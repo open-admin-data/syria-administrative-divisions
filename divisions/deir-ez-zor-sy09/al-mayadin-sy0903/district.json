@@ -1,0 +1,47 @@
+{
+  "id": "SY0903",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "الميادين",
+    "en": "Al Mayadin",
+    "slug": "al-mayadin-sy0903"
+  },
+  "code": {
+    "id": "SY0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY09",
+    "level": 1,
+    "name": {
+      "local": "دير الزور",
+      "en": "Deir-ez-Zor",
+      "slug": "deir-ez-zor-sy09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY09",
+      "level": 1,
+      "name": {
+        "local": "دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy09"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.937",
+    "lon": "40.444"
+  },
+  "metadata": {},
+  "source": {}
+}

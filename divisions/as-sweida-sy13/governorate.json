@@ -1,0 +1,34 @@
+{
+  "id": "SY13",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "السويداء",
+    "en": "As-Sweida",
+    "slug": "as-sweida-sy13"
+  },
+  "code": {
+    "id": "SY13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.756",
+    "lon": "36.895"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sy/governorates/as-sweida-sy13/",
+    "api": "https://openadmindata.org/api/sy/"
+  }
+}

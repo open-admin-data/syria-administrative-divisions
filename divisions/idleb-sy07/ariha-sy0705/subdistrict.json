@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY070500",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز أريحا",
+      "en": "Ariha",
+      "slug": "ariha-sy070500"
+    },
+    "code": {
+      "id": "SY070500",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0705",
+      "level": 2,
+      "name": {
+        "local": "أريحا",
+        "en": "Ariha",
+        "slug": "ariha-sy0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0705",
+        "level": 2,
+        "name": {
+          "local": "أريحا",
+          "en": "Ariha",
+          "slug": "ariha-sy0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.798",
+      "lon": "36.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070501",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "احسم",
+      "en": "Ehsem",
+      "slug": "ehsem-sy070501"
+    },
+    "code": {
+      "id": "SY070501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0705",
+      "level": 2,
+      "name": {
+        "local": "أريحا",
+        "en": "Ariha",
+        "slug": "ariha-sy0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0705",
+        "level": 2,
+        "name": {
+          "local": "أريحا",
+          "en": "Ariha",
+          "slug": "ariha-sy0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.714",
+      "lon": "36.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070502",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "محمبل",
+      "en": "Mhambal",
+      "slug": "mhambal-sy070502"
+    },
+    "code": {
+      "id": "SY070502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0705",
+      "level": 2,
+      "name": {
+        "local": "أريحا",
+        "en": "Ariha",
+        "slug": "ariha-sy0705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0705",
+        "level": 2,
+        "name": {
+          "local": "أريحا",
+          "en": "Ariha",
+          "slug": "ariha-sy0705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.77",
+      "lon": "36.455"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

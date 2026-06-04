@@ -1,0 +1,138 @@
+# Idleb — Syria Administrative Divisions
+
+> 5 districts, 26 sub-districts
+> Code: SY07
+> Coordinates: 35.858, 36.571
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### معرة النعمان (Al Ma&#39;ra)
+
+Code: SY0702, Coordinates: 35.566, 36.779
+Sub-districts: 6
+
+#### حيش (Heish)
+
+Code: SY070205, Coordinates: 35.529, 36.674
+
+#### كفر نبل (Kafr Nobol)
+
+Code: SY070203, Coordinates: 35.571, 36.503
+
+#### خان شيخون (Khan Shaykun)
+
+Code: SY070201, Coordinates: 35.447, 36.622
+
+#### مركز معرة النعمان (Ma&#39;arrat An Nu&#39;man)
+
+Code: SY070200, Coordinates: 35.653, 36.733
+
+#### سنجار (Sanjar)
+
+Code: SY070202, Coordinates: 35.577, 36.995
+
+#### التمانعة (Tamanaah)
+
+Code: SY070204, Coordinates: 35.469, 36.86
+
+### أريحا (Ariha)
+
+Code: SY0705, Coordinates: 35.773, 36.563
+Sub-districts: 3
+
+#### مركز أريحا (Ariha)
+
+Code: SY070500, Coordinates: 35.798, 36.606
+
+#### احسم (Ehsem)
+
+Code: SY070501, Coordinates: 35.714, 36.529
+
+#### محمبل (Mhambal)
+
+Code: SY070502, Coordinates: 35.77, 36.455
+
+### حارم (Harim)
+
+Code: SY0703, Coordinates: 36.123, 36.521
+Sub-districts: 6
+
+#### أرمناز (Armanaz)
+
+Code: SY070305, Coordinates: 36.001, 36.499
+
+#### دانا (Dana)
+
+Code: SY070301, Coordinates: 36.238, 36.763
+
+#### مركز حارم (Harim)
+
+Code: SY070300, Coordinates: 36.192, 36.508
+
+#### كفر تخاريم (Kafr Takharim)
+
+Code: SY070303, Coordinates: 36.12, 36.523
+
+#### قورقينا (Qourqeena)
+
+Code: SY070304, Coordinates: 36.149, 36.618
+
+#### سلقين (Salqin)
+
+Code: SY070302, Coordinates: 36.127, 36.426
+
+### مركز إدلب (Idleb)
+
+Code: SY0700, Coordinates: 35.88, 36.77
+Sub-districts: 7
+
+#### أبو الظهور (Abul Thohur)
+
+Code: SY070001, Coordinates: 35.751, 37.012
+
+#### بنش (Bennsh)
+
+Code: SY070002, Coordinates: 35.985, 36.743
+
+#### مركز إدلب (Idleb)
+
+Code: SY070000, Coordinates: 35.924, 36.572
+
+#### معرة تمصرين (Maaret Tamsrin)
+
+Code: SY070005, Coordinates: 36.059, 36.652
+
+#### سراقب (Saraqab)
+
+Code: SY070003, Coordinates: 35.844, 36.822
+
+#### سرمين (Sarmin)
+
+Code: SY070006, Coordinates: 35.915, 36.73
+
+#### تفتناز (Teftnaz)
+
+Code: SY070004, Coordinates: 36.013, 36.819
+
+### جسر الشغور (Jisr-Ash-Shugur)
+
+Code: SY0704, Coordinates: 35.882, 36.309
+Sub-districts: 4
+
+#### بداما (Badama)
+
+Code: SY070401, Coordinates: 35.844, 36.209
+
+#### دركوش (Darkosh)
+
+Code: SY070402, Coordinates: 35.963, 36.418
+
+#### الجانودية (Janudiyeh)
+
+Code: SY070403, Coordinates: 35.914, 36.304
+
+#### مركز جسر الشغور (Jisr-Ash-Shugur)
+
+Code: SY070400, Coordinates: 35.817, 36.333
+

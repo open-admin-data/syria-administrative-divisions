@@ -1,0 +1,92 @@
+# Dar&#39;a — Syria Administrative Divisions
+
+> 3 districts, 17 sub-districts
+> Code: SY12
+> Coordinates: 32.83, 36.112
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### الصنمين (As-Sanamayn)
+
+Code: SY1202, Coordinates: 33.104, 36.236
+Sub-districts: 3
+
+#### مركز الصنمين (As-Sanamayn)
+
+Code: SY120200, Coordinates: 33.028, 36.226
+
+#### غباغب (Ghabagheb)
+
+Code: SY120202, Coordinates: 33.172, 36.2
+
+#### المسمية (Masmiyyeh)
+
+Code: SY120201, Coordinates: 33.143, 36.407
+
+### درعا (Dar&#39;a)
+
+Code: SY1200, Coordinates: 32.621, 36.224
+Sub-districts: 8
+
+#### الشجرة (Ash-Shajara)
+
+Code: SY120003, Coordinates: 32.804, 35.895
+
+#### بصرى الشام (Busra Esh-Sham)
+
+Code: SY120001, Coordinates: 32.475, 36.433
+
+#### داعل (Da&#39;el)
+
+Code: SY120004, Coordinates: 32.759, 36.131
+
+#### مركز درعا (Dar&#39;a)
+
+Code: SY120000, Coordinates: 32.616, 36.162
+
+#### الجيزة (Jizeh)
+
+Code: SY120006, Coordinates: 32.529, 36.313
+
+#### خربة غزالة (Kherbet Ghazala)
+
+Code: SY120002, Coordinates: 32.709, 36.212
+
+#### المسيفرة (Mseifra)
+
+Code: SY120007, Coordinates: 32.635, 36.374
+
+#### مزيريب (Mzeireb)
+
+Code: SY120005, Coordinates: 32.727, 36
+
+### ازرع (Izra&#39;)
+
+Code: SY1203, Coordinates: 32.866, 36.148
+Sub-districts: 6
+
+#### الحراك (Hrak)
+
+Code: SY120302, Coordinates: 32.755, 36.321
+
+#### مركز ازرع (Izra&#39;)
+
+Code: SY120300, Coordinates: 32.9, 36.272
+
+#### جاسم (Jasim)
+
+Code: SY120301, Coordinates: 32.977, 36.041
+
+#### نوى (Nawa)
+
+Code: SY120303, Coordinates: 32.864, 36.051
+
+#### الشيخ مسكين (Sheikh Miskine)
+
+Code: SY120304, Coordinates: 32.869, 36.148
+
+#### تسيل (Tassil)
+
+Code: SY120305, Coordinates: 32.845, 35.971
+

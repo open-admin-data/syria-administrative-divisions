@@ -1,0 +1,47 @@
+{
+  "id": "SY0504",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مصياف",
+    "en": "Masyaf",
+    "slug": "masyaf-sy0504"
+  },
+  "code": {
+    "id": "SY0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY05",
+    "level": 1,
+    "name": {
+      "local": "حماة",
+      "en": "Hama",
+      "slug": "hama-sy05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.05",
+    "lon": "36.356"
+  },
+  "metadata": {},
+  "source": {}
+}

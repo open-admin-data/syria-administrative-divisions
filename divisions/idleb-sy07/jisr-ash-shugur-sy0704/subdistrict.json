@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY070401",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بداما",
+      "en": "Badama",
+      "slug": "badama-sy070401"
+    },
+    "code": {
+      "id": "SY070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0704",
+      "level": 2,
+      "name": {
+        "local": "جسر الشغور",
+        "en": "Jisr-Ash-Shugur",
+        "slug": "jisr-ash-shugur-sy0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0704",
+        "level": 2,
+        "name": {
+          "local": "جسر الشغور",
+          "en": "Jisr-Ash-Shugur",
+          "slug": "jisr-ash-shugur-sy0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.844",
+      "lon": "36.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070402",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دركوش",
+      "en": "Darkosh",
+      "slug": "darkosh-sy070402"
+    },
+    "code": {
+      "id": "SY070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0704",
+      "level": 2,
+      "name": {
+        "local": "جسر الشغور",
+        "en": "Jisr-Ash-Shugur",
+        "slug": "jisr-ash-shugur-sy0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0704",
+        "level": 2,
+        "name": {
+          "local": "جسر الشغور",
+          "en": "Jisr-Ash-Shugur",
+          "slug": "jisr-ash-shugur-sy0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.963",
+      "lon": "36.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070403",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الجانودية",
+      "en": "Janudiyeh",
+      "slug": "janudiyeh-sy070403"
+    },
+    "code": {
+      "id": "SY070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0704",
+      "level": 2,
+      "name": {
+        "local": "جسر الشغور",
+        "en": "Jisr-Ash-Shugur",
+        "slug": "jisr-ash-shugur-sy0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0704",
+        "level": 2,
+        "name": {
+          "local": "جسر الشغور",
+          "en": "Jisr-Ash-Shugur",
+          "slug": "jisr-ash-shugur-sy0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.914",
+      "lon": "36.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070400",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز جسر الشغور",
+      "en": "Jisr-Ash-Shugur",
+      "slug": "jisr-ash-shugur-sy070400"
+    },
+    "code": {
+      "id": "SY070400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0704",
+      "level": 2,
+      "name": {
+        "local": "جسر الشغور",
+        "en": "Jisr-Ash-Shugur",
+        "slug": "jisr-ash-shugur-sy0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0704",
+        "level": 2,
+        "name": {
+          "local": "جسر الشغور",
+          "en": "Jisr-Ash-Shugur",
+          "slug": "jisr-ash-shugur-sy0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.817",
+      "lon": "36.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

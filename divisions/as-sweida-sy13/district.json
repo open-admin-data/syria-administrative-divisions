@@ -1,0 +1,143 @@
+[
+  {
+    "id": "SY1300",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز السويداء",
+      "en": "As-Sweida",
+      "slug": "as-sweida-sy1300"
+    },
+    "code": {
+      "id": "SY1300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.771",
+      "lon": "36.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1302",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "صلخد",
+      "en": "Salkhad",
+      "slug": "salkhad-sy1302"
+    },
+    "code": {
+      "id": "SY1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.499",
+      "lon": "36.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1303",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهبا",
+      "en": "Shahba",
+      "slug": "shahba-sy1303"
+    },
+    "code": {
+      "id": "SY1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.986",
+      "lon": "36.797"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

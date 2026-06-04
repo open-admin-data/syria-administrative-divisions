@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY020801",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "غندورة",
+      "en": "Ghandorah",
+      "slug": "ghandorah-sy020801"
+    },
+    "code": {
+      "id": "SY020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0208",
+      "level": 2,
+      "name": {
+        "local": "جرابلس",
+        "en": "Jarablus",
+        "slug": "jarablus-sy0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0208",
+        "level": 2,
+        "name": {
+          "local": "جرابلس",
+          "en": "Jarablus",
+          "slug": "jarablus-sy0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.642",
+      "lon": "37.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020800",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز جرابلس",
+      "en": "Jarablus",
+      "slug": "jarablus-sy020800"
+    },
+    "code": {
+      "id": "SY020800",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0208",
+      "level": 2,
+      "name": {
+        "local": "جرابلس",
+        "en": "Jarablus",
+        "slug": "jarablus-sy0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0208",
+        "level": 2,
+        "name": {
+          "local": "جرابلس",
+          "en": "Jarablus",
+          "slug": "jarablus-sy0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.718",
+      "lon": "37.968"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

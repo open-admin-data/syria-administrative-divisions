@@ -1,0 +1,190 @@
+[
+  {
+    "id": "SY0800",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy0800"
+    },
+    "code": {
+      "id": "SY0800",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.169",
+      "lon": "40.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0803",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "المالكية",
+      "en": "Al-Malikeyyeh",
+      "slug": "al-malikeyyeh-sy0803"
+    },
+    "code": {
+      "id": "SY0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.963",
+      "lon": "41.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0802",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القامشلي",
+      "en": "Quamishli",
+      "slug": "quamishli-sy0802"
+    },
+    "code": {
+      "id": "SY0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.804",
+      "lon": "41.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0804",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "رأس العين",
+      "en": "Ras Al Ain",
+      "slug": "ras-al-ain-sy0804"
+    },
+    "code": {
+      "id": "SY0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.657",
+      "lon": "39.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

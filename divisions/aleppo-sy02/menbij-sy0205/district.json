@@ -1,0 +1,47 @@
+{
+  "id": "SY0205",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "منبج",
+    "en": "Menbij",
+    "slug": "menbij-sy0205"
+  },
+  "code": {
+    "id": "SY0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY02",
+    "level": 1,
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.028",
+    "lon": "37.901"
+  },
+  "metadata": {},
+  "source": {}
+}

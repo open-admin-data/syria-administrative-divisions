@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY100501",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "برمانة المشايخ",
+      "en": "Baramanet Elmashayekh",
+      "slug": "baramanet-elmashayekh-sy100501"
+    },
+    "code": {
+      "id": "SY100501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1005",
+      "level": 2,
+      "name": {
+        "local": "الشيخ بدر",
+        "en": "Sheikh Badr",
+        "slug": "sheikh-badr-sy1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1005",
+        "level": 2,
+        "name": {
+          "local": "الشيخ بدر",
+          "en": "Sheikh Badr",
+          "slug": "sheikh-badr-sy1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.039",
+      "lon": "36.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100502",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قمصية",
+      "en": "Qumseyyeh",
+      "slug": "qumseyyeh-sy100502"
+    },
+    "code": {
+      "id": "SY100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1005",
+      "level": 2,
+      "name": {
+        "local": "الشيخ بدر",
+        "en": "Sheikh Badr",
+        "slug": "sheikh-badr-sy1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1005",
+        "level": 2,
+        "name": {
+          "local": "الشيخ بدر",
+          "en": "Sheikh Badr",
+          "slug": "sheikh-badr-sy1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.056",
+      "lon": "36.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100500",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الشيخ بدر",
+      "en": "Sheikh Badr",
+      "slug": "sheikh-badr-sy100500"
+    },
+    "code": {
+      "id": "SY100500",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1005",
+      "level": 2,
+      "name": {
+        "local": "الشيخ بدر",
+        "en": "Sheikh Badr",
+        "slug": "sheikh-badr-sy1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1005",
+        "level": 2,
+        "name": {
+          "local": "الشيخ بدر",
+          "en": "Sheikh Badr",
+          "slug": "sheikh-badr-sy1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.002",
+      "lon": "36.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

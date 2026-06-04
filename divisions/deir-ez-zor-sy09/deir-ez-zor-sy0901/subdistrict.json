@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY090102",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بصيرة",
+      "en": "Basira",
+      "slug": "basira-sy090102"
+    },
+    "code": {
+      "id": "SY090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.197",
+      "lon": "40.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090100",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز دير الزور",
+      "en": "Deir-ez-Zor",
+      "slug": "deir-ez-zor-sy090100"
+    },
+    "code": {
+      "id": "SY090100",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.26",
+      "lon": "39.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090105",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خشام",
+      "en": "Khasham",
+      "slug": "khasham-sy090105"
+    },
+    "code": {
+      "id": "SY090105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.268",
+      "lon": "40.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090101",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كسرة",
+      "en": "Kisreh",
+      "slug": "kisreh-sy090101"
+    },
+    "code": {
+      "id": "SY090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.879",
+      "lon": "40.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090103",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "موحسن",
+      "en": "Muhasan",
+      "slug": "muhasan-sy090103"
+    },
+    "code": {
+      "id": "SY090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.055",
+      "lon": "40.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090106",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صور",
+      "en": "Sur",
+      "slug": "sur-sy090106"
+    },
+    "code": {
+      "id": "SY090106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.426",
+      "lon": "40.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090104",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "التبني",
+      "en": "Tabni",
+      "slug": "tabni-sy090104"
+    },
+    "code": {
+      "id": "SY090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0901",
+      "level": 2,
+      "name": {
+        "local": "مركز دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0901",
+        "level": 2,
+        "name": {
+          "local": "مركز دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.585",
+      "lon": "39.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

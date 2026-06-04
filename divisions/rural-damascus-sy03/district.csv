@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+SY0303,القطيفة,Al Qutayfah,al-qutayfah-sy0303,SY0303,4,33.814,36.8
+SY0306,النبك,An Nabk,an-nabk-sy0306,SY0306,2,34.043,36.735
+SY0304,التل,At Tall,at-tall-sy0304,SY0304,3,33.7,36.376
+SY0307,الزبداني,Az-Zabdani,az-zabdani-sy0307,SY0307,5,33.701,36.106
+SY0309,داريا,Darayya,darayya-sy0309,SY0309,3,33.454,36.252
+SY0302,دوما,Duma,duma-sy0302,SY0302,7,33.326,37.571
+SY0308,قطنا,Qatana,qatana-sy0308,SY0308,3,33.361,35.974
+SY0301,مركز ريف دمشق,Rural Damascus,rural-damascus-sy0301,SY0301,7,33.364,36.281
+SY0305,يبرود,Yabroud,yabroud-sy0305,SY0305,2,33.938,36.491

@@ -1,0 +1,47 @@
+{
+  "id": "SY0704",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "جسر الشغور",
+    "en": "Jisr-Ash-Shugur",
+    "slug": "jisr-ash-shugur-sy0704"
+  },
+  "code": {
+    "id": "SY0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY07",
+    "level": 1,
+    "name": {
+      "local": "إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.882",
+    "lon": "36.309"
+  },
+  "metadata": {},
+  "source": {}
+}

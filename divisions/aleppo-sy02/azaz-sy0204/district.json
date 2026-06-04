@@ -1,0 +1,47 @@
+{
+  "id": "SY0204",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "اعزاز",
+    "en": "A'zaz",
+    "slug": "azaz-sy0204"
+  },
+  "code": {
+    "id": "SY0204",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY02",
+    "level": 1,
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.467",
+    "lon": "37.208"
+  },
+  "metadata": {},
+  "source": {}
+}

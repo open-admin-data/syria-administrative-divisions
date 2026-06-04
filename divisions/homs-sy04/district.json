@@ -1,0 +1,284 @@
+[
+  {
+    "id": "SY0406",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "المخرم",
+      "en": "Al Makhrim",
+      "slug": "al-makhrim-sy0406"
+    },
+    "code": {
+      "id": "SY0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.826",
+      "lon": "37.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0402",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القصير",
+      "en": "Al-Qusayr",
+      "slug": "al-qusayr-sy0402"
+    },
+    "code": {
+      "id": "SY0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.512",
+      "lon": "36.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0404",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرستن",
+      "en": "Ar-Rastan",
+      "slug": "ar-rastan-sy0404"
+    },
+    "code": {
+      "id": "SY0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.897",
+      "lon": "36.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0401",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز حمص",
+      "en": "Homs",
+      "slug": "homs-sy0401"
+    },
+    "code": {
+      "id": "SY0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.442",
+      "lon": "37.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0405",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "تدمر",
+      "en": "Tadmor",
+      "slug": "tadmor-sy0405"
+    },
+    "code": {
+      "id": "SY0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.467",
+      "lon": "38.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0403",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "تلكلخ",
+      "en": "Tall Kalakh",
+      "slug": "tall-kalakh-sy0403"
+    },
+    "code": {
+      "id": "SY0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.74",
+      "lon": "36.272"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

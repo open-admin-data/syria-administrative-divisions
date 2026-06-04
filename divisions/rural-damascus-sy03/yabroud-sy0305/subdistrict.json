@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY030501",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عسال الورد",
+      "en": "Esal El-Ward",
+      "slug": "esal-el-ward-sy030501"
+    },
+    "code": {
+      "id": "SY030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0305",
+      "level": 2,
+      "name": {
+        "local": "يبرود",
+        "en": "Yabroud",
+        "slug": "yabroud-sy0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0305",
+        "level": 2,
+        "name": {
+          "local": "يبرود",
+          "en": "Yabroud",
+          "slug": "yabroud-sy0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.918",
+      "lon": "36.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030500",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز يبرود",
+      "en": "Yabroud",
+      "slug": "yabroud-sy030500"
+    },
+    "code": {
+      "id": "SY030500",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0305",
+      "level": 2,
+      "name": {
+        "local": "يبرود",
+        "en": "Yabroud",
+        "slug": "yabroud-sy0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0305",
+        "level": 2,
+        "name": {
+          "local": "يبرود",
+          "en": "Yabroud",
+          "slug": "yabroud-sy0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.959",
+      "lon": "36.579"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

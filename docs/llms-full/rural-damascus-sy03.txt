@@ -1,0 +1,198 @@
+# Rural Damascus — Syria Administrative Divisions
+
+> 9 districts, 36 sub-districts
+> Code: SY03
+> Coordinates: 33.452, 37.44
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### القطيفة (Al Qutayfah)
+
+Code: SY0303, Coordinates: 33.814, 36.8
+Sub-districts: 4
+
+#### مركز القطيفة (Al Qutayfah)
+
+Code: SY030300, Coordinates: 33.714, 36.597
+
+#### جيرود (Jirud)
+
+Code: SY030301, Coordinates: 33.904, 36.926
+
+#### معلولا (Ma&#39;loula)
+
+Code: SY030302, Coordinates: 33.829, 36.585
+
+#### الرحيبة (Raheiba)
+
+Code: SY030303, Coordinates: 33.798, 36.956
+
+### النبك (An Nabk)
+
+Code: SY0306, Coordinates: 34.043, 36.735
+Sub-districts: 2
+
+#### مركز النبك (An Nabk)
+
+Code: SY030600, Coordinates: 33.991, 36.799
+
+#### دير عطية (Deir Attiyeh)
+
+Code: SY030601, Coordinates: 34.142, 36.755
+
+### التل (At Tall)
+
+Code: SY0304, Coordinates: 33.7, 36.376
+Sub-districts: 3
+
+#### مركز التل (At Tall)
+
+Code: SY030400, Coordinates: 33.65, 36.283
+
+#### رنكوس (Rankus)
+
+Code: SY030402, Coordinates: 33.775, 36.369
+
+#### صيدنايا (Sidnaya)
+
+Code: SY030401, Coordinates: 33.685, 36.434
+
+### الزبداني (Az-Zabdani)
+
+Code: SY0307, Coordinates: 33.701, 36.106
+Sub-districts: 5
+
+#### مركز الزبداني (Az-Zabdani)
+
+Code: SY030700, Coordinates: 33.712, 36.113
+
+#### الديماس (Dimas)
+
+Code: SY030701, Coordinates: 33.667, 35.986
+
+#### عين الفيجة (Ein Elfijeh)
+
+Code: SY030702, Coordinates: 33.636, 36.188
+
+#### مضايا (Madaya)
+
+Code: SY030703, Coordinates: 33.705, 36.158
+
+#### سرغايا (Sarghaya)
+
+Code: SY030704, Coordinates: 33.811, 36.192
+
+### داريا (Darayya)
+
+Code: SY0309, Coordinates: 33.454, 36.252
+Sub-districts: 3
+
+#### الحجر الأسود (Hajar Aswad)
+
+Code: SY030902, Coordinates: 33.453, 36.299
+
+#### مركز داريا (Markaz Darayya)
+
+Code: SY030900, Coordinates: 33.482, 36.186
+
+#### صحنايا (Sahnaya)
+
+Code: SY030901, Coordinates: 33.415, 36.245
+
+### دوما (Duma)
+
+Code: SY0302, Coordinates: 33.326, 37.571
+Sub-districts: 7
+
+#### الضمير (Dhameer)
+
+Code: SY030203, Coordinates: 33.493, 37.084
+
+#### مركز دوما (Duma)
+
+Code: SY030200, Coordinates: 33.593, 36.501
+
+#### الغزلانية (Ghizlaniyyeh)
+
+Code: SY030205, Coordinates: 33.316, 36.595
+
+#### حران العواميد (Haran Al&#39;awameed)
+
+Code: SY030206, Coordinates: 33.426, 36.568
+
+#### حرستا (Harasta)
+
+Code: SY030201, Coordinates: 33.569, 36.366
+
+#### النشابية (Nashabiyeh)
+
+Code: SY030204, Coordinates: 33.462, 36.642
+
+#### السبع بيار (Sabe Byar)
+
+Code: SY030202, Coordinates: 33.302, 38.101
+
+### قطنا (Qatana)
+
+Code: SY0308, Coordinates: 33.361, 35.974
+Sub-districts: 3
+
+#### بيت جن (Bait Jan)
+
+Code: SY030801, Coordinates: 33.329, 35.921
+
+#### مركز قطنا (Qatana)
+
+Code: SY030800, Coordinates: 33.45, 36.057
+
+#### سعسع (Sa&#39;sa&#39;)
+
+Code: SY030802, Coordinates: 33.27, 36.055
+
+### مركز ريف دمشق (Rural Damascus)
+
+Code: SY0301, Coordinates: 33.364, 36.281
+Sub-districts: 7
+
+#### عربين (Arbin)
+
+Code: SY030106, Coordinates: 33.535, 36.368
+
+#### ببيلا (Babella)
+
+Code: SY030102, Coordinates: 33.433, 36.327
+
+#### جرمانا (Jaramana)
+
+Code: SY030103, Coordinates: 33.491, 36.351
+
+#### كفر بطنا (Kafr Batna)
+
+Code: SY030105, Coordinates: 33.522, 36.393
+
+#### الكسوة (Kisweh)
+
+Code: SY030101, Coordinates: 33.289, 36.328
+
+#### المليحة (Maliha)
+
+Code: SY030104, Coordinates: 33.446, 36.416
+
+#### قدسيا (Qudsiya)
+
+Code: SY030107, Coordinates: 33.572, 36.226
+
+### يبرود (Yabroud)
+
+Code: SY0305, Coordinates: 33.938, 36.491
+Sub-districts: 2
+
+#### عسال الورد (Esal El-Ward)
+
+Code: SY030501, Coordinates: 33.918, 36.393
+
+#### مركز يبرود (Yabroud)
+
+Code: SY030500, Coordinates: 33.959, 36.579
+

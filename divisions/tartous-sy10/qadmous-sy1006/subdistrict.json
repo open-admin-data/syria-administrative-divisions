@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY100601",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العنازة",
+      "en": "Anaza",
+      "slug": "anaza-sy100601"
+    },
+    "code": {
+      "id": "SY100601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1006",
+      "level": 2,
+      "name": {
+        "local": "القدموس",
+        "en": "Qadmous",
+        "slug": "qadmous-sy1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1006",
+        "level": 2,
+        "name": {
+          "local": "القدموس",
+          "en": "Qadmous",
+          "slug": "qadmous-sy1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.207",
+      "lon": "36.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100603",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حمام واصل",
+      "en": "Hamam Wasil",
+      "slug": "hamam-wasil-sy100603"
+    },
+    "code": {
+      "id": "SY100603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1006",
+      "level": 2,
+      "name": {
+        "local": "القدموس",
+        "en": "Qadmous",
+        "slug": "qadmous-sy1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1006",
+        "level": 2,
+        "name": {
+          "local": "القدموس",
+          "en": "Qadmous",
+          "slug": "qadmous-sy1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.077",
+      "lon": "36.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100602",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القدموس",
+      "en": "Qadmous",
+      "slug": "qadmous-sy100602"
+    },
+    "code": {
+      "id": "SY100602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1006",
+      "level": 2,
+      "name": {
+        "local": "القدموس",
+        "en": "Qadmous",
+        "slug": "qadmous-sy1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1006",
+        "level": 2,
+        "name": {
+          "local": "القدموس",
+          "en": "Qadmous",
+          "slug": "qadmous-sy1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.11",
+      "lon": "36.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100604",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الطواحين",
+      "en": "Tawahin",
+      "slug": "tawahin-sy100604"
+    },
+    "code": {
+      "id": "SY100604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1006",
+      "level": 2,
+      "name": {
+        "local": "القدموس",
+        "en": "Qadmous",
+        "slug": "qadmous-sy1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1006",
+        "level": 2,
+        "name": {
+          "local": "القدموس",
+          "en": "Qadmous",
+          "slug": "qadmous-sy1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.165",
+      "lon": "36.194"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

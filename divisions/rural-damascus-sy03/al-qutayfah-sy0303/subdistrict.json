@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY030300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز القطيفة",
+      "en": "Al Qutayfah",
+      "slug": "al-qutayfah-sy030300"
+    },
+    "code": {
+      "id": "SY030300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0303",
+      "level": 2,
+      "name": {
+        "local": "القطيفة",
+        "en": "Al Qutayfah",
+        "slug": "al-qutayfah-sy0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0303",
+        "level": 2,
+        "name": {
+          "local": "القطيفة",
+          "en": "Al Qutayfah",
+          "slug": "al-qutayfah-sy0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.714",
+      "lon": "36.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جيرود",
+      "en": "Jirud",
+      "slug": "jirud-sy030301"
+    },
+    "code": {
+      "id": "SY030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0303",
+      "level": 2,
+      "name": {
+        "local": "القطيفة",
+        "en": "Al Qutayfah",
+        "slug": "al-qutayfah-sy0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0303",
+        "level": 2,
+        "name": {
+          "local": "القطيفة",
+          "en": "Al Qutayfah",
+          "slug": "al-qutayfah-sy0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.904",
+      "lon": "36.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "معلولا",
+      "en": "Ma'loula",
+      "slug": "maloula-sy030302"
+    },
+    "code": {
+      "id": "SY030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0303",
+      "level": 2,
+      "name": {
+        "local": "القطيفة",
+        "en": "Al Qutayfah",
+        "slug": "al-qutayfah-sy0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0303",
+        "level": 2,
+        "name": {
+          "local": "القطيفة",
+          "en": "Al Qutayfah",
+          "slug": "al-qutayfah-sy0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.829",
+      "lon": "36.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرحيبة",
+      "en": "Raheiba",
+      "slug": "raheiba-sy030303"
+    },
+    "code": {
+      "id": "SY030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0303",
+      "level": 2,
+      "name": {
+        "local": "القطيفة",
+        "en": "Al Qutayfah",
+        "slug": "al-qutayfah-sy0303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0303",
+        "level": 2,
+        "name": {
+          "local": "القطيفة",
+          "en": "Al Qutayfah",
+          "slug": "al-qutayfah-sy0303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.798",
+      "lon": "36.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

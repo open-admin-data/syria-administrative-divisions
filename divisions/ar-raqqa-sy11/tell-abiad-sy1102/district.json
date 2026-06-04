@@ -1,0 +1,47 @@
+{
+  "id": "SY1102",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "تل أبيض",
+    "en": "Tell Abiad",
+    "slug": "tell-abiad-sy1102"
+  },
+  "code": {
+    "id": "SY1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY11",
+    "level": 1,
+    "name": {
+      "local": "الرقة",
+      "en": "Ar-Raqqa",
+      "slug": "ar-raqqa-sy11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY11",
+      "level": 1,
+      "name": {
+        "local": "الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.35",
+    "lon": "39.48"
+  },
+  "metadata": {},
+  "source": {}
+}

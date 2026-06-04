@@ -1,0 +1,117 @@
+# Lattakia — Syria Administrative Divisions
+
+> 4 districts, 22 sub-districts
+> Code: SY06
+> Coordinates: 35.581, 35.991
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### الحفة (Al-Haffa)
+
+Code: SY0603, Coordinates: 35.638, 36.123
+Sub-districts: 5
+
+#### مركزالحفة (Al-Haffa)
+
+Code: SY060300, Coordinates: 35.596, 36.043
+
+#### عين التينة (Ein Et-teeneh)
+
+Code: SY060302, Coordinates: 35.555, 36.131
+
+#### كنسبا (Kansaba)
+
+Code: SY060303, Coordinates: 35.715, 36.16
+
+#### مزيرعة (Mzair&#39;a)
+
+Code: SY060304, Coordinates: 35.526, 36.038
+
+#### صلنفة (Salanfa)
+
+Code: SY060301, Coordinates: 35.622, 36.168
+
+### القرداحة (Al-Qardaha)
+
+Code: SY0604, Coordinates: 35.441, 36.062
+Sub-districts: 4
+
+#### مركز القرداحة (Al-Qardaha)
+
+Code: SY060400, Coordinates: 35.445, 36.071
+
+#### الفاخورة (Fakhura)
+
+Code: SY060402, Coordinates: 35.48, 35.955
+
+#### حرف المسيترة (Harf Elmseitra)
+
+Code: SY060401, Coordinates: 35.387, 36.159
+
+#### جوبة برغال (Jobet Berghal)
+
+Code: SY060403, Coordinates: 35.493, 36.149
+
+### جبلة (Jablah)
+
+Code: SY0602, Coordinates: 35.345, 36.081
+Sub-districts: 6
+
+#### بيت ياشوط (Beit Yashout)
+
+Code: SY060205, Coordinates: 35.323, 36.123
+
+#### دالية (Dalyeh)
+
+Code: SY060204, Coordinates: 35.277, 36.194
+
+#### عين الشرقية (Ein Elsharqiyeh)
+
+Code: SY060201, Coordinates: 35.349, 36.083
+
+#### عين شقاق (Ein Shaqaq)
+
+Code: SY060203, Coordinates: 35.394, 36.027
+
+#### مركز جبلة (Jablah)
+
+Code: SY060200, Coordinates: 35.369, 35.969
+
+#### القطيلبية (Qteilbiyyeh)
+
+Code: SY060202, Coordinates: 35.273, 36.058
+
+### مركز اللاذقية (Lattakia)
+
+Code: SY0600, Coordinates: 35.701, 35.938
+Sub-districts: 7
+
+#### البهلولية (Bahlolieh)
+
+Code: SY060001, Coordinates: 35.614, 35.953
+
+#### عين البيضا (Ein El-Bayda)
+
+Code: SY060003, Coordinates: 35.66, 35.86
+
+#### هنادي (Hanadi)
+
+Code: SY060006, Coordinates: 35.515, 35.878
+
+#### كسب (Kasab)
+
+Code: SY060005, Coordinates: 35.883, 35.964
+
+#### مركز اللاذقية (Lattakia)
+
+Code: SY060000, Coordinates: 35.564, 35.805
+
+#### قسطل معاف (Qastal Maaf)
+
+Code: SY060004, Coordinates: 35.8, 35.915
+
+#### ربيعة (Rabee&#39;a)
+
+Code: SY060002, Coordinates: 35.773, 36.068
+

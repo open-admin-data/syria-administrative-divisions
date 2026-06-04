@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY030106",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عربين",
+      "en": "Arbin",
+      "slug": "arbin-sy030106"
+    },
+    "code": {
+      "id": "SY030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.535",
+      "lon": "36.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030102",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "ببيلا",
+      "en": "Babella",
+      "slug": "babella-sy030102"
+    },
+    "code": {
+      "id": "SY030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.433",
+      "lon": "36.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030103",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جرمانا",
+      "en": "Jaramana",
+      "slug": "jaramana-sy030103"
+    },
+    "code": {
+      "id": "SY030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.491",
+      "lon": "36.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030105",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كفر بطنا",
+      "en": "Kafr Batna",
+      "slug": "kafr-batna-sy030105"
+    },
+    "code": {
+      "id": "SY030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.522",
+      "lon": "36.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030101",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الكسوة",
+      "en": "Kisweh",
+      "slug": "kisweh-sy030101"
+    },
+    "code": {
+      "id": "SY030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.289",
+      "lon": "36.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030104",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المليحة",
+      "en": "Maliha",
+      "slug": "maliha-sy030104"
+    },
+    "code": {
+      "id": "SY030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.446",
+      "lon": "36.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030107",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قدسيا",
+      "en": "Qudsiya",
+      "slug": "qudsiya-sy030107"
+    },
+    "code": {
+      "id": "SY030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0301",
+      "level": 2,
+      "name": {
+        "local": "مركز ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0301",
+        "level": 2,
+        "name": {
+          "local": "مركز ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.572",
+      "lon": "36.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

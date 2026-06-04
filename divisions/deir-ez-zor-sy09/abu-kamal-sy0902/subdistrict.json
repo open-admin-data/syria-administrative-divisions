@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY090200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز البوكمال",
+      "en": "Abu Kamal",
+      "slug": "abu-kamal-sy090200"
+    },
+    "code": {
+      "id": "SY090200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0902",
+      "level": 2,
+      "name": {
+        "local": "البوكمال",
+        "en": "Abu Kamal",
+        "slug": "abu-kamal-sy0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0902",
+        "level": 2,
+        "name": {
+          "local": "البوكمال",
+          "en": "Abu Kamal",
+          "slug": "abu-kamal-sy0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.44",
+      "lon": "40.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "هجين",
+      "en": "Hajin",
+      "slug": "hajin-sy090201"
+    },
+    "code": {
+      "id": "SY090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0902",
+      "level": 2,
+      "name": {
+        "local": "البوكمال",
+        "en": "Abu Kamal",
+        "slug": "abu-kamal-sy0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0902",
+        "level": 2,
+        "name": {
+          "local": "البوكمال",
+          "en": "Abu Kamal",
+          "slug": "abu-kamal-sy0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.851",
+      "lon": "40.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الجلاء",
+      "en": "Jalaa",
+      "slug": "jalaa-sy090202"
+    },
+    "code": {
+      "id": "SY090202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0902",
+      "level": 2,
+      "name": {
+        "local": "البوكمال",
+        "en": "Abu Kamal",
+        "slug": "abu-kamal-sy0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0902",
+        "level": 2,
+        "name": {
+          "local": "البوكمال",
+          "en": "Abu Kamal",
+          "slug": "abu-kamal-sy0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.637",
+      "lon": "40.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY090203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سوسة",
+      "en": "Susat",
+      "slug": "susat-sy090203"
+    },
+    "code": {
+      "id": "SY090203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0902",
+      "level": 2,
+      "name": {
+        "local": "البوكمال",
+        "en": "Abu Kamal",
+        "slug": "abu-kamal-sy0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      },
+      {
+        "id": "SY0902",
+        "level": 2,
+        "name": {
+          "local": "البوكمال",
+          "en": "Abu Kamal",
+          "slug": "abu-kamal-sy0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.518",
+      "lon": "40.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

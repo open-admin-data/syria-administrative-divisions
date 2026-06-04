@@ -1,0 +1,47 @@
+{
+  "id": "SY0309",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "داريا",
+    "en": "Darayya",
+    "slug": "darayya-sy0309"
+  },
+  "code": {
+    "id": "SY0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY03",
+    "level": 1,
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.454",
+    "lon": "36.252"
+  },
+  "metadata": {},
+  "source": {}
+}

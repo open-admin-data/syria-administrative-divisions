@@ -1,0 +1,147 @@
+# Tartous — Syria Administrative Divisions
+
+> 6 districts, 27 sub-districts
+> Code: SY10
+> Coordinates: 34.951, 36.076
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### بانياس (Banyas)
+
+Code: SY1002, Coordinates: 35.15, 36.001
+Sub-districts: 3
+
+#### مركز بانياس (Banyas)
+
+Code: SY100200, Coordinates: 35.18, 36.004
+
+#### الروضة (Rawda)
+
+Code: SY100201, Coordinates: 35.065, 35.913
+
+#### تالين (Taleen)
+
+Code: SY100206, Coordinates: 35.146, 36.029
+
+### دريكيش (Dreikish)
+
+Code: SY1004, Coordinates: 34.928, 36.146
+Sub-districts: 4
+
+#### مركز دريكيش (Dreikish)
+
+Code: SY100400, Coordinates: 34.916, 36.183
+
+#### دوير رسلان (Dweir Raslan)
+
+Code: SY100403, Coordinates: 34.954, 36.221
+
+#### حمين (Hamin)
+
+Code: SY100402, Coordinates: 34.9, 36.047
+
+#### جنينة رسلان (Jneinet Raslan)
+
+Code: SY100401, Coordinates: 34.946, 36.134
+
+### القدموس (Qadmous)
+
+Code: SY1006, Coordinates: 35.148, 36.168
+Sub-districts: 4
+
+#### العنازة (Anaza)
+
+Code: SY100601, Coordinates: 35.207, 36.133
+
+#### حمام واصل (Hamam Wasil)
+
+Code: SY100603, Coordinates: 35.077, 36.074
+
+#### القدموس (Qadmous)
+
+Code: SY100602, Coordinates: 35.11, 36.172
+
+#### الطواحين (Tawahin)
+
+Code: SY100604, Coordinates: 35.165, 36.194
+
+### صافيتا (Safita)
+
+Code: SY1003, Coordinates: 34.812, 36.147
+Sub-districts: 6
+
+#### البارقية (Bariqiyeh)
+
+Code: SY100302, Coordinates: 34.81, 36.231
+
+#### مشتى الحلو (Mashta Elhiu)
+
+Code: SY100301, Coordinates: 34.876, 36.237
+
+#### رأس الخشوفة (Ras El-Khashufeh)
+
+Code: SY100305, Coordinates: 34.84, 36.059
+
+#### مركز صافيتا (Safita)
+
+Code: SY100300, Coordinates: 34.827, 36.126
+
+#### سبة (Sibbeh)
+
+Code: SY100303, Coordinates: 34.908, 36.24
+
+#### السيسنية (Sisniyyeh)
+
+Code: SY100304, Coordinates: 34.761, 36.152
+
+### الشيخ بدر (Sheikh Badr)
+
+Code: SY1005, Coordinates: 35.023, 36.077
+Sub-districts: 3
+
+#### برمانة المشايخ (Baramanet Elmashayekh)
+
+Code: SY100501, Coordinates: 35.039, 36.173
+
+#### قمصية (Qumseyyeh)
+
+Code: SY100502, Coordinates: 35.056, 36.007
+
+#### مركز الشيخ بدر (Sheikh Badr)
+
+Code: SY100500, Coordinates: 35.002, 36.079
+
+### مركز طرطوس (Tartous)
+
+Code: SY1000, Coordinates: 34.851, 35.963
+Sub-districts: 7
+
+#### أرواد (Arwad)
+
+Code: SY100001, Coordinates: 34.856, 35.857
+
+#### الحميدية (Hameidiyyeh)
+
+Code: SY100002, Coordinates: 34.699, 35.997
+
+#### كريمة (Kareemeh)
+
+Code: SY100005, Coordinates: 34.669, 36.084
+
+#### خربة المعزة (Kherbet Elma&#39;aza)
+
+Code: SY100003, Coordinates: 34.801, 35.985
+
+#### صفصافة (Safsafa)
+
+Code: SY100006, Coordinates: 34.727, 36.042
+
+#### سودا خوابي (Soda Khawabi)
+
+Code: SY100004, Coordinates: 35.004, 35.941
+
+#### مركز طرطوس (Tartous)
+
+Code: SY100000, Coordinates: 34.867, 35.959
+

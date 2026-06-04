@@ -1,0 +1,34 @@
+{
+  "id": "SY11",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "الرقة",
+    "en": "Ar-Raqqa",
+    "slug": "ar-raqqa-sy11"
+  },
+  "code": {
+    "id": "SY11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.023",
+    "lon": "38.921"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sy/governorates/ar-raqqa-sy11/",
+    "api": "https://openadmindata.org/api/sy/"
+  }
+}

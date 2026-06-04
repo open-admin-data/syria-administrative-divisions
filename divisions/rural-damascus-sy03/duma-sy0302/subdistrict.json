@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY030203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الضمير",
+      "en": "Dhameer",
+      "slug": "dhameer-sy030203"
+    },
+    "code": {
+      "id": "SY030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.493",
+      "lon": "37.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز دوما",
+      "en": "Duma",
+      "slug": "duma-sy030200"
+    },
+    "code": {
+      "id": "SY030200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.593",
+      "lon": "36.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030205",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الغزلانية",
+      "en": "Ghizlaniyyeh",
+      "slug": "ghizlaniyyeh-sy030205"
+    },
+    "code": {
+      "id": "SY030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.316",
+      "lon": "36.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030206",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حران العواميد",
+      "en": "Haran Al'awameed",
+      "slug": "haran-alawameed-sy030206"
+    },
+    "code": {
+      "id": "SY030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.426",
+      "lon": "36.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حرستا",
+      "en": "Harasta",
+      "slug": "harasta-sy030201"
+    },
+    "code": {
+      "id": "SY030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.569",
+      "lon": "36.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030204",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "النشابية",
+      "en": "Nashabiyeh",
+      "slug": "nashabiyeh-sy030204"
+    },
+    "code": {
+      "id": "SY030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.462",
+      "lon": "36.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السبع بيار",
+      "en": "Sabe Byar",
+      "slug": "sabe-byar-sy030202"
+    },
+    "code": {
+      "id": "SY030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0302",
+      "level": 2,
+      "name": {
+        "local": "دوما",
+        "en": "Duma",
+        "slug": "duma-sy0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0302",
+        "level": 2,
+        "name": {
+          "local": "دوما",
+          "en": "Duma",
+          "slug": "duma-sy0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.302",
+      "lon": "38.101"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

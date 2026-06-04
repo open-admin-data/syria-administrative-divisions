@@ -1,0 +1,47 @@
+{
+  "id": "SY0307",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "الزبداني",
+    "en": "Az-Zabdani",
+    "slug": "az-zabdani-sy0307"
+  },
+  "code": {
+    "id": "SY0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY03",
+    "level": 1,
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.701",
+    "lon": "36.106"
+  },
+  "metadata": {},
+  "source": {}
+}

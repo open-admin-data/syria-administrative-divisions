@@ -1,0 +1,237 @@
+[
+  {
+    "id": "SY0702",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "معرة النعمان",
+      "en": "Al Ma'ra",
+      "slug": "al-mara-sy0702"
+    },
+    "code": {
+      "id": "SY0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.566",
+      "lon": "36.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0705",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "أريحا",
+      "en": "Ariha",
+      "slug": "ariha-sy0705"
+    },
+    "code": {
+      "id": "SY0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.773",
+      "lon": "36.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0703",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "حارم",
+      "en": "Harim",
+      "slug": "harim-sy0703"
+    },
+    "code": {
+      "id": "SY0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.123",
+      "lon": "36.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0700",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy0700"
+    },
+    "code": {
+      "id": "SY0700",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.88",
+      "lon": "36.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0704",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جسر الشغور",
+      "en": "Jisr-Ash-Shugur",
+      "slug": "jisr-ash-shugur-sy0704"
+    },
+    "code": {
+      "id": "SY0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.882",
+      "lon": "36.309"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

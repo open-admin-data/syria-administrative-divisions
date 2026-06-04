@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY110202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين عيسى",
+      "en": "Ein Issa",
+      "slug": "ein-issa-sy110202"
+    },
+    "code": {
+      "id": "SY110202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1102",
+      "level": 2,
+      "name": {
+        "local": "تل أبيض",
+        "en": "Tell Abiad",
+        "slug": "tell-abiad-sy1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1102",
+        "level": 2,
+        "name": {
+          "local": "تل أبيض",
+          "en": "Tell Abiad",
+          "slug": "tell-abiad-sy1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.422",
+      "lon": "38.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سلوك",
+      "en": "Suluk",
+      "slug": "suluk-sy110201"
+    },
+    "code": {
+      "id": "SY110201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1102",
+      "level": 2,
+      "name": {
+        "local": "تل أبيض",
+        "en": "Tell Abiad",
+        "slug": "tell-abiad-sy1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1102",
+        "level": 2,
+        "name": {
+          "local": "تل أبيض",
+          "en": "Tell Abiad",
+          "slug": "tell-abiad-sy1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.317",
+      "lon": "39.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز تل أبيض",
+      "en": "Tell Abiad",
+      "slug": "tell-abiad-sy110200"
+    },
+    "code": {
+      "id": "SY110200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1102",
+      "level": 2,
+      "name": {
+        "local": "تل أبيض",
+        "en": "Tell Abiad",
+        "slug": "tell-abiad-sy1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1102",
+        "level": 2,
+        "name": {
+          "local": "تل أبيض",
+          "en": "Tell Abiad",
+          "slug": "tell-abiad-sy1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.657",
+      "lon": "38.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

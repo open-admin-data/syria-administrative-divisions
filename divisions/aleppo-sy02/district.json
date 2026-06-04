@@ -1,0 +1,378 @@
+[
+  {
+    "id": "SY0204",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "اعزاز",
+      "en": "A'zaz",
+      "slug": "azaz-sy0204"
+    },
+    "code": {
+      "id": "SY0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.467",
+      "lon": "37.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0203",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "عفرين",
+      "en": "Afrin",
+      "slug": "afrin-sy0203"
+    },
+    "code": {
+      "id": "SY0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.574",
+      "lon": "36.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0206",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "عين العرب",
+      "en": "Ain Al Arab",
+      "slug": "ain-al-arab-sy0206"
+    },
+    "code": {
+      "id": "SY0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.533",
+      "lon": "38.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0202",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الباب",
+      "en": "Al Bab",
+      "slug": "al-bab-sy0202"
+    },
+    "code": {
+      "id": "SY0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.39",
+      "lon": "37.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0207",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "السفيرة",
+      "en": "As-Safira",
+      "slug": "as-safira-sy0207"
+    },
+    "code": {
+      "id": "SY0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.814",
+      "lon": "37.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0208",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جرابلس",
+      "en": "Jarablus",
+      "slug": "jarablus-sy0208"
+    },
+    "code": {
+      "id": "SY0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.678",
+      "lon": "37.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0200",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل سمعان",
+      "en": "Jebel Saman",
+      "slug": "jebel-saman-sy0200"
+    },
+    "code": {
+      "id": "SY0200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.94",
+      "lon": "37.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0205",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "منبج",
+      "en": "Menbij",
+      "slug": "menbij-sy0205"
+    },
+    "code": {
+      "id": "SY0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.028",
+      "lon": "37.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

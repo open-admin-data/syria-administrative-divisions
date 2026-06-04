@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY080401",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "درباسية",
+      "en": "Darbasiyah",
+      "slug": "darbasiyah-sy080401"
+    },
+    "code": {
+      "id": "SY080401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0804",
+      "level": 2,
+      "name": {
+        "local": "رأس العين",
+        "en": "Ras Al Ain",
+        "slug": "ras-al-ain-sy0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0804",
+        "level": 2,
+        "name": {
+          "local": "رأس العين",
+          "en": "Ras Al Ain",
+          "slug": "ras-al-ain-sy0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.932",
+      "lon": "40.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY080400",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز رأس العين",
+      "en": "Ras Al Ain",
+      "slug": "ras-al-ain-sy080400"
+    },
+    "code": {
+      "id": "SY080400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0804",
+      "level": 2,
+      "name": {
+        "local": "رأس العين",
+        "en": "Ras Al Ain",
+        "slug": "ras-al-ain-sy0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      },
+      {
+        "id": "SY0804",
+        "level": 2,
+        "name": {
+          "local": "رأس العين",
+          "en": "Ras Al Ain",
+          "slug": "ras-al-ain-sy0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.602",
+      "lon": "39.857"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "SY0303",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "القطيفة",
+    "en": "Al Qutayfah",
+    "slug": "al-qutayfah-sy0303"
+  },
+  "code": {
+    "id": "SY0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY03",
+    "level": 1,
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.814",
+    "lon": "36.8"
+  },
+  "metadata": {},
+  "source": {}
+}

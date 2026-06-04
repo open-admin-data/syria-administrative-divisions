@@ -1,0 +1,478 @@
+[
+  {
+    "id": "SY08",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy08"
+    },
+    "code": {
+      "id": "SY08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.428",
+      "lon": "40.558"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/al-hasakeh-sy08/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY02",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    },
+    "code": {
+      "id": "SY02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.147",
+      "lon": "37.395"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/aleppo-sy02/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY11",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "الرقة",
+      "en": "Ar-Raqqa",
+      "slug": "ar-raqqa-sy11"
+    },
+    "code": {
+      "id": "SY11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.023",
+      "lon": "38.921"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/ar-raqqa-sy11/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY13",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "السويداء",
+      "en": "As-Sweida",
+      "slug": "as-sweida-sy13"
+    },
+    "code": {
+      "id": "SY13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.756",
+      "lon": "36.895"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/as-sweida-sy13/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY01",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "دمشق",
+      "en": "Damascus",
+      "slug": "damascus-sy01"
+    },
+    "code": {
+      "id": "SY01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 1,
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.516",
+      "lon": "36.274"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/damascus-sy01/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY12",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "درعا",
+      "en": "Dar'a",
+      "slug": "dara-sy12"
+    },
+    "code": {
+      "id": "SY12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.83",
+      "lon": "36.112"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/dara-sy12/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY09",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "دير الزور",
+      "en": "Deir-ez-Zor",
+      "slug": "deir-ez-zor-sy09"
+    },
+    "code": {
+      "id": "SY09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.201",
+      "lon": "40.295"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/deir-ez-zor-sy09/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY05",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "حماة",
+      "en": "Hama",
+      "slug": "hama-sy05"
+    },
+    "code": {
+      "id": "SY05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "subdistrict": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.31",
+      "lon": "37.343"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/hama-sy05/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY04",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "حمص",
+      "en": "Homs",
+      "slug": "homs-sy04"
+    },
+    "code": {
+      "id": "SY04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.465",
+      "lon": "38.209"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/homs-sy04/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY07",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy07"
+    },
+    "code": {
+      "id": "SY07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "subdistrict": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.858",
+      "lon": "36.571"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/idleb-sy07/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY06",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "اللاذقية",
+      "en": "Lattakia",
+      "slug": "lattakia-sy06"
+    },
+    "code": {
+      "id": "SY06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.581",
+      "lon": "35.991"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/lattakia-sy06/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY14",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "القنيطرة",
+      "en": "Quneitra",
+      "slug": "quneitra-sy14"
+    },
+    "code": {
+      "id": "SY14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2,
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.017",
+      "lon": "35.797"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/quneitra-sy14/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY03",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    },
+    "code": {
+      "id": "SY03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.452",
+      "lon": "37.44"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/rural-damascus-sy03/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  },
+  {
+    "id": "SY10",
+    "level": 1,
+    "level_name": {
+      "local": "محافظة",
+      "en": "Governorate"
+    },
+    "name": {
+      "local": "طرطوس",
+      "en": "Tartous",
+      "slug": "tartous-sy10"
+    },
+    "code": {
+      "id": "SY10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.951",
+      "lon": "36.076"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/sy/governorates/tartous-sy10/",
+      "api": "https://openadmindata.org/api/sy/"
+    }
+  }
+]

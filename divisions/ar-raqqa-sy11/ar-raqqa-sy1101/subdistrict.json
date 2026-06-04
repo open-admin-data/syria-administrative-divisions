@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY110100",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الرقة",
+      "en": "Ar-Raqqa",
+      "slug": "ar-raqqa-sy110100"
+    },
+    "code": {
+      "id": "SY110100",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1101",
+      "level": 2,
+      "name": {
+        "local": "مركز الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1101",
+        "level": 2,
+        "name": {
+          "local": "مركز الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.1",
+      "lon": "38.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110102",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الكرامة",
+      "en": "Karama",
+      "slug": "karama-sy110102"
+    },
+    "code": {
+      "id": "SY110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1101",
+      "level": 2,
+      "name": {
+        "local": "مركز الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1101",
+        "level": 2,
+        "name": {
+          "local": "مركز الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.017",
+      "lon": "39.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110103",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "معدان",
+      "en": "Maadan",
+      "slug": "maadan-sy110103"
+    },
+    "code": {
+      "id": "SY110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1101",
+      "level": 2,
+      "name": {
+        "local": "مركز الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1101",
+        "level": 2,
+        "name": {
+          "local": "مركز الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.77",
+      "lon": "39.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY110101",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السبخة",
+      "en": "Sabka",
+      "slug": "sabka-sy110101"
+    },
+    "code": {
+      "id": "SY110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1101",
+      "level": 2,
+      "name": {
+        "local": "مركز الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      },
+      {
+        "id": "SY1101",
+        "level": 2,
+        "name": {
+          "local": "مركز الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.595",
+      "lon": "39.276"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

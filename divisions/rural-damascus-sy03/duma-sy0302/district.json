@@ -1,0 +1,47 @@
+{
+  "id": "SY0302",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "دوما",
+    "en": "Duma",
+    "slug": "duma-sy0302"
+  },
+  "code": {
+    "id": "SY0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY03",
+    "level": 1,
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.326",
+    "lon": "37.571"
+  },
+  "metadata": {},
+  "source": {}
+}

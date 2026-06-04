@@ -1,0 +1,47 @@
+{
+  "id": "SY0802",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "القامشلي",
+    "en": "Quamishli",
+    "slug": "quamishli-sy0802"
+  },
+  "code": {
+    "id": "SY0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY08",
+    "level": 1,
+    "name": {
+      "local": "الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.804",
+    "lon": "41.471"
+  },
+  "metadata": {},
+  "source": {}
+}

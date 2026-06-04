@@ -1,0 +1,209 @@
+# Aleppo — Syria Administrative Divisions
+
+> 8 districts, 40 sub-districts
+> Code: SY02
+> Coordinates: 36.147, 37.395
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### اعزاز (A&#39;zaz)
+
+Code: SY0204, Coordinates: 36.467, 37.208
+Sub-districts: 6
+
+#### مركز اعزاز (A&#39;zaz)
+
+Code: SY020400, Coordinates: 36.584, 37.073
+
+#### اخترين (Aghtrin)
+
+Code: SY020401, Coordinates: 36.514, 37.347
+
+#### مارع (Mare&#39;)
+
+Code: SY020403, Coordinates: 36.443, 37.199
+
+#### نبل (Nabul)
+
+Code: SY020404, Coordinates: 36.351, 37.026
+
+#### صوران (Suran)
+
+Code: SY020405, Coordinates: 36.593, 37.23
+
+#### تل رفعت (Tall Refaat)
+
+Code: SY020402, Coordinates: 36.438, 37.087
+
+### عفرين (Afrin)
+
+Code: SY0203, Coordinates: 36.574, 36.794
+Sub-districts: 7
+
+#### مركز عفرين (Afrin)
+
+Code: SY020300, Coordinates: 36.439, 36.907
+
+#### بلبل (Bulbul)
+
+Code: SY020301, Coordinates: 36.732, 36.827
+
+#### جنديرس (Jandairis)
+
+Code: SY020302, Coordinates: 36.417, 36.686
+
+#### معبطلي (Ma&#39;btali)
+
+Code: SY020306, Coordinates: 36.58, 36.754
+
+#### راجو (Raju)
+
+Code: SY020303, Coordinates: 36.719, 36.694
+
+#### شران (Sharan)
+
+Code: SY020304, Coordinates: 36.659, 36.939
+
+#### شيخ الحديد (Sheikh El-Hadid)
+
+Code: SY020305, Coordinates: 36.523, 36.623
+
+### عين العرب (Ain Al Arab)
+
+Code: SY0206, Coordinates: 36.533, 38.471
+Sub-districts: 3
+
+#### مركز عين العرب (Ain al Arab)
+
+Code: SY020600, Coordinates: 36.797, 38.42
+
+#### شيوخ تحتاني (Lower Shyookh)
+
+Code: SY020601, Coordinates: 36.77, 38.131
+
+#### صرين (Sarin)
+
+Code: SY020602, Coordinates: 36.442, 38.449
+
+### الباب (Al Bab)
+
+Code: SY0202, Coordinates: 36.39, 37.544
+Sub-districts: 7
+
+#### عريمة (A&#39;rima)
+
+Code: SY020206, Coordinates: 36.444, 37.673
+
+#### مركز الباب (Al Bab)
+
+Code: SY020200, Coordinates: 36.391, 37.492
+
+#### الراعي (Ar-Ra&#39;ee)
+
+Code: SY020203, Coordinates: 36.626, 37.529
+
+#### دير حافر (Dayr Hafir)
+
+Code: SY020202, Coordinates: 36.128, 37.656
+
+#### كويرس شرقي (Eastern Kwaires)
+
+Code: SY020204, Coordinates: 36.155, 37.521
+
+#### رسم حرمل الامام (Rasm Haram El-Imam)
+
+Code: SY020205, Coordinates: 36.216, 37.64
+
+#### تادف (Tadaf)
+
+Code: SY020201, Coordinates: 36.311, 37.575
+
+### السفيرة (As-Safira)
+
+Code: SY0207, Coordinates: 35.814, 37.525
+Sub-districts: 4
+
+#### مركز السفيرة (As-Safira)
+
+Code: SY020700, Coordinates: 36.03, 37.507
+
+#### بنان (Banan)
+
+Code: SY020702, Coordinates: 35.958, 37.331
+
+#### الحاجب (Hajeb)
+
+Code: SY020703, Coordinates: 35.855, 37.413
+
+#### خناصر (Khanaser)
+
+Code: SY020701, Coordinates: 35.685, 37.59
+
+### جرابلس (Jarablus)
+
+Code: SY0208, Coordinates: 36.678, 37.862
+Sub-districts: 2
+
+#### غندورة (Ghandorah)
+
+Code: SY020801, Coordinates: 36.642, 37.724
+
+#### مركز جرابلس (Jarablus)
+
+Code: SY020800, Coordinates: 36.718, 37.968
+
+### جبل سمعان (Jebel Saman)
+
+Code: SY0200, Coordinates: 35.94, 37.073
+Sub-districts: 7
+
+#### أتارب (Atareb)
+
+Code: SY020001, Coordinates: 36.125, 36.863
+
+#### دارة عزة (Daret Azza)
+
+Code: SY020004, Coordinates: 36.26, 36.907
+
+#### الحاضر (Hadher)
+
+Code: SY020006, Coordinates: 35.972, 37.046
+
+#### حريتان (Haritan)
+
+Code: SY020003, Coordinates: 36.275, 37.045
+
+#### مركز جبل سمعان (Jebel Saman)
+
+Code: SY020000, Coordinates: 36.186, 37.145
+
+#### تل الضمان (Tall Ed-daman)
+
+Code: SY020002, Coordinates: 35.773, 37.226
+
+#### الزربة (Zarbah)
+
+Code: SY020005, Coordinates: 35.966, 36.931
+
+### منبج (Menbij)
+
+Code: SY0205, Coordinates: 36.028, 37.901
+Sub-districts: 4
+
+#### أبو قلقل (Abu Qalqal)
+
+Code: SY020501, Coordinates: 36.417, 38.064
+
+#### الخفسة (Al-Khafsa)
+
+Code: SY020502, Coordinates: 35.87, 37.874
+
+#### مسكنة (Maskana)
+
+Code: SY020503, Coordinates: 35.99, 38.066
+
+#### مركز منبج (Menbij)
+
+Code: SY020500, Coordinates: 36.459, 37.864
+

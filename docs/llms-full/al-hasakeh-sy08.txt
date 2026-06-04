@@ -1,0 +1,93 @@
+# Al-Hasakeh — Syria Administrative Divisions
+
+> 4 districts, 16 sub-districts
+> Code: SY08
+> Coordinates: 36.428, 40.558
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### مركز الحسكة (Al-Hasakeh)
+
+Code: SY0800, Coordinates: 36.169, 40.653
+Sub-districts: 7
+
+#### مركز الحسكة (Al-Hasakeh)
+
+Code: SY080000, Coordinates: 36.532, 40.736
+
+#### العريشة (Areesheh)
+
+Code: SY080005, Coordinates: 36.127, 40.281
+
+#### بئر الحلو الوردية (Be&#39;r Al-Hulo Al-Wardeyyeh)
+
+Code: SY080004, Coordinates: 36.662, 41.08
+
+#### الهول (Hole)
+
+Code: SY080006, Coordinates: 36.439, 41.147
+
+#### مركدة (Markada)
+
+Code: SY080003, Coordinates: 35.873, 40.971
+
+#### شدادة (Shadadah)
+
+Code: SY080002, Coordinates: 36.022, 40.697
+
+#### تل تمر (Tal Tamer)
+
+Code: SY080001, Coordinates: 36.602, 40.36
+
+### المالكية (Al-Malikeyyeh)
+
+Code: SY0803, Coordinates: 36.963, 41.97
+Sub-districts: 3
+
+#### مركز المالكية (Al-Malikeyyeh)
+
+Code: SY080300, Coordinates: 37.114, 42.126
+
+#### جوادية (Jawadiyah)
+
+Code: SY080301, Coordinates: 37.027, 41.784
+
+#### يعربية (Ya&#39;robiyah)
+
+Code: SY080302, Coordinates: 36.782, 41.871
+
+### القامشلي (Quamishli)
+
+Code: SY0802, Coordinates: 36.804, 41.471
+Sub-districts: 4
+
+#### عامودا (Amuda)
+
+Code: SY080202, Coordinates: 36.946, 40.929
+
+#### قحطانية (Qahtaniyyeh)
+
+Code: SY080203, Coordinates: 36.929, 41.555
+
+#### مركز القامشلي (Quamishli)
+
+Code: SY080200, Coordinates: 36.971, 41.231
+
+#### تل حميس (Tal Hmis)
+
+Code: SY080201, Coordinates: 36.713, 41.495
+
+### رأس العين (Ras Al Ain)
+
+Code: SY0804, Coordinates: 36.657, 39.898
+Sub-districts: 2
+
+#### درباسية (Darbasiyah)
+
+Code: SY080401, Coordinates: 36.932, 40.597
+
+#### مركز رأس العين (Ras Al Ain)
+
+Code: SY080400, Coordinates: 36.602, 39.857
+

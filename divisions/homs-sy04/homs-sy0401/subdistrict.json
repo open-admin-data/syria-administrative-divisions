@@ -1,0 +1,650 @@
+[
+  {
+    "id": "SY040103",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عين النسر",
+      "en": "Ein Elniser",
+      "slug": "ein-elniser-sy040103"
+    },
+    "code": {
+      "id": "SY040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.818",
+      "lon": "36.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040104",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفرقلس",
+      "en": "Farqalas",
+      "slug": "farqalas-sy040104"
+    },
+    "code": {
+      "id": "SY040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.59",
+      "lon": "37.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040108",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حسياء",
+      "en": "Hasyaa",
+      "slug": "hasyaa-sy040108"
+    },
+    "code": {
+      "id": "SY040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.397",
+      "lon": "36.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040100",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز حمص",
+      "en": "Homs",
+      "slug": "homs-sy040100"
+    },
+    "code": {
+      "id": "SY040100",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.714",
+      "lon": "36.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040102",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خربة تين نور",
+      "en": "Kherbet Tin Noor",
+      "slug": "kherbet-tin-noor-sy040102"
+    },
+    "code": {
+      "id": "SY040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.718",
+      "lon": "36.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040107",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مهين",
+      "en": "Mahin",
+      "slug": "mahin-sy040107"
+    },
+    "code": {
+      "id": "SY040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.252",
+      "lon": "37.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040110",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القبو",
+      "en": "Qabu",
+      "slug": "qabu-sy040110"
+    },
+    "code": {
+      "id": "SY040110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.845",
+      "lon": "36.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040106",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "القريتين",
+      "en": "Qaryatein",
+      "slug": "qaryatein-sy040106"
+    },
+    "code": {
+      "id": "SY040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.286",
+      "lon": "37.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040105",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الرقاما",
+      "en": "Raqama",
+      "slug": "raqama-sy040105"
+    },
+    "code": {
+      "id": "SY040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.488",
+      "lon": "36.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040109",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صدد",
+      "en": "Sadad",
+      "slug": "sadad-sy040109"
+    },
+    "code": {
+      "id": "SY040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.258",
+      "lon": "36.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040111",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شين",
+      "en": "Shin",
+      "slug": "shin-sy040111"
+    },
+    "code": {
+      "id": "SY040111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.811",
+      "lon": "36.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040101",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تلدو",
+      "en": "Taldu",
+      "slug": "taldu-sy040101"
+    },
+    "code": {
+      "id": "SY040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0401",
+      "level": 2,
+      "name": {
+        "local": "مركز حمص",
+        "en": "Homs",
+        "slug": "homs-sy0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0401",
+        "level": 2,
+        "name": {
+          "local": "مركز حمص",
+          "en": "Homs",
+          "slug": "homs-sy0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.87",
+      "lon": "36.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

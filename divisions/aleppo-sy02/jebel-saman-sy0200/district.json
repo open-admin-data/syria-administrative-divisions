@@ -1,0 +1,47 @@
+{
+  "id": "SY0200",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "جبل سمعان",
+    "en": "Jebel Saman",
+    "slug": "jebel-saman-sy0200"
+  },
+  "code": {
+    "id": "SY0200",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY02",
+    "level": 1,
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.94",
+    "lon": "37.073"
+  },
+  "metadata": {},
+  "source": {}
+}

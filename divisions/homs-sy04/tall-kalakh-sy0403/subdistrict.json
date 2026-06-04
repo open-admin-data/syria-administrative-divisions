@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY040301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حديدة",
+      "en": "Hadideh",
+      "slug": "hadideh-sy040301"
+    },
+    "code": {
+      "id": "SY040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0403",
+      "level": 2,
+      "name": {
+        "local": "تلكلخ",
+        "en": "Tall Kalakh",
+        "slug": "tall-kalakh-sy0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0403",
+        "level": 2,
+        "name": {
+          "local": "تلكلخ",
+          "en": "Tall Kalakh",
+          "slug": "tall-kalakh-sy0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.691",
+      "lon": "36.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحواش",
+      "en": "Hawash",
+      "slug": "hawash-sy040304"
+    },
+    "code": {
+      "id": "SY040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0403",
+      "level": 2,
+      "name": {
+        "local": "تلكلخ",
+        "en": "Tall Kalakh",
+        "slug": "tall-kalakh-sy0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0403",
+        "level": 2,
+        "name": {
+          "local": "تلكلخ",
+          "en": "Tall Kalakh",
+          "slug": "tall-kalakh-sy0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.792",
+      "lon": "36.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الناصرة",
+      "en": "Nasra",
+      "slug": "nasra-sy040303"
+    },
+    "code": {
+      "id": "SY040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0403",
+      "level": 2,
+      "name": {
+        "local": "تلكلخ",
+        "en": "Tall Kalakh",
+        "slug": "tall-kalakh-sy0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0403",
+        "level": 2,
+        "name": {
+          "local": "تلكلخ",
+          "en": "Tall Kalakh",
+          "slug": "tall-kalakh-sy0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.805",
+      "lon": "36.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز تلكلخ",
+      "en": "Tall Kalakh",
+      "slug": "tall-kalakh-sy040300"
+    },
+    "code": {
+      "id": "SY040300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0403",
+      "level": 2,
+      "name": {
+        "local": "تلكلخ",
+        "en": "Tall Kalakh",
+        "slug": "tall-kalakh-sy0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0403",
+        "level": 2,
+        "name": {
+          "local": "تلكلخ",
+          "en": "Tall Kalakh",
+          "slug": "tall-kalakh-sy0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.696",
+      "lon": "36.238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY020300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز عفرين",
+      "en": "Afrin",
+      "slug": "afrin-sy020300"
+    },
+    "code": {
+      "id": "SY020300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.439",
+      "lon": "36.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بلبل",
+      "en": "Bulbul",
+      "slug": "bulbul-sy020301"
+    },
+    "code": {
+      "id": "SY020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.732",
+      "lon": "36.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جنديرس",
+      "en": "Jandairis",
+      "slug": "jandairis-sy020302"
+    },
+    "code": {
+      "id": "SY020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.417",
+      "lon": "36.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020306",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "معبطلي",
+      "en": "Ma'btali",
+      "slug": "mabtali-sy020306"
+    },
+    "code": {
+      "id": "SY020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.58",
+      "lon": "36.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "راجو",
+      "en": "Raju",
+      "slug": "raju-sy020303"
+    },
+    "code": {
+      "id": "SY020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.719",
+      "lon": "36.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شران",
+      "en": "Sharan",
+      "slug": "sharan-sy020304"
+    },
+    "code": {
+      "id": "SY020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.659",
+      "lon": "36.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020305",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شيخ الحديد",
+      "en": "Sheikh El-Hadid",
+      "slug": "sheikh-el-hadid-sy020305"
+    },
+    "code": {
+      "id": "SY020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0203",
+      "level": 2,
+      "name": {
+        "local": "عفرين",
+        "en": "Afrin",
+        "slug": "afrin-sy0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0203",
+        "level": 2,
+        "name": {
+          "local": "عفرين",
+          "en": "Afrin",
+          "slug": "afrin-sy0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.523",
+      "lon": "36.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

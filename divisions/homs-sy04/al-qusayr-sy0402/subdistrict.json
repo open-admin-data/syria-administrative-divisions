@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SY040200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز القصير",
+      "en": "Al-Qusayr",
+      "slug": "al-qusayr-sy040200"
+    },
+    "code": {
+      "id": "SY040200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0402",
+      "level": 2,
+      "name": {
+        "local": "القصير",
+        "en": "Al-Qusayr",
+        "slug": "al-qusayr-sy0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0402",
+        "level": 2,
+        "name": {
+          "local": "القصير",
+          "en": "Al-Qusayr",
+          "slug": "al-qusayr-sy0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.512",
+      "lon": "36.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

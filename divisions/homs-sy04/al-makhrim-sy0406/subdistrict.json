@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY040600",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المخرم",
+      "en": "Al Makhrim",
+      "slug": "al-makhrim-sy040600"
+    },
+    "code": {
+      "id": "SY040600",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0406",
+      "level": 2,
+      "name": {
+        "local": "المخرم",
+        "en": "Al Makhrim",
+        "slug": "al-makhrim-sy0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0406",
+        "level": 2,
+        "name": {
+          "local": "المخرم",
+          "en": "Al Makhrim",
+          "slug": "al-makhrim-sy0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.791",
+      "lon": "37.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040601",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جب الجراح",
+      "en": "Jeb Ej-Jarrah",
+      "slug": "jeb-ej-jarrah-sy040601"
+    },
+    "code": {
+      "id": "SY040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0406",
+      "level": 2,
+      "name": {
+        "local": "المخرم",
+        "en": "Al Makhrim",
+        "slug": "al-makhrim-sy0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0406",
+        "level": 2,
+        "name": {
+          "local": "المخرم",
+          "en": "Al Makhrim",
+          "slug": "al-makhrim-sy0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.825",
+      "lon": "37.551"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

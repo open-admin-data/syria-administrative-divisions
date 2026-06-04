@@ -1,0 +1,47 @@
+{
+  "id": "SY0804",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "رأس العين",
+    "en": "Ras Al Ain",
+    "slug": "ras-al-ain-sy0804"
+  },
+  "code": {
+    "id": "SY0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY08",
+    "level": 1,
+    "name": {
+      "local": "الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.657",
+    "lon": "39.898"
+  },
+  "metadata": {},
+  "source": {}
+}

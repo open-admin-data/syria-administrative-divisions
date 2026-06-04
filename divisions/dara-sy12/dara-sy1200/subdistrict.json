@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SY120003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشجرة",
+      "en": "Ash-Shajara",
+      "slug": "ash-shajara-sy120003"
+    },
+    "code": {
+      "id": "SY120003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.804",
+      "lon": "35.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بصرى الشام",
+      "en": "Busra Esh-Sham",
+      "slug": "busra-esh-sham-sy120001"
+    },
+    "code": {
+      "id": "SY120001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.475",
+      "lon": "36.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120004",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "داعل",
+      "en": "Da'el",
+      "slug": "dael-sy120004"
+    },
+    "code": {
+      "id": "SY120004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.759",
+      "lon": "36.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز درعا",
+      "en": "Dar'a",
+      "slug": "dara-sy120000"
+    },
+    "code": {
+      "id": "SY120000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.616",
+      "lon": "36.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120006",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الجيزة",
+      "en": "Jizeh",
+      "slug": "jizeh-sy120006"
+    },
+    "code": {
+      "id": "SY120006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.529",
+      "lon": "36.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خربة غزالة",
+      "en": "Kherbet Ghazala",
+      "slug": "kherbet-ghazala-sy120002"
+    },
+    "code": {
+      "id": "SY120002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.709",
+      "lon": "36.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120007",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المسيفرة",
+      "en": "Mseifra",
+      "slug": "mseifra-sy120007"
+    },
+    "code": {
+      "id": "SY120007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.635",
+      "lon": "36.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120005",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مزيريب",
+      "en": "Mzeireb",
+      "slug": "mzeireb-sy120005"
+    },
+    "code": {
+      "id": "SY120005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1200",
+      "level": 2,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy1200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1200",
+        "level": 2,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy1200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.727",
+      "lon": "36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

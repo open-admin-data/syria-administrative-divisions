@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY100001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "أرواد",
+      "en": "Arwad",
+      "slug": "arwad-sy100001"
+    },
+    "code": {
+      "id": "SY100001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.856",
+      "lon": "35.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحميدية",
+      "en": "Hameidiyyeh",
+      "slug": "hameidiyyeh-sy100002"
+    },
+    "code": {
+      "id": "SY100002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.699",
+      "lon": "35.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100005",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كريمة",
+      "en": "Kareemeh",
+      "slug": "kareemeh-sy100005"
+    },
+    "code": {
+      "id": "SY100005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.669",
+      "lon": "36.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خربة المعزة",
+      "en": "Kherbet Elma'aza",
+      "slug": "kherbet-elmaaza-sy100003"
+    },
+    "code": {
+      "id": "SY100003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.801",
+      "lon": "35.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100006",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صفصافة",
+      "en": "Safsafa",
+      "slug": "safsafa-sy100006"
+    },
+    "code": {
+      "id": "SY100006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.727",
+      "lon": "36.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100004",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سودا خوابي",
+      "en": "Soda Khawabi",
+      "slug": "soda-khawabi-sy100004"
+    },
+    "code": {
+      "id": "SY100004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.004",
+      "lon": "35.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز طرطوس",
+      "en": "Tartous",
+      "slug": "tartous-sy100000"
+    },
+    "code": {
+      "id": "SY100000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1000",
+      "level": 2,
+      "name": {
+        "local": "مركز طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy1000"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1000",
+        "level": 2,
+        "name": {
+          "local": "مركز طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy1000"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.867",
+      "lon": "35.959"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

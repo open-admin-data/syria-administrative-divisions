@@ -1,0 +1,47 @@
+{
+  "id": "SY0306",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "النبك",
+    "en": "An Nabk",
+    "slug": "an-nabk-sy0306"
+  },
+  "code": {
+    "id": "SY0306",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY03",
+    "level": 1,
+    "name": {
+      "local": "ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.043",
+    "lon": "36.735"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY130302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "العريقة",
+      "en": "Ariqa",
+      "slug": "ariqa-sy130302"
+    },
+    "code": {
+      "id": "SY130302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1303",
+      "level": 2,
+      "name": {
+        "local": "شهبا",
+        "en": "Shahba",
+        "slug": "shahba-sy1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1303",
+        "level": 2,
+        "name": {
+          "local": "شهبا",
+          "en": "Shahba",
+          "slug": "shahba-sy1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.924",
+      "lon": "36.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY130303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الصورة الصغيرة",
+      "en": "Little Sura",
+      "slug": "little-sura-sy130303"
+    },
+    "code": {
+      "id": "SY130303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1303",
+      "level": 2,
+      "name": {
+        "local": "شهبا",
+        "en": "Shahba",
+        "slug": "shahba-sy1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1303",
+        "level": 2,
+        "name": {
+          "local": "شهبا",
+          "en": "Shahba",
+          "slug": "shahba-sy1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.077",
+      "lon": "36.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY130300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز شهبا",
+      "en": "Shahba",
+      "slug": "shahba-sy130300"
+    },
+    "code": {
+      "id": "SY130300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1303",
+      "level": 2,
+      "name": {
+        "local": "شهبا",
+        "en": "Shahba",
+        "slug": "shahba-sy1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1303",
+        "level": 2,
+        "name": {
+          "local": "شهبا",
+          "en": "Shahba",
+          "slug": "shahba-sy1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.882",
+      "lon": "36.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY130301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شقا",
+      "en": "Shaqa",
+      "slug": "shaqa-sy130301"
+    },
+    "code": {
+      "id": "SY130301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1303",
+      "level": 2,
+      "name": {
+        "local": "شهبا",
+        "en": "Shahba",
+        "slug": "shahba-sy1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1303",
+        "level": 2,
+        "name": {
+          "local": "شهبا",
+          "en": "Shahba",
+          "slug": "shahba-sy1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.947",
+      "lon": "36.858"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

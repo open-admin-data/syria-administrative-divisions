@@ -1,0 +1,34 @@
+{
+  "id": "SY09",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "دير الزور",
+    "en": "Deir-ez-Zor",
+    "slug": "deir-ez-zor-sy09"
+  },
+  "code": {
+    "id": "SY09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.201",
+    "lon": "40.295"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sy/governorates/deir-ez-zor-sy09/",
+    "api": "https://openadmindata.org/api/sy/"
+  }
+}

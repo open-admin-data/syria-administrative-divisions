@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SY040400",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الرستن",
+      "en": "Ar-Rastan",
+      "slug": "ar-rastan-sy040400"
+    },
+    "code": {
+      "id": "SY040400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0404",
+      "level": 2,
+      "name": {
+        "local": "الرستن",
+        "en": "Ar-Rastan",
+        "slug": "ar-rastan-sy0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0404",
+        "level": 2,
+        "name": {
+          "local": "الرستن",
+          "en": "Ar-Rastan",
+          "slug": "ar-rastan-sy0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.922",
+      "lon": "36.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY040401",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تلبيسة",
+      "en": "Talbiseh",
+      "slug": "talbiseh-sy040401"
+    },
+    "code": {
+      "id": "SY040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0404",
+      "level": 2,
+      "name": {
+        "local": "الرستن",
+        "en": "Ar-Rastan",
+        "slug": "ar-rastan-sy0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      },
+      {
+        "id": "SY0404",
+        "level": 2,
+        "name": {
+          "local": "الرستن",
+          "en": "Ar-Rastan",
+          "slug": "ar-rastan-sy0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.886",
+      "lon": "36.768"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

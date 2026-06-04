@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SY120302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحراك",
+      "en": "Hrak",
+      "slug": "hrak-sy120302"
+    },
+    "code": {
+      "id": "SY120302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1203",
+      "level": 2,
+      "name": {
+        "local": "ازرع",
+        "en": "Izra'",
+        "slug": "izra-sy1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1203",
+        "level": 2,
+        "name": {
+          "local": "ازرع",
+          "en": "Izra'",
+          "slug": "izra-sy1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.755",
+      "lon": "36.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز ازرع",
+      "en": "Izra'",
+      "slug": "izra-sy120300"
+    },
+    "code": {
+      "id": "SY120300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1203",
+      "level": 2,
+      "name": {
+        "local": "ازرع",
+        "en": "Izra'",
+        "slug": "izra-sy1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1203",
+        "level": 2,
+        "name": {
+          "local": "ازرع",
+          "en": "Izra'",
+          "slug": "izra-sy1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.9",
+      "lon": "36.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جاسم",
+      "en": "Jasim",
+      "slug": "jasim-sy120301"
+    },
+    "code": {
+      "id": "SY120301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1203",
+      "level": 2,
+      "name": {
+        "local": "ازرع",
+        "en": "Izra'",
+        "slug": "izra-sy1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1203",
+        "level": 2,
+        "name": {
+          "local": "ازرع",
+          "en": "Izra'",
+          "slug": "izra-sy1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.977",
+      "lon": "36.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "نوى",
+      "en": "Nawa",
+      "slug": "nawa-sy120303"
+    },
+    "code": {
+      "id": "SY120303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1203",
+      "level": 2,
+      "name": {
+        "local": "ازرع",
+        "en": "Izra'",
+        "slug": "izra-sy1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1203",
+        "level": 2,
+        "name": {
+          "local": "ازرع",
+          "en": "Izra'",
+          "slug": "izra-sy1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.864",
+      "lon": "36.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الشيخ مسكين",
+      "en": "Sheikh Miskine",
+      "slug": "sheikh-miskine-sy120304"
+    },
+    "code": {
+      "id": "SY120304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1203",
+      "level": 2,
+      "name": {
+        "local": "ازرع",
+        "en": "Izra'",
+        "slug": "izra-sy1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1203",
+        "level": 2,
+        "name": {
+          "local": "ازرع",
+          "en": "Izra'",
+          "slug": "izra-sy1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.869",
+      "lon": "36.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120305",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تسيل",
+      "en": "Tassil",
+      "slug": "tassil-sy120305"
+    },
+    "code": {
+      "id": "SY120305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1203",
+      "level": 2,
+      "name": {
+        "local": "ازرع",
+        "en": "Izra'",
+        "slug": "izra-sy1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1203",
+        "level": 2,
+        "name": {
+          "local": "ازرع",
+          "en": "Izra'",
+          "slug": "izra-sy1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.845",
+      "lon": "35.971"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

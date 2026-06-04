@@ -1,0 +1,34 @@
+{
+  "id": "SY03",
+  "level": 1,
+  "level_name": {
+    "local": "محافظة",
+    "en": "Governorate"
+  },
+  "name": {
+    "local": "ريف دمشق",
+    "en": "Rural Damascus",
+    "slug": "rural-damascus-sy03"
+  },
+  "code": {
+    "id": "SY03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "subdistrict": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.452",
+    "lon": "37.44"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/sy/governorates/rural-damascus-sy03/",
+    "api": "https://openadmindata.org/api/sy/"
+  }
+}

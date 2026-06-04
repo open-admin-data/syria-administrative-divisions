@@ -1,0 +1,47 @@
+{
+  "id": "SY0206",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "عين العرب",
+    "en": "Ain Al Arab",
+    "slug": "ain-al-arab-sy0206"
+  },
+  "code": {
+    "id": "SY0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY02",
+    "level": 1,
+    "name": {
+      "local": "حلب",
+      "en": "Aleppo",
+      "slug": "aleppo-sy02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.533",
+    "lon": "38.471"
+  },
+  "metadata": {},
+  "source": {}
+}

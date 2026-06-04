@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+SY1101,مركز الرقة,Ar-Raqqa,ar-raqqa-sy1101,SY1101,4,35.827,39.279
+SY1103,الثورة,Ath-Thawrah,ath-thawrah-sy1103,SY1103,3,35.811,38.506
+SY1102,تل أبيض,Tell Abiad,tell-abiad-sy1102,SY1102,3,36.35,39.48

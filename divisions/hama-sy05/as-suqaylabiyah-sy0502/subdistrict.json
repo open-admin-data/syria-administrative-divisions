@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SY050200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز السقيلبية",
+      "en": "As-Suqaylabiyah",
+      "slug": "as-suqaylabiyah-sy050200"
+    },
+    "code": {
+      "id": "SY050200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0502",
+      "level": 2,
+      "name": {
+        "local": "السقيلبية",
+        "en": "As-Suqaylabiyah",
+        "slug": "as-suqaylabiyah-sy0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0502",
+        "level": 2,
+        "name": {
+          "local": "السقيلبية",
+          "en": "As-Suqaylabiyah",
+          "slug": "as-suqaylabiyah-sy0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.376",
+      "lon": "36.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050204",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "قلعة المضيق",
+      "en": "Madiq Castle",
+      "slug": "madiq-castle-sy050204"
+    },
+    "code": {
+      "id": "SY050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0502",
+      "level": 2,
+      "name": {
+        "local": "السقيلبية",
+        "en": "As-Suqaylabiyah",
+        "slug": "as-suqaylabiyah-sy0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0502",
+        "level": 2,
+        "name": {
+          "local": "السقيلبية",
+          "en": "As-Suqaylabiyah",
+          "slug": "as-suqaylabiyah-sy0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.484",
+      "lon": "36.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "شطحة",
+      "en": "Shat-ha",
+      "slug": "shat-ha-sy050203"
+    },
+    "code": {
+      "id": "SY050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0502",
+      "level": 2,
+      "name": {
+        "local": "السقيلبية",
+        "en": "As-Suqaylabiyah",
+        "slug": "as-suqaylabiyah-sy0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0502",
+        "level": 2,
+        "name": {
+          "local": "السقيلبية",
+          "en": "As-Suqaylabiyah",
+          "slug": "as-suqaylabiyah-sy0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.553",
+      "lon": "36.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تلسلحب",
+      "en": "Tell Salhib",
+      "slug": "tell-salhib-sy050201"
+    },
+    "code": {
+      "id": "SY050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0502",
+      "level": 2,
+      "name": {
+        "local": "السقيلبية",
+        "en": "As-Suqaylabiyah",
+        "slug": "as-suqaylabiyah-sy0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0502",
+        "level": 2,
+        "name": {
+          "local": "السقيلبية",
+          "en": "As-Suqaylabiyah",
+          "slug": "as-suqaylabiyah-sy0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.266",
+      "lon": "36.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الزيارة",
+      "en": "Ziyara",
+      "slug": "ziyara-sy050202"
+    },
+    "code": {
+      "id": "SY050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0502",
+      "level": 2,
+      "name": {
+        "local": "السقيلبية",
+        "en": "As-Suqaylabiyah",
+        "slug": "as-suqaylabiyah-sy0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0502",
+        "level": 2,
+        "name": {
+          "local": "السقيلبية",
+          "en": "As-Suqaylabiyah",
+          "slug": "as-suqaylabiyah-sy0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.66",
+      "lon": "36.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "SY1002",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "بانياس",
+    "en": "Banyas",
+    "slug": "banyas-sy1002"
+  },
+  "code": {
+    "id": "SY1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY10",
+    "level": 1,
+    "name": {
+      "local": "طرطوس",
+      "en": "Tartous",
+      "slug": "tartous-sy10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.15",
+    "lon": "36.001"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "SY0403",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "تلكلخ",
+    "en": "Tall Kalakh",
+    "slug": "tall-kalakh-sy0403"
+  },
+  "code": {
+    "id": "SY0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY04",
+    "level": 1,
+    "name": {
+      "local": "حمص",
+      "en": "Homs",
+      "slug": "homs-sy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.74",
+    "lon": "36.272"
+  },
+  "metadata": {},
+  "source": {}
+}

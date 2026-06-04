@@ -1,0 +1,47 @@
+{
+  "id": "SY0502",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "السقيلبية",
+    "en": "As-Suqaylabiyah",
+    "slug": "as-suqaylabiyah-sy0502"
+  },
+  "code": {
+    "id": "SY0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY05",
+    "level": 1,
+    "name": {
+      "local": "حماة",
+      "en": "Hama",
+      "slug": "hama-sy05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.476",
+    "lon": "36.343"
+  },
+  "metadata": {},
+  "source": {}
+}

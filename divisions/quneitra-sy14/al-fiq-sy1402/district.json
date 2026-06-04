@@ -1,0 +1,47 @@
+{
+  "id": "SY1402",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "فيق",
+    "en": "Al Fiq",
+    "slug": "al-fiq-sy1402"
+  },
+  "code": {
+    "id": "SY1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY14",
+    "level": 1,
+    "name": {
+      "local": "القنيطرة",
+      "en": "Quneitra",
+      "slug": "quneitra-sy14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY14",
+      "level": 1,
+      "name": {
+        "local": "القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.819",
+    "lon": "35.746"
+  },
+  "metadata": {},
+  "source": {}
+}

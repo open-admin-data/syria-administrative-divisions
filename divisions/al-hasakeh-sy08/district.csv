@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+SY0800,مركز الحسكة,Al-Hasakeh,al-hasakeh-sy0800,SY0800,7,36.169,40.653
+SY0803,المالكية,Al-Malikeyyeh,al-malikeyyeh-sy0803,SY0803,3,36.963,41.97
+SY0802,القامشلي,Quamishli,quamishli-sy0802,SY0802,4,36.804,41.471
+SY0804,رأس العين,Ras Al Ain,ras-al-ain-sy0804,SY0804,2,36.657,39.898

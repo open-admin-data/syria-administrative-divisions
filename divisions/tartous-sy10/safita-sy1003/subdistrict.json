@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SY100302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "البارقية",
+      "en": "Bariqiyeh",
+      "slug": "bariqiyeh-sy100302"
+    },
+    "code": {
+      "id": "SY100302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1003",
+      "level": 2,
+      "name": {
+        "local": "صافيتا",
+        "en": "Safita",
+        "slug": "safita-sy1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1003",
+        "level": 2,
+        "name": {
+          "local": "صافيتا",
+          "en": "Safita",
+          "slug": "safita-sy1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.81",
+      "lon": "36.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مشتى الحلو",
+      "en": "Mashta Elhiu",
+      "slug": "mashta-elhiu-sy100301"
+    },
+    "code": {
+      "id": "SY100301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1003",
+      "level": 2,
+      "name": {
+        "local": "صافيتا",
+        "en": "Safita",
+        "slug": "safita-sy1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1003",
+        "level": 2,
+        "name": {
+          "local": "صافيتا",
+          "en": "Safita",
+          "slug": "safita-sy1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.876",
+      "lon": "36.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100305",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "رأس الخشوفة",
+      "en": "Ras El-Khashufeh",
+      "slug": "ras-el-khashufeh-sy100305"
+    },
+    "code": {
+      "id": "SY100305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1003",
+      "level": 2,
+      "name": {
+        "local": "صافيتا",
+        "en": "Safita",
+        "slug": "safita-sy1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1003",
+        "level": 2,
+        "name": {
+          "local": "صافيتا",
+          "en": "Safita",
+          "slug": "safita-sy1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.84",
+      "lon": "36.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز صافيتا",
+      "en": "Safita",
+      "slug": "safita-sy100300"
+    },
+    "code": {
+      "id": "SY100300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1003",
+      "level": 2,
+      "name": {
+        "local": "صافيتا",
+        "en": "Safita",
+        "slug": "safita-sy1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1003",
+        "level": 2,
+        "name": {
+          "local": "صافيتا",
+          "en": "Safita",
+          "slug": "safita-sy1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.827",
+      "lon": "36.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سبة",
+      "en": "Sibbeh",
+      "slug": "sibbeh-sy100303"
+    },
+    "code": {
+      "id": "SY100303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1003",
+      "level": 2,
+      "name": {
+        "local": "صافيتا",
+        "en": "Safita",
+        "slug": "safita-sy1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1003",
+        "level": 2,
+        "name": {
+          "local": "صافيتا",
+          "en": "Safita",
+          "slug": "safita-sy1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.908",
+      "lon": "36.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY100304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السيسنية",
+      "en": "Sisniyyeh",
+      "slug": "sisniyyeh-sy100304"
+    },
+    "code": {
+      "id": "SY100304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1003",
+      "level": 2,
+      "name": {
+        "local": "صافيتا",
+        "en": "Safita",
+        "slug": "safita-sy1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      },
+      {
+        "id": "SY1003",
+        "level": 2,
+        "name": {
+          "local": "صافيتا",
+          "en": "Safita",
+          "slug": "safita-sy1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.761",
+      "lon": "36.152"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

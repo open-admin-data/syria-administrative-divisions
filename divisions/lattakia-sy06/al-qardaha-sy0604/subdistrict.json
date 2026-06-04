@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY060400",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز القرداحة",
+      "en": "Al-Qardaha",
+      "slug": "al-qardaha-sy060400"
+    },
+    "code": {
+      "id": "SY060400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0604",
+      "level": 2,
+      "name": {
+        "local": "القرداحة",
+        "en": "Al-Qardaha",
+        "slug": "al-qardaha-sy0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0604",
+        "level": 2,
+        "name": {
+          "local": "القرداحة",
+          "en": "Al-Qardaha",
+          "slug": "al-qardaha-sy0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.445",
+      "lon": "36.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060402",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الفاخورة",
+      "en": "Fakhura",
+      "slug": "fakhura-sy060402"
+    },
+    "code": {
+      "id": "SY060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0604",
+      "level": 2,
+      "name": {
+        "local": "القرداحة",
+        "en": "Al-Qardaha",
+        "slug": "al-qardaha-sy0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0604",
+        "level": 2,
+        "name": {
+          "local": "القرداحة",
+          "en": "Al-Qardaha",
+          "slug": "al-qardaha-sy0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.48",
+      "lon": "35.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060401",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حرف المسيترة",
+      "en": "Harf Elmseitra",
+      "slug": "harf-elmseitra-sy060401"
+    },
+    "code": {
+      "id": "SY060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0604",
+      "level": 2,
+      "name": {
+        "local": "القرداحة",
+        "en": "Al-Qardaha",
+        "slug": "al-qardaha-sy0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0604",
+        "level": 2,
+        "name": {
+          "local": "القرداحة",
+          "en": "Al-Qardaha",
+          "slug": "al-qardaha-sy0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.387",
+      "lon": "36.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY060403",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "جوبة برغال",
+      "en": "Jobet Berghal",
+      "slug": "jobet-berghal-sy060403"
+    },
+    "code": {
+      "id": "SY060403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0604",
+      "level": 2,
+      "name": {
+        "local": "القرداحة",
+        "en": "Al-Qardaha",
+        "slug": "al-qardaha-sy0604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      },
+      {
+        "id": "SY0604",
+        "level": 2,
+        "name": {
+          "local": "القرداحة",
+          "en": "Al-Qardaha",
+          "slug": "al-qardaha-sy0604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.493",
+      "lon": "36.149"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

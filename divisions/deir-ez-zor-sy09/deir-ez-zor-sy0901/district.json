@@ -1,0 +1,47 @@
+{
+  "id": "SY0901",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مركز دير الزور",
+    "en": "Deir-ez-Zor",
+    "slug": "deir-ez-zor-sy0901"
+  },
+  "code": {
+    "id": "SY0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY09",
+    "level": 1,
+    "name": {
+      "local": "دير الزور",
+      "en": "Deir-ez-Zor",
+      "slug": "deir-ez-zor-sy09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY09",
+      "level": 1,
+      "name": {
+        "local": "دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy09"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.566",
+    "lon": "40.203"
+  },
+  "metadata": {},
+  "source": {}
+}

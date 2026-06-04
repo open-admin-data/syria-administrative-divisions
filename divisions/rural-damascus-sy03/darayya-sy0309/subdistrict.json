@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY030902",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحجر الأسود",
+      "en": "Hajar Aswad",
+      "slug": "hajar-aswad-sy030902"
+    },
+    "code": {
+      "id": "SY030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0309",
+      "level": 2,
+      "name": {
+        "local": "داريا",
+        "en": "Darayya",
+        "slug": "darayya-sy0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0309",
+        "level": 2,
+        "name": {
+          "local": "داريا",
+          "en": "Darayya",
+          "slug": "darayya-sy0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.453",
+      "lon": "36.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030900",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز داريا",
+      "en": "Markaz Darayya",
+      "slug": "markaz-darayya-sy030900"
+    },
+    "code": {
+      "id": "SY030900",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0309",
+      "level": 2,
+      "name": {
+        "local": "داريا",
+        "en": "Darayya",
+        "slug": "darayya-sy0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0309",
+        "level": 2,
+        "name": {
+          "local": "داريا",
+          "en": "Darayya",
+          "slug": "darayya-sy0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.482",
+      "lon": "36.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY030901",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صحنايا",
+      "en": "Sahnaya",
+      "slug": "sahnaya-sy030901"
+    },
+    "code": {
+      "id": "SY030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0309",
+      "level": 2,
+      "name": {
+        "local": "داريا",
+        "en": "Darayya",
+        "slug": "darayya-sy0309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      },
+      {
+        "id": "SY0309",
+        "level": 2,
+        "name": {
+          "local": "داريا",
+          "en": "Darayya",
+          "slug": "darayya-sy0309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.415",
+      "lon": "36.245"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

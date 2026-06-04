@@ -1,0 +1,47 @@
+{
+  "id": "SY0402",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "القصير",
+    "en": "Al-Qusayr",
+    "slug": "al-qusayr-sy0402"
+  },
+  "code": {
+    "id": "SY0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY04",
+    "level": 1,
+    "name": {
+      "local": "حمص",
+      "en": "Homs",
+      "slug": "homs-sy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.512",
+    "lon": "36.51"
+  },
+  "metadata": {},
+  "source": {}
+}

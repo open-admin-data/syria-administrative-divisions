@@ -1,0 +1,47 @@
+{
+  "id": "SY0406",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "المخرم",
+    "en": "Al Makhrim",
+    "slug": "al-makhrim-sy0406"
+  },
+  "code": {
+    "id": "SY0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY04",
+    "level": 1,
+    "name": {
+      "local": "حمص",
+      "en": "Homs",
+      "slug": "homs-sy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.826",
+    "lon": "37.423"
+  },
+  "metadata": {},
+  "source": {}
+}

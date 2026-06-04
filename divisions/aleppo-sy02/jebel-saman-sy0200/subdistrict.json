@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SY020001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "أتارب",
+      "en": "Atareb",
+      "slug": "atareb-sy020001"
+    },
+    "code": {
+      "id": "SY020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.125",
+      "lon": "36.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020004",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دارة عزة",
+      "en": "Daret Azza",
+      "slug": "daret-azza-sy020004"
+    },
+    "code": {
+      "id": "SY020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.26",
+      "lon": "36.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020006",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحاضر",
+      "en": "Hadher",
+      "slug": "hadher-sy020006"
+    },
+    "code": {
+      "id": "SY020006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.972",
+      "lon": "37.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حريتان",
+      "en": "Haritan",
+      "slug": "haritan-sy020003"
+    },
+    "code": {
+      "id": "SY020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.275",
+      "lon": "37.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز جبل سمعان",
+      "en": "Jebel Saman",
+      "slug": "jebel-saman-sy020000"
+    },
+    "code": {
+      "id": "SY020000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.186",
+      "lon": "37.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "تل الضمان",
+      "en": "Tall Ed-daman",
+      "slug": "tall-ed-daman-sy020002"
+    },
+    "code": {
+      "id": "SY020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.773",
+      "lon": "37.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020005",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الزربة",
+      "en": "Zarbah",
+      "slug": "zarbah-sy020005"
+    },
+    "code": {
+      "id": "SY020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0200",
+      "level": 2,
+      "name": {
+        "local": "جبل سمعان",
+        "en": "Jebel Saman",
+        "slug": "jebel-saman-sy0200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0200",
+        "level": 2,
+        "name": {
+          "local": "جبل سمعان",
+          "en": "Jebel Saman",
+          "slug": "jebel-saman-sy0200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.966",
+      "lon": "36.931"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

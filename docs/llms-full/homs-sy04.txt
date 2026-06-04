@@ -1,0 +1,131 @@
+# Homs — Syria Administrative Divisions
+
+> 6 districts, 23 sub-districts
+> Code: SY04
+> Coordinates: 34.465, 38.209
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### المخرم (Al Makhrim)
+
+Code: SY0406, Coordinates: 34.826, 37.423
+Sub-districts: 2
+
+#### المخرم (Al Makhrim)
+
+Code: SY040600, Coordinates: 34.791, 37.144
+
+#### جب الجراح (Jeb Ej-Jarrah)
+
+Code: SY040601, Coordinates: 34.825, 37.551
+
+### القصير (Al-Qusayr)
+
+Code: SY0402, Coordinates: 34.512, 36.51
+Sub-districts: 1
+
+#### مركز القصير (Al-Qusayr)
+
+Code: SY040200, Coordinates: 34.512, 36.51
+
+### الرستن (Ar-Rastan)
+
+Code: SY0404, Coordinates: 34.897, 36.719
+Sub-districts: 2
+
+#### مركز الرستن (Ar-Rastan)
+
+Code: SY040400, Coordinates: 34.922, 36.73
+
+#### تلبيسة (Talbiseh)
+
+Code: SY040401, Coordinates: 34.886, 36.768
+
+### مركز حمص (Homs)
+
+Code: SY0401, Coordinates: 34.442, 37.127
+Sub-districts: 12
+
+#### عين النسر (Ein Elniser)
+
+Code: SY040103, Coordinates: 34.818, 36.902
+
+#### الفرقلس (Farqalas)
+
+Code: SY040104, Coordinates: 34.59, 37.148
+
+#### حسياء (Hasyaa)
+
+Code: SY040108, Coordinates: 34.397, 36.721
+
+#### مركز حمص (Homs)
+
+Code: SY040100, Coordinates: 34.714, 36.783
+
+#### خربة تين نور (Kherbet Tin Noor)
+
+Code: SY040102, Coordinates: 34.718, 36.565
+
+#### مهين (Mahin)
+
+Code: SY040107, Coordinates: 34.252, 37.064
+
+#### القبو (Qabu)
+
+Code: SY040110, Coordinates: 34.845, 36.459
+
+#### القريتين (Qaryatein)
+
+Code: SY040106, Coordinates: 34.286, 37.452
+
+#### الرقاما (Raqama)
+
+Code: SY040105, Coordinates: 34.488, 36.97
+
+#### صدد (Sadad)
+
+Code: SY040109, Coordinates: 34.258, 36.892
+
+#### شين (Shin)
+
+Code: SY040111, Coordinates: 34.811, 36.417
+
+#### تلدو (Taldu)
+
+Code: SY040101, Coordinates: 34.87, 36.583
+
+### تدمر (Tadmor)
+
+Code: SY0405, Coordinates: 34.467, 38.813
+Sub-districts: 2
+
+#### السخنة (Sokhneh)
+
+Code: SY040501, Coordinates: 34.639, 39.278
+
+#### مركز تدمر (Tadmor)
+
+Code: SY040500, Coordinates: 34.273, 38.483
+
+### تلكلخ (Tall Kalakh)
+
+Code: SY0403, Coordinates: 34.74, 36.272
+Sub-districts: 4
+
+#### حديدة (Hadideh)
+
+Code: SY040301, Coordinates: 34.691, 36.396
+
+#### الحواش (Hawash)
+
+Code: SY040304, Coordinates: 34.792, 36.349
+
+#### الناصرة (Nasra)
+
+Code: SY040303, Coordinates: 34.805, 36.292
+
+#### مركز تلكلخ (Tall Kalakh)
+
+Code: SY040300, Coordinates: 34.696, 36.238
+

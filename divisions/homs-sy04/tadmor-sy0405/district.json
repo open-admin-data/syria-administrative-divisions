@@ -1,0 +1,47 @@
+{
+  "id": "SY0405",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "تدمر",
+    "en": "Tadmor",
+    "slug": "tadmor-sy0405"
+  },
+  "code": {
+    "id": "SY0405",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY04",
+    "level": 1,
+    "name": {
+      "local": "حمص",
+      "en": "Homs",
+      "slug": "homs-sy04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.467",
+    "lon": "38.813"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,18 @@
+# Damascus — Syria Administrative Divisions
+
+> 1 districts, 1 sub-districts
+> Code: SY01
+> Coordinates: 33.516, 36.274
+> Last updated: 2026-06-04. License: CC-BY-4.0.
+
+## Districts
+
+### دمشق (Damascus)
+
+Code: SY0100, Coordinates: 33.516, 36.274
+Sub-districts: 1
+
+#### دمشق (Damascus)
+
+Code: SY010000, Coordinates: 33.516, 36.274
+

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "SY0603",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحفة",
+      "en": "Al-Haffa",
+      "slug": "al-haffa-sy0603"
+    },
+    "code": {
+      "id": "SY0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.638",
+      "lon": "36.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0604",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القرداحة",
+      "en": "Al-Qardaha",
+      "slug": "al-qardaha-sy0604"
+    },
+    "code": {
+      "id": "SY0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.441",
+      "lon": "36.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0602",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبلة",
+      "en": "Jablah",
+      "slug": "jablah-sy0602"
+    },
+    "code": {
+      "id": "SY0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.345",
+      "lon": "36.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0600",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز اللاذقية",
+      "en": "Lattakia",
+      "slug": "lattakia-sy0600"
+    },
+    "code": {
+      "id": "SY0600",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.701",
+      "lon": "35.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

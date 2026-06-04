@@ -1,0 +1,47 @@
+{
+  "id": "SY0702",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "معرة النعمان",
+    "en": "Al Ma'ra",
+    "slug": "al-mara-sy0702"
+  },
+  "code": {
+    "id": "SY0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY07",
+    "level": 1,
+    "name": {
+      "local": "إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.566",
+    "lon": "36.779"
+  },
+  "metadata": {},
+  "source": {}
+}

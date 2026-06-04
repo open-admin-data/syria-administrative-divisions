@@ -1,0 +1,56 @@
+[
+  {
+    "id": "SY010000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "دمشق",
+      "en": "Damascus",
+      "slug": "damascus-sy010000"
+    },
+    "code": {
+      "id": "SY010000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0100",
+      "level": 2,
+      "name": {
+        "local": "دمشق",
+        "en": "Damascus",
+        "slug": "damascus-sy0100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY01",
+        "level": 1,
+        "name": {
+          "local": "دمشق",
+          "en": "Damascus",
+          "slug": "damascus-sy01"
+        }
+      },
+      {
+        "id": "SY0100",
+        "level": 2,
+        "name": {
+          "local": "دمشق",
+          "en": "Damascus",
+          "slug": "damascus-sy0100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.516",
+      "lon": "36.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

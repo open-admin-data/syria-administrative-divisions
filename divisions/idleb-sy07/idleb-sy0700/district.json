@@ -1,0 +1,47 @@
+{
+  "id": "SY0700",
+  "level": 2,
+  "level_name": {
+    "local": "منطقة",
+    "en": "District"
+  },
+  "name": {
+    "local": "مركز إدلب",
+    "en": "Idleb",
+    "slug": "idleb-sy0700"
+  },
+  "code": {
+    "id": "SY0700",
+    "iso": null
+  },
+  "parent": {
+    "id": "SY07",
+    "level": 1,
+    "name": {
+      "local": "إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.88",
+    "lon": "36.77"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SY070205",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حيش",
+      "en": "Heish",
+      "slug": "heish-sy070205"
+    },
+    "code": {
+      "id": "SY070205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0702",
+      "level": 2,
+      "name": {
+        "local": "معرة النعمان",
+        "en": "Al Ma'ra",
+        "slug": "al-mara-sy0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0702",
+        "level": 2,
+        "name": {
+          "local": "معرة النعمان",
+          "en": "Al Ma'ra",
+          "slug": "al-mara-sy0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.529",
+      "lon": "36.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070203",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "كفر نبل",
+      "en": "Kafr Nobol",
+      "slug": "kafr-nobol-sy070203"
+    },
+    "code": {
+      "id": "SY070203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0702",
+      "level": 2,
+      "name": {
+        "local": "معرة النعمان",
+        "en": "Al Ma'ra",
+        "slug": "al-mara-sy0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0702",
+        "level": 2,
+        "name": {
+          "local": "معرة النعمان",
+          "en": "Al Ma'ra",
+          "slug": "al-mara-sy0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.571",
+      "lon": "36.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خان شيخون",
+      "en": "Khan Shaykun",
+      "slug": "khan-shaykun-sy070201"
+    },
+    "code": {
+      "id": "SY070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0702",
+      "level": 2,
+      "name": {
+        "local": "معرة النعمان",
+        "en": "Al Ma'ra",
+        "slug": "al-mara-sy0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0702",
+        "level": 2,
+        "name": {
+          "local": "معرة النعمان",
+          "en": "Al Ma'ra",
+          "slug": "al-mara-sy0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.447",
+      "lon": "36.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز معرة النعمان",
+      "en": "Ma'arrat An Nu'man",
+      "slug": "maarrat-an-numan-sy070200"
+    },
+    "code": {
+      "id": "SY070200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0702",
+      "level": 2,
+      "name": {
+        "local": "معرة النعمان",
+        "en": "Al Ma'ra",
+        "slug": "al-mara-sy0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0702",
+        "level": 2,
+        "name": {
+          "local": "معرة النعمان",
+          "en": "Al Ma'ra",
+          "slug": "al-mara-sy0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.653",
+      "lon": "36.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "سنجار",
+      "en": "Sanjar",
+      "slug": "sanjar-sy070202"
+    },
+    "code": {
+      "id": "SY070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0702",
+      "level": 2,
+      "name": {
+        "local": "معرة النعمان",
+        "en": "Al Ma'ra",
+        "slug": "al-mara-sy0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0702",
+        "level": 2,
+        "name": {
+          "local": "معرة النعمان",
+          "en": "Al Ma'ra",
+          "slug": "al-mara-sy0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.577",
+      "lon": "36.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY070204",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "التمانعة",
+      "en": "Tamanaah",
+      "slug": "tamanaah-sy070204"
+    },
+    "code": {
+      "id": "SY070204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0702",
+      "level": 2,
+      "name": {
+        "local": "معرة النعمان",
+        "en": "Al Ma'ra",
+        "slug": "al-mara-sy0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      },
+      {
+        "id": "SY0702",
+        "level": 2,
+        "name": {
+          "local": "معرة النعمان",
+          "en": "Al Ma'ra",
+          "slug": "al-mara-sy0702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.469",
+      "lon": "36.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY140002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الخشنية",
+      "en": "Al-Khashniyyeh",
+      "slug": "al-khashniyyeh-sy140002"
+    },
+    "code": {
+      "id": "SY140002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1400",
+      "level": 2,
+      "name": {
+        "local": "مركز القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy1400"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      },
+      {
+        "id": "SY1400",
+        "level": 2,
+        "name": {
+          "local": "مركز القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy1400"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.972",
+      "lon": "35.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY140001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "خان أرنبة",
+      "en": "Khan Arnaba",
+      "slug": "khan-arnaba-sy140001"
+    },
+    "code": {
+      "id": "SY140001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1400",
+      "level": 2,
+      "name": {
+        "local": "مركز القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy1400"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      },
+      {
+        "id": "SY1400",
+        "level": 2,
+        "name": {
+          "local": "مركز القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy1400"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.197",
+      "lon": "35.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY140003",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مسعدة",
+      "en": "Masaada",
+      "slug": "masaada-sy140003"
+    },
+    "code": {
+      "id": "SY140003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1400",
+      "level": 2,
+      "name": {
+        "local": "مركز القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy1400"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      },
+      {
+        "id": "SY1400",
+        "level": 2,
+        "name": {
+          "local": "مركز القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy1400"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.196",
+      "lon": "35.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY140000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز القنيطرة",
+      "en": "Quneitra",
+      "slug": "quneitra-sy140000"
+    },
+    "code": {
+      "id": "SY140000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1400",
+      "level": 2,
+      "name": {
+        "local": "مركز القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy1400"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      },
+      {
+        "id": "SY1400",
+        "level": 2,
+        "name": {
+          "local": "مركز القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy1400"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.075",
+      "lon": "35.812"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

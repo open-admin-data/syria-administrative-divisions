@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY120200",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز الصنمين",
+      "en": "As-Sanamayn",
+      "slug": "as-sanamayn-sy120200"
+    },
+    "code": {
+      "id": "SY120200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1202",
+      "level": 2,
+      "name": {
+        "local": "الصنمين",
+        "en": "As-Sanamayn",
+        "slug": "as-sanamayn-sy1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1202",
+        "level": 2,
+        "name": {
+          "local": "الصنمين",
+          "en": "As-Sanamayn",
+          "slug": "as-sanamayn-sy1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.028",
+      "lon": "36.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120202",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "غباغب",
+      "en": "Ghabagheb",
+      "slug": "ghabagheb-sy120202"
+    },
+    "code": {
+      "id": "SY120202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1202",
+      "level": 2,
+      "name": {
+        "local": "الصنمين",
+        "en": "As-Sanamayn",
+        "slug": "as-sanamayn-sy1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1202",
+        "level": 2,
+        "name": {
+          "local": "الصنمين",
+          "en": "As-Sanamayn",
+          "slug": "as-sanamayn-sy1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.172",
+      "lon": "36.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY120201",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المسمية",
+      "en": "Masmiyyeh",
+      "slug": "masmiyyeh-sy120201"
+    },
+    "code": {
+      "id": "SY120201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1202",
+      "level": 2,
+      "name": {
+        "local": "الصنمين",
+        "en": "As-Sanamayn",
+        "slug": "as-sanamayn-sy1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      },
+      {
+        "id": "SY1202",
+        "level": 2,
+        "name": {
+          "local": "الصنمين",
+          "en": "As-Sanamayn",
+          "slug": "as-sanamayn-sy1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.143",
+      "lon": "36.407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

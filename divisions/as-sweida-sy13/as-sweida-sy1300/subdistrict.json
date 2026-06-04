@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SY130000",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز السويداء",
+      "en": "As-Sweida",
+      "slug": "as-sweida-sy130000"
+    },
+    "code": {
+      "id": "SY130000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1300",
+      "level": 2,
+      "name": {
+        "local": "مركز السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy1300"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1300",
+        "level": 2,
+        "name": {
+          "local": "مركز السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy1300"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.675",
+      "lon": "36.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY130002",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المشنف",
+      "en": "Mashnaf",
+      "slug": "mashnaf-sy130002"
+    },
+    "code": {
+      "id": "SY130002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1300",
+      "level": 2,
+      "name": {
+        "local": "مركز السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy1300"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1300",
+        "level": 2,
+        "name": {
+          "local": "مركز السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy1300"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.811",
+      "lon": "37.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY130001",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "المزرعة",
+      "en": "Mazra'a",
+      "slug": "mazraa-sy130001"
+    },
+    "code": {
+      "id": "SY130001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY1300",
+      "level": 2,
+      "name": {
+        "local": "مركز السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy1300"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      },
+      {
+        "id": "SY1300",
+        "level": 2,
+        "name": {
+          "local": "مركز السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy1300"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.809",
+      "lon": "36.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.subdistrict,geo.lat,geo.lon
+SY0204,اعزاز,A'zaz,azaz-sy0204,SY0204,6,36.467,37.208
+SY0203,عفرين,Afrin,afrin-sy0203,SY0203,7,36.574,36.794
+SY0206,عين العرب,Ain Al Arab,ain-al-arab-sy0206,SY0206,3,36.533,38.471
+SY0202,الباب,Al Bab,al-bab-sy0202,SY0202,7,36.39,37.544
+SY0207,السفيرة,As-Safira,as-safira-sy0207,SY0207,4,35.814,37.525
+SY0208,جرابلس,Jarablus,jarablus-sy0208,SY0208,2,36.678,37.862
+SY0200,جبل سمعان,Jebel Saman,jebel-saman-sy0200,SY0200,7,35.94,37.073
+SY0205,منبج,Menbij,menbij-sy0205,SY0205,4,36.028,37.901

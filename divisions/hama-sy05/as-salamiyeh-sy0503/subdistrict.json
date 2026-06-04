@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SY050302",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "السعن",
+      "en": "As-Saan",
+      "slug": "as-saan-sy050302"
+    },
+    "code": {
+      "id": "SY050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0503",
+      "level": 2,
+      "name": {
+        "local": "السلمية",
+        "en": "As-Salamiyeh",
+        "slug": "as-salamiyeh-sy0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0503",
+        "level": 2,
+        "name": {
+          "local": "السلمية",
+          "en": "As-Salamiyeh",
+          "slug": "as-salamiyeh-sy0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.323",
+      "lon": "37.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050300",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز السلمية",
+      "en": "As-Salamiyeh",
+      "slug": "as-salamiyeh-sy050300"
+    },
+    "code": {
+      "id": "SY050300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0503",
+      "level": 2,
+      "name": {
+        "local": "السلمية",
+        "en": "As-Salamiyeh",
+        "slug": "as-salamiyeh-sy0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0503",
+        "level": 2,
+        "name": {
+          "local": "السلمية",
+          "en": "As-Salamiyeh",
+          "slug": "as-salamiyeh-sy0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.089",
+      "lon": "37.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050301",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "بري شرقي",
+      "en": "Eastern Bari",
+      "slug": "eastern-bari-sy050301"
+    },
+    "code": {
+      "id": "SY050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0503",
+      "level": 2,
+      "name": {
+        "local": "السلمية",
+        "en": "As-Salamiyeh",
+        "slug": "as-salamiyeh-sy0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0503",
+        "level": 2,
+        "name": {
+          "local": "السلمية",
+          "en": "As-Salamiyeh",
+          "slug": "as-salamiyeh-sy0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.998",
+      "lon": "37.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050304",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "عقيربات",
+      "en": "Oqeirbat",
+      "slug": "oqeirbat-sy050304"
+    },
+    "code": {
+      "id": "SY050304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0503",
+      "level": 2,
+      "name": {
+        "local": "السلمية",
+        "en": "As-Salamiyeh",
+        "slug": "as-salamiyeh-sy0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0503",
+        "level": 2,
+        "name": {
+          "local": "السلمية",
+          "en": "As-Salamiyeh",
+          "slug": "as-salamiyeh-sy0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.139",
+      "lon": "37.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050303",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صبورة",
+      "en": "Saboura",
+      "slug": "saboura-sy050303"
+    },
+    "code": {
+      "id": "SY050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0503",
+      "level": 2,
+      "name": {
+        "local": "السلمية",
+        "en": "As-Salamiyeh",
+        "slug": "as-salamiyeh-sy0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0503",
+        "level": 2,
+        "name": {
+          "local": "السلمية",
+          "en": "As-Salamiyeh",
+          "slug": "as-salamiyeh-sy0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.166",
+      "lon": "37.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

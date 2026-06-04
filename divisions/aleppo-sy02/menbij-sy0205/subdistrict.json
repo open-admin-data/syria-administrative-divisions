@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY020501",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "أبو قلقل",
+      "en": "Abu Qalqal",
+      "slug": "abu-qalqal-sy020501"
+    },
+    "code": {
+      "id": "SY020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0205",
+      "level": 2,
+      "name": {
+        "local": "منبج",
+        "en": "Menbij",
+        "slug": "menbij-sy0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0205",
+        "level": 2,
+        "name": {
+          "local": "منبج",
+          "en": "Menbij",
+          "slug": "menbij-sy0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.417",
+      "lon": "38.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020502",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الخفسة",
+      "en": "Al-Khafsa",
+      "slug": "al-khafsa-sy020502"
+    },
+    "code": {
+      "id": "SY020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0205",
+      "level": 2,
+      "name": {
+        "local": "منبج",
+        "en": "Menbij",
+        "slug": "menbij-sy0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0205",
+        "level": 2,
+        "name": {
+          "local": "منبج",
+          "en": "Menbij",
+          "slug": "menbij-sy0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.87",
+      "lon": "37.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020503",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مسكنة",
+      "en": "Maskana",
+      "slug": "maskana-sy020503"
+    },
+    "code": {
+      "id": "SY020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0205",
+      "level": 2,
+      "name": {
+        "local": "منبج",
+        "en": "Menbij",
+        "slug": "menbij-sy0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0205",
+        "level": 2,
+        "name": {
+          "local": "منبج",
+          "en": "Menbij",
+          "slug": "menbij-sy0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.99",
+      "lon": "38.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY020500",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز منبج",
+      "en": "Menbij",
+      "slug": "menbij-sy020500"
+    },
+    "code": {
+      "id": "SY020500",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0205",
+      "level": 2,
+      "name": {
+        "local": "منبج",
+        "en": "Menbij",
+        "slug": "menbij-sy0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      },
+      {
+        "id": "SY0205",
+        "level": 2,
+        "name": {
+          "local": "منبج",
+          "en": "Menbij",
+          "slug": "menbij-sy0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.459",
+      "lon": "37.864"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

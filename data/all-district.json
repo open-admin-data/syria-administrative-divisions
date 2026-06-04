@@ -1,0 +1,2916 @@
+[
+  {
+    "id": "SY0204",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "اعزاز",
+      "en": "A'zaz",
+      "slug": "azaz-sy0204"
+    },
+    "code": {
+      "id": "SY0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.467",
+      "lon": "37.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0902",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "البوكمال",
+      "en": "Abu Kamal",
+      "slug": "abu-kamal-sy0902"
+    },
+    "code": {
+      "id": "SY0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY09",
+      "level": 1,
+      "name": {
+        "local": "دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.588",
+      "lon": "40.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0203",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "عفرين",
+      "en": "Afrin",
+      "slug": "afrin-sy0203"
+    },
+    "code": {
+      "id": "SY0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.574",
+      "lon": "36.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0206",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "عين العرب",
+      "en": "Ain Al Arab",
+      "slug": "ain-al-arab-sy0206"
+    },
+    "code": {
+      "id": "SY0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.533",
+      "lon": "38.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0603",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الحفة",
+      "en": "Al-Haffa",
+      "slug": "al-haffa-sy0603"
+    },
+    "code": {
+      "id": "SY0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.638",
+      "lon": "36.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0800",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز الحسكة",
+      "en": "Al-Hasakeh",
+      "slug": "al-hasakeh-sy0800"
+    },
+    "code": {
+      "id": "SY0800",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.169",
+      "lon": "40.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0803",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "المالكية",
+      "en": "Al-Malikeyyeh",
+      "slug": "al-malikeyyeh-sy0803"
+    },
+    "code": {
+      "id": "SY0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.963",
+      "lon": "41.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0604",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القرداحة",
+      "en": "Al-Qardaha",
+      "slug": "al-qardaha-sy0604"
+    },
+    "code": {
+      "id": "SY0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.441",
+      "lon": "36.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0402",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القصير",
+      "en": "Al-Qusayr",
+      "slug": "al-qusayr-sy0402"
+    },
+    "code": {
+      "id": "SY0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.512",
+      "lon": "36.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0202",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الباب",
+      "en": "Al Bab",
+      "slug": "al-bab-sy0202"
+    },
+    "code": {
+      "id": "SY0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.39",
+      "lon": "37.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1402",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "فيق",
+      "en": "Al Fiq",
+      "slug": "al-fiq-sy1402"
+    },
+    "code": {
+      "id": "SY1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY14",
+      "level": 1,
+      "name": {
+        "local": "القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.819",
+      "lon": "35.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0702",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "معرة النعمان",
+      "en": "Al Ma'ra",
+      "slug": "al-mara-sy0702"
+    },
+    "code": {
+      "id": "SY0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.566",
+      "lon": "36.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0406",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "المخرم",
+      "en": "Al Makhrim",
+      "slug": "al-makhrim-sy0406"
+    },
+    "code": {
+      "id": "SY0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.826",
+      "lon": "37.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0903",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الميادين",
+      "en": "Al Mayadin",
+      "slug": "al-mayadin-sy0903"
+    },
+    "code": {
+      "id": "SY0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY09",
+      "level": 1,
+      "name": {
+        "local": "دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.937",
+      "lon": "40.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0303",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القطيفة",
+      "en": "Al Qutayfah",
+      "slug": "al-qutayfah-sy0303"
+    },
+    "code": {
+      "id": "SY0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.814",
+      "lon": "36.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0306",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "النبك",
+      "en": "An Nabk",
+      "slug": "an-nabk-sy0306"
+    },
+    "code": {
+      "id": "SY0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.043",
+      "lon": "36.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1101",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز الرقة",
+      "en": "Ar-Raqqa",
+      "slug": "ar-raqqa-sy1101"
+    },
+    "code": {
+      "id": "SY1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY11",
+      "level": 1,
+      "name": {
+        "local": "الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.827",
+      "lon": "39.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0404",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الرستن",
+      "en": "Ar-Rastan",
+      "slug": "ar-rastan-sy0404"
+    },
+    "code": {
+      "id": "SY0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.897",
+      "lon": "36.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0705",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "أريحا",
+      "en": "Ariha",
+      "slug": "ariha-sy0705"
+    },
+    "code": {
+      "id": "SY0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.773",
+      "lon": "36.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0207",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "السفيرة",
+      "en": "As-Safira",
+      "slug": "as-safira-sy0207"
+    },
+    "code": {
+      "id": "SY0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.814",
+      "lon": "37.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0503",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "السلمية",
+      "en": "As-Salamiyeh",
+      "slug": "as-salamiyeh-sy0503"
+    },
+    "code": {
+      "id": "SY0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.174",
+      "lon": "37.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1202",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الصنمين",
+      "en": "As-Sanamayn",
+      "slug": "as-sanamayn-sy1202"
+    },
+    "code": {
+      "id": "SY1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.104",
+      "lon": "36.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0502",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "السقيلبية",
+      "en": "As-Suqaylabiyah",
+      "slug": "as-suqaylabiyah-sy0502"
+    },
+    "code": {
+      "id": "SY0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "36.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1300",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز السويداء",
+      "en": "As-Sweida",
+      "slug": "as-sweida-sy1300"
+    },
+    "code": {
+      "id": "SY1300",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.771",
+      "lon": "36.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0304",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "التل",
+      "en": "At Tall",
+      "slug": "at-tall-sy0304"
+    },
+    "code": {
+      "id": "SY0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.7",
+      "lon": "36.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1103",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الثورة",
+      "en": "Ath-Thawrah",
+      "slug": "ath-thawrah-sy1103"
+    },
+    "code": {
+      "id": "SY1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY11",
+      "level": 1,
+      "name": {
+        "local": "الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.811",
+      "lon": "38.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0307",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الزبداني",
+      "en": "Az-Zabdani",
+      "slug": "az-zabdani-sy0307"
+    },
+    "code": {
+      "id": "SY0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.701",
+      "lon": "36.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1002",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "بانياس",
+      "en": "Banyas",
+      "slug": "banyas-sy1002"
+    },
+    "code": {
+      "id": "SY1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.15",
+      "lon": "36.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0100",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "دمشق",
+      "en": "Damascus",
+      "slug": "damascus-sy0100"
+    },
+    "code": {
+      "id": "SY0100",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY01",
+      "level": 1,
+      "name": {
+        "local": "دمشق",
+        "en": "Damascus",
+        "slug": "damascus-sy01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY01",
+        "level": 1,
+        "name": {
+          "local": "دمشق",
+          "en": "Damascus",
+          "slug": "damascus-sy01"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.516",
+      "lon": "36.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1200",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "درعا",
+      "en": "Dar'a",
+      "slug": "dara-sy1200"
+    },
+    "code": {
+      "id": "SY1200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.621",
+      "lon": "36.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0309",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "داريا",
+      "en": "Darayya",
+      "slug": "darayya-sy0309"
+    },
+    "code": {
+      "id": "SY0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.454",
+      "lon": "36.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0901",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز دير الزور",
+      "en": "Deir-ez-Zor",
+      "slug": "deir-ez-zor-sy0901"
+    },
+    "code": {
+      "id": "SY0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY09",
+      "level": 1,
+      "name": {
+        "local": "دير الزور",
+        "en": "Deir-ez-Zor",
+        "slug": "deir-ez-zor-sy09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY09",
+        "level": 1,
+        "name": {
+          "local": "دير الزور",
+          "en": "Deir-ez-Zor",
+          "slug": "deir-ez-zor-sy09"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.566",
+      "lon": "40.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1004",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "دريكيش",
+      "en": "Dreikish",
+      "slug": "dreikish-sy1004"
+    },
+    "code": {
+      "id": "SY1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.928",
+      "lon": "36.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0302",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "دوما",
+      "en": "Duma",
+      "slug": "duma-sy0302"
+    },
+    "code": {
+      "id": "SY0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.326",
+      "lon": "37.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0501",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز حماة",
+      "en": "Hama",
+      "slug": "hama-sy0501"
+    },
+    "code": {
+      "id": "SY0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.226",
+      "lon": "36.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0703",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "حارم",
+      "en": "Harim",
+      "slug": "harim-sy0703"
+    },
+    "code": {
+      "id": "SY0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.123",
+      "lon": "36.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0401",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز حمص",
+      "en": "Homs",
+      "slug": "homs-sy0401"
+    },
+    "code": {
+      "id": "SY0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.442",
+      "lon": "37.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0700",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز إدلب",
+      "en": "Idleb",
+      "slug": "idleb-sy0700"
+    },
+    "code": {
+      "id": "SY0700",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.88",
+      "lon": "36.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1203",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "ازرع",
+      "en": "Izra'",
+      "slug": "izra-sy1203"
+    },
+    "code": {
+      "id": "SY1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY12",
+      "level": 1,
+      "name": {
+        "local": "درعا",
+        "en": "Dar'a",
+        "slug": "dara-sy12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY12",
+        "level": 1,
+        "name": {
+          "local": "درعا",
+          "en": "Dar'a",
+          "slug": "dara-sy12"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.866",
+      "lon": "36.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0602",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبلة",
+      "en": "Jablah",
+      "slug": "jablah-sy0602"
+    },
+    "code": {
+      "id": "SY0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.345",
+      "lon": "36.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0208",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جرابلس",
+      "en": "Jarablus",
+      "slug": "jarablus-sy0208"
+    },
+    "code": {
+      "id": "SY0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.678",
+      "lon": "37.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0200",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل سمعان",
+      "en": "Jebel Saman",
+      "slug": "jebel-saman-sy0200"
+    },
+    "code": {
+      "id": "SY0200",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.94",
+      "lon": "37.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0704",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "جسر الشغور",
+      "en": "Jisr-Ash-Shugur",
+      "slug": "jisr-ash-shugur-sy0704"
+    },
+    "code": {
+      "id": "SY0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY07",
+      "level": 1,
+      "name": {
+        "local": "إدلب",
+        "en": "Idleb",
+        "slug": "idleb-sy07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY07",
+        "level": 1,
+        "name": {
+          "local": "إدلب",
+          "en": "Idleb",
+          "slug": "idleb-sy07"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.882",
+      "lon": "36.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0600",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز اللاذقية",
+      "en": "Lattakia",
+      "slug": "lattakia-sy0600"
+    },
+    "code": {
+      "id": "SY0600",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY06",
+      "level": 1,
+      "name": {
+        "local": "اللاذقية",
+        "en": "Lattakia",
+        "slug": "lattakia-sy06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY06",
+        "level": 1,
+        "name": {
+          "local": "اللاذقية",
+          "en": "Lattakia",
+          "slug": "lattakia-sy06"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.701",
+      "lon": "35.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0504",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مصياف",
+      "en": "Masyaf",
+      "slug": "masyaf-sy0504"
+    },
+    "code": {
+      "id": "SY0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.05",
+      "lon": "36.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0205",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "منبج",
+      "en": "Menbij",
+      "slug": "menbij-sy0205"
+    },
+    "code": {
+      "id": "SY0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY02",
+      "level": 1,
+      "name": {
+        "local": "حلب",
+        "en": "Aleppo",
+        "slug": "aleppo-sy02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY02",
+        "level": 1,
+        "name": {
+          "local": "حلب",
+          "en": "Aleppo",
+          "slug": "aleppo-sy02"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.028",
+      "lon": "37.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0505",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "محردة",
+      "en": "Muhradah",
+      "slug": "muhradah-sy0505"
+    },
+    "code": {
+      "id": "SY0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.29",
+      "lon": "36.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1006",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القدموس",
+      "en": "Qadmous",
+      "slug": "qadmous-sy1006"
+    },
+    "code": {
+      "id": "SY1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.148",
+      "lon": "36.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0308",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "قطنا",
+      "en": "Qatana",
+      "slug": "qatana-sy0308"
+    },
+    "code": {
+      "id": "SY0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.361",
+      "lon": "35.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0802",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القامشلي",
+      "en": "Quamishli",
+      "slug": "quamishli-sy0802"
+    },
+    "code": {
+      "id": "SY0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.804",
+      "lon": "41.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1400",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز القنيطرة",
+      "en": "Quneitra",
+      "slug": "quneitra-sy1400"
+    },
+    "code": {
+      "id": "SY1400",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY14",
+      "level": 1,
+      "name": {
+        "local": "القنيطرة",
+        "en": "Quneitra",
+        "slug": "quneitra-sy14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY14",
+        "level": 1,
+        "name": {
+          "local": "القنيطرة",
+          "en": "Quneitra",
+          "slug": "quneitra-sy14"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.118",
+      "lon": "35.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0804",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "رأس العين",
+      "en": "Ras Al Ain",
+      "slug": "ras-al-ain-sy0804"
+    },
+    "code": {
+      "id": "SY0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY08",
+      "level": 1,
+      "name": {
+        "local": "الحسكة",
+        "en": "Al-Hasakeh",
+        "slug": "al-hasakeh-sy08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY08",
+        "level": 1,
+        "name": {
+          "local": "الحسكة",
+          "en": "Al-Hasakeh",
+          "slug": "al-hasakeh-sy08"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.657",
+      "lon": "39.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0301",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز ريف دمشق",
+      "en": "Rural Damascus",
+      "slug": "rural-damascus-sy0301"
+    },
+    "code": {
+      "id": "SY0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.364",
+      "lon": "36.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1003",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "صافيتا",
+      "en": "Safita",
+      "slug": "safita-sy1003"
+    },
+    "code": {
+      "id": "SY1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.812",
+      "lon": "36.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1302",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "صلخد",
+      "en": "Salkhad",
+      "slug": "salkhad-sy1302"
+    },
+    "code": {
+      "id": "SY1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.499",
+      "lon": "36.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1303",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهبا",
+      "en": "Shahba",
+      "slug": "shahba-sy1303"
+    },
+    "code": {
+      "id": "SY1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY13",
+      "level": 1,
+      "name": {
+        "local": "السويداء",
+        "en": "As-Sweida",
+        "slug": "as-sweida-sy13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY13",
+        "level": 1,
+        "name": {
+          "local": "السويداء",
+          "en": "As-Sweida",
+          "slug": "as-sweida-sy13"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "32.986",
+      "lon": "36.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1005",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشيخ بدر",
+      "en": "Sheikh Badr",
+      "slug": "sheikh-badr-sy1005"
+    },
+    "code": {
+      "id": "SY1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.023",
+      "lon": "36.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0405",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "تدمر",
+      "en": "Tadmor",
+      "slug": "tadmor-sy0405"
+    },
+    "code": {
+      "id": "SY0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.467",
+      "lon": "38.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0403",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "تلكلخ",
+      "en": "Tall Kalakh",
+      "slug": "tall-kalakh-sy0403"
+    },
+    "code": {
+      "id": "SY0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY04",
+      "level": 1,
+      "name": {
+        "local": "حمص",
+        "en": "Homs",
+        "slug": "homs-sy04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY04",
+        "level": 1,
+        "name": {
+          "local": "حمص",
+          "en": "Homs",
+          "slug": "homs-sy04"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.74",
+      "lon": "36.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1000",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز طرطوس",
+      "en": "Tartous",
+      "slug": "tartous-sy1000"
+    },
+    "code": {
+      "id": "SY1000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.851",
+      "lon": "35.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1102",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "تل أبيض",
+      "en": "Tell Abiad",
+      "slug": "tell-abiad-sy1102"
+    },
+    "code": {
+      "id": "SY1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY11",
+      "level": 1,
+      "name": {
+        "local": "الرقة",
+        "en": "Ar-Raqqa",
+        "slug": "ar-raqqa-sy11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY11",
+        "level": 1,
+        "name": {
+          "local": "الرقة",
+          "en": "Ar-Raqqa",
+          "slug": "ar-raqqa-sy11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "36.35",
+      "lon": "39.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0305",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "يبرود",
+      "en": "Yabroud",
+      "slug": "yabroud-sy0305"
+    },
+    "code": {
+      "id": "SY0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY03",
+      "level": 1,
+      "name": {
+        "local": "ريف دمشق",
+        "en": "Rural Damascus",
+        "slug": "rural-damascus-sy03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY03",
+        "level": 1,
+        "name": {
+          "local": "ريف دمشق",
+          "en": "Rural Damascus",
+          "slug": "rural-damascus-sy03"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "33.938",
+      "lon": "36.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

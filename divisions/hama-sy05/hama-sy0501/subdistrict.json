@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SY050100",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "مركز حماة",
+      "en": "Hama",
+      "slug": "hama-sy050100"
+    },
+    "code": {
+      "id": "SY050100",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0501",
+      "level": 2,
+      "name": {
+        "local": "مركز حماة",
+        "en": "Hama",
+        "slug": "hama-sy0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0501",
+        "level": 2,
+        "name": {
+          "local": "مركز حماة",
+          "en": "Hama",
+          "slug": "hama-sy0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.117",
+      "lon": "36.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050103",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "الحمراء",
+      "en": "Hamra",
+      "slug": "hamra-sy050103"
+    },
+    "code": {
+      "id": "SY050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0501",
+      "level": 2,
+      "name": {
+        "local": "مركز حماة",
+        "en": "Hama",
+        "slug": "hama-sy0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0501",
+        "level": 2,
+        "name": {
+          "local": "مركز حماة",
+          "en": "Hama",
+          "slug": "hama-sy0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.394",
+      "lon": "37.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050102",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "حربنفسه",
+      "en": "Harbanifse",
+      "slug": "harbanifse-sy050102"
+    },
+    "code": {
+      "id": "SY050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0501",
+      "level": 2,
+      "name": {
+        "local": "مركز حماة",
+        "en": "Hama",
+        "slug": "hama-sy0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0501",
+        "level": 2,
+        "name": {
+          "local": "مركز حماة",
+          "en": "Hama",
+          "slug": "hama-sy0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.978",
+      "lon": "36.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY050101",
+    "level": 3,
+    "level_name": {
+      "local": "ناحية",
+      "en": "Sub-district"
+    },
+    "name": {
+      "local": "صوران",
+      "en": "Suran",
+      "slug": "suran-sy050101"
+    },
+    "code": {
+      "id": "SY050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY0501",
+      "level": 2,
+      "name": {
+        "local": "مركز حماة",
+        "en": "Hama",
+        "slug": "hama-sy0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      },
+      {
+        "id": "SY0501",
+        "level": 2,
+        "name": {
+          "local": "مركز حماة",
+          "en": "Hama",
+          "slug": "hama-sy0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.299",
+      "lon": "36.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

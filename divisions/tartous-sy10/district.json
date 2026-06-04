@@ -1,0 +1,284 @@
+[
+  {
+    "id": "SY1002",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "بانياس",
+      "en": "Banyas",
+      "slug": "banyas-sy1002"
+    },
+    "code": {
+      "id": "SY1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.15",
+      "lon": "36.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1004",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "دريكيش",
+      "en": "Dreikish",
+      "slug": "dreikish-sy1004"
+    },
+    "code": {
+      "id": "SY1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.928",
+      "lon": "36.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1006",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "القدموس",
+      "en": "Qadmous",
+      "slug": "qadmous-sy1006"
+    },
+    "code": {
+      "id": "SY1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.148",
+      "lon": "36.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1003",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "صافيتا",
+      "en": "Safita",
+      "slug": "safita-sy1003"
+    },
+    "code": {
+      "id": "SY1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.812",
+      "lon": "36.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1005",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "الشيخ بدر",
+      "en": "Sheikh Badr",
+      "slug": "sheikh-badr-sy1005"
+    },
+    "code": {
+      "id": "SY1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.023",
+      "lon": "36.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY1000",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز طرطوس",
+      "en": "Tartous",
+      "slug": "tartous-sy1000"
+    },
+    "code": {
+      "id": "SY1000",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY10",
+      "level": 1,
+      "name": {
+        "local": "طرطوس",
+        "en": "Tartous",
+        "slug": "tartous-sy10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY10",
+        "level": 1,
+        "name": {
+          "local": "طرطوس",
+          "en": "Tartous",
+          "slug": "tartous-sy10"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "34.851",
+      "lon": "35.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

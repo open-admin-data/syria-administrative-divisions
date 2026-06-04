@@ -1,0 +1,237 @@
+[
+  {
+    "id": "SY0503",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "السلمية",
+      "en": "As-Salamiyeh",
+      "slug": "as-salamiyeh-sy0503"
+    },
+    "code": {
+      "id": "SY0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.174",
+      "lon": "37.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0502",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "السقيلبية",
+      "en": "As-Suqaylabiyah",
+      "slug": "as-suqaylabiyah-sy0502"
+    },
+    "code": {
+      "id": "SY0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.476",
+      "lon": "36.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0501",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مركز حماة",
+      "en": "Hama",
+      "slug": "hama-sy0501"
+    },
+    "code": {
+      "id": "SY0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.226",
+      "lon": "36.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0504",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "مصياف",
+      "en": "Masyaf",
+      "slug": "masyaf-sy0504"
+    },
+    "code": {
+      "id": "SY0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.05",
+      "lon": "36.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SY0505",
+    "level": 2,
+    "level_name": {
+      "local": "منطقة",
+      "en": "District"
+    },
+    "name": {
+      "local": "محردة",
+      "en": "Muhradah",
+      "slug": "muhradah-sy0505"
+    },
+    "code": {
+      "id": "SY0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SY05",
+      "level": 1,
+      "name": {
+        "local": "حماة",
+        "en": "Hama",
+        "slug": "hama-sy05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SY05",
+        "level": 1,
+        "name": {
+          "local": "حماة",
+          "en": "Hama",
+          "slug": "hama-sy05"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "35.29",
+      "lon": "36.548"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
