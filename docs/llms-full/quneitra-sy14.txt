@@ -3,7 +3,7 @@
 > 2 districts, 6 sub-districts
 > Code: SY14
 > Coordinates: 33.017, 35.797
-> Last updated: 2026-06-04. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

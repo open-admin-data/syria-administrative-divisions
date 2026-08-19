@@ -3,7 +3,7 @@
 > 3 districts, 14 sub-districts
 > Code: SY09
 > Coordinates: 35.201, 40.295
-> Last updated: 2026-06-04. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-04 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/sy](https://openadmindata.org/sy/) |
 | API | [openadmindata.org/api/sy](https://openadmindata.org/api/sy/) |
+| National Anthem | [🎵 Listen & Download Syria National Anthem MP3](https://onlygames.me/national-anthems/sy/) |
 
 ## Browse by Governorate
 

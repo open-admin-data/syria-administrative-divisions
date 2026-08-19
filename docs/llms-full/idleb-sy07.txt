@@ -3,7 +3,7 @@
 > 5 districts, 26 sub-districts
 > Code: SY07
 > Coordinates: 35.858, 36.571
-> Last updated: 2026-06-04. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

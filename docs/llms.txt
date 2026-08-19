@@ -10,7 +10,7 @@
 - Total districts: 62
 - Total sub-districts: 272
 - Coordinates: included (all levels)
-- Last updated: 2026-06-04
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

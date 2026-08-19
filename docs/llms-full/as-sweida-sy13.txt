@@ -3,7 +3,7 @@
 > 3 districts, 12 sub-districts
 > Code: SY13
 > Coordinates: 32.756, 36.895
-> Last updated: 2026-06-04. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

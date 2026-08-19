@@ -3,7 +3,7 @@
 > 4 districts, 22 sub-districts
 > Code: SY06
 > Coordinates: 35.581, 35.991
-> Last updated: 2026-06-04. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
