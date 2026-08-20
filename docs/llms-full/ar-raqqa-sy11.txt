@@ -3,7 +3,7 @@
 > 3 districts, 10 sub-districts
 > Code: SY11
 > Coordinates: 36.023, 38.921
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 3 districts, 17 sub-districts
 > Code: SY12
 > Coordinates: 32.83, 36.112
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
