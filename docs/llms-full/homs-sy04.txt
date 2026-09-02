@@ -3,7 +3,7 @@
 > 6 districts, 23 sub-districts
 > Code: SY04
 > Coordinates: 34.465, 38.209
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
